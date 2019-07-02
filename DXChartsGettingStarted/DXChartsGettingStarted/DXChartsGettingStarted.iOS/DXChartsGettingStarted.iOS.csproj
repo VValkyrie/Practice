@@ -142,6 +142,12 @@
     </ImageAsset>
   </ItemGroup>
   <ItemGroup>
+    <Reference Include="DevExpress.Xamarin.iOS.Charts">
+      <HintPath>C:\Users\student22\Desktop\DevExpress.MobileUI.XamarinForms-19.1.2-20190515\DevExpress.Xamarin\Binaries\DevExpress.Xamarin.iOS.Charts.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XamarinForms.Charts.iOS">
+      <HintPath>C:\Users\student22\Desktop\DevExpress.MobileUI.XamarinForms-19.1.2-20190515\DevExpress.Xamarin\Binaries\DevExpress.XamarinForms.Charts.iOS.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />

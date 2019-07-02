@@ -12,4 +12,19 @@
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="3.4.0.1008975" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DevExpress.Xamarin.Android.Charts">
+      <HintPath>C:\Users\student22\Desktop\DevExpress.MobileUI.XamarinForms-19.1.2-20190515\DevExpress.Xamarin\Binaries\DevExpress.Xamarin.Android.Charts.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XamarinForms.Charts">
+      <HintPath>C:\Users\student22\Desktop\DevExpress.MobileUI.XamarinForms-19.1.2-20190515\DevExpress.Xamarin\Binaries\DevExpress.XamarinForms.Charts.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XamarinForms.Charts.Android">
+      <HintPath>C:\Users\student22\Desktop\DevExpress.MobileUI.XamarinForms-19.1.2-20190515\DevExpress.Xamarin\Binaries\DevExpress.XamarinForms.Charts.Android.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XamarinForms.Core">
+      <HintPath>C:\Users\student22\Desktop\DevExpress.MobileUI.XamarinForms-19.1.2-20190515\DevExpress.Xamarin\Binaries\DevExpress.XamarinForms.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
 </Project>

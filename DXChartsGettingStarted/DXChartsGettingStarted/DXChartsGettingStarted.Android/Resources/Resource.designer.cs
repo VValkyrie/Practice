@@ -26,6 +26,2452 @@ namespace DXChartsGettingStarted.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Animation.abc_fade_in = global::DXChartsGettingStarted.Droid.Resource.Animation.abc_fade_in;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Animation.abc_fade_out = global::DXChartsGettingStarted.Droid.Resource.Animation.abc_fade_out;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::DXChartsGettingStarted.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Animation.abc_popup_enter = global::DXChartsGettingStarted.Droid.Resource.Animation.abc_popup_enter;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Animation.abc_popup_exit = global::DXChartsGettingStarted.Droid.Resource.Animation.abc_popup_exit;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Animation.abc_shrink_fade_out_from_bottom = global::DXChartsGettingStarted.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Animation.abc_slide_in_bottom = global::DXChartsGettingStarted.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Animation.abc_slide_in_top = global::DXChartsGettingStarted.Droid.Resource.Animation.abc_slide_in_top;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Animation.abc_slide_out_bottom = global::DXChartsGettingStarted.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Animation.abc_slide_out_top = global::DXChartsGettingStarted.Droid.Resource.Animation.abc_slide_out_top;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Animation.design_bottom_sheet_slide_in = global::DXChartsGettingStarted.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Animation.design_bottom_sheet_slide_out = global::DXChartsGettingStarted.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Animation.design_snackbar_in = global::DXChartsGettingStarted.Droid.Resource.Animation.design_snackbar_in;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Animation.design_snackbar_out = global::DXChartsGettingStarted.Droid.Resource.Animation.design_snackbar_out;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Animator.design_appbar_state_list_animator = global::DXChartsGettingStarted.Droid.Resource.Animator.design_appbar_state_list_animator;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Array.chart_palette_default = global::DXChartsGettingStarted.Droid.Resource.Array.chart_palette_default;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionBarDivider = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionBarDivider;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionBarItemBackground = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionBarItemBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionBarPopupTheme = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionBarSize = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionBarSize;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionBarSplitStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionBarStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionBarStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionBarTabBarStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionBarTabStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionBarTabStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionBarTabTextStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionBarTheme = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionBarTheme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionBarWidgetTheme = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionButtonStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionButtonStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionDropDownStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionDropDownStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionLayout = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionMenuTextAppearance = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionMenuTextColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionMenuTextColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionModeBackground = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionModeBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionModeCloseButtonStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionModeCloseDrawable = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionModeCopyDrawable = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionModeCutDrawable = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionModeFindDrawable = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionModePasteDrawable = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionModePopupWindowStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionModeSelectAllDrawable = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionModeShareDrawable = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionModeSplitBackground = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionModeStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionModeStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionModeWebSearchDrawable = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionOverflowButtonStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionOverflowMenuStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionProviderClass = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionProviderClass;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.actionViewClass = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionViewClass;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.activityChooserViewStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.alertDialogButtonGroupStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.alertDialogCenterButtons = global::DXChartsGettingStarted.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.alertDialogStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.alertDialogStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.alertDialogTheme = global::DXChartsGettingStarted.Droid.Resource.Attribute.alertDialogTheme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.allowStacking = global::DXChartsGettingStarted.Droid.Resource.Attribute.allowStacking;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.alpha = global::DXChartsGettingStarted.Droid.Resource.Attribute.alpha;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.alphabeticModifiers = global::DXChartsGettingStarted.Droid.Resource.Attribute.alphabeticModifiers;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.arrowHeadLength = global::DXChartsGettingStarted.Droid.Resource.Attribute.arrowHeadLength;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.arrowShaftLength = global::DXChartsGettingStarted.Droid.Resource.Attribute.arrowShaftLength;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.autoCompleteTextViewStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.autoSizeMaxTextSize = global::DXChartsGettingStarted.Droid.Resource.Attribute.autoSizeMaxTextSize;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.autoSizeMinTextSize = global::DXChartsGettingStarted.Droid.Resource.Attribute.autoSizeMinTextSize;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.autoSizePresetSizes = global::DXChartsGettingStarted.Droid.Resource.Attribute.autoSizePresetSizes;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.autoSizeStepGranularity = global::DXChartsGettingStarted.Droid.Resource.Attribute.autoSizeStepGranularity;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.autoSizeTextType = global::DXChartsGettingStarted.Droid.Resource.Attribute.autoSizeTextType;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.background = global::DXChartsGettingStarted.Droid.Resource.Attribute.background;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.backgroundSplit = global::DXChartsGettingStarted.Droid.Resource.Attribute.backgroundSplit;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.backgroundStacked = global::DXChartsGettingStarted.Droid.Resource.Attribute.backgroundStacked;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.backgroundTint = global::DXChartsGettingStarted.Droid.Resource.Attribute.backgroundTint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.backgroundTintMode = global::DXChartsGettingStarted.Droid.Resource.Attribute.backgroundTintMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.barLength = global::DXChartsGettingStarted.Droid.Resource.Attribute.barLength;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.behavior_autoHide = global::DXChartsGettingStarted.Droid.Resource.Attribute.behavior_autoHide;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.behavior_hideable = global::DXChartsGettingStarted.Droid.Resource.Attribute.behavior_hideable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.behavior_overlapTop = global::DXChartsGettingStarted.Droid.Resource.Attribute.behavior_overlapTop;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.behavior_peekHeight = global::DXChartsGettingStarted.Droid.Resource.Attribute.behavior_peekHeight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.behavior_skipCollapsed = global::DXChartsGettingStarted.Droid.Resource.Attribute.behavior_skipCollapsed;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.borderWidth = global::DXChartsGettingStarted.Droid.Resource.Attribute.borderWidth;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.borderlessButtonStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.bottomSheetDialogTheme = global::DXChartsGettingStarted.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.bottomSheetStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.bottomSheetStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.buttonBarButtonStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.buttonBarNegativeButtonStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.buttonBarNeutralButtonStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.buttonBarPositiveButtonStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.buttonBarStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.buttonBarStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.buttonGravity = global::DXChartsGettingStarted.Droid.Resource.Attribute.buttonGravity;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.buttonPanelSideLayout = global::DXChartsGettingStarted.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.buttonStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.buttonStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.buttonStyleSmall = global::DXChartsGettingStarted.Droid.Resource.Attribute.buttonStyleSmall;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.buttonTint = global::DXChartsGettingStarted.Droid.Resource.Attribute.buttonTint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.buttonTintMode = global::DXChartsGettingStarted.Droid.Resource.Attribute.buttonTintMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.cardBackgroundColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.cardBackgroundColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.cardCornerRadius = global::DXChartsGettingStarted.Droid.Resource.Attribute.cardCornerRadius;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.cardElevation = global::DXChartsGettingStarted.Droid.Resource.Attribute.cardElevation;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.cardMaxElevation = global::DXChartsGettingStarted.Droid.Resource.Attribute.cardMaxElevation;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.cardPreventCornerOverlap = global::DXChartsGettingStarted.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.cardUseCompatPadding = global::DXChartsGettingStarted.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.checkboxStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.checkboxStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.checkedTextViewStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.closeIcon = global::DXChartsGettingStarted.Droid.Resource.Attribute.closeIcon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.closeItemLayout = global::DXChartsGettingStarted.Droid.Resource.Attribute.closeItemLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.collapseContentDescription = global::DXChartsGettingStarted.Droid.Resource.Attribute.collapseContentDescription;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.collapseIcon = global::DXChartsGettingStarted.Droid.Resource.Attribute.collapseIcon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.collapsedTitleGravity = global::DXChartsGettingStarted.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.collapsedTitleTextAppearance = global::DXChartsGettingStarted.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.color = global::DXChartsGettingStarted.Droid.Resource.Attribute.color;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.colorAccent = global::DXChartsGettingStarted.Droid.Resource.Attribute.colorAccent;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.colorBackgroundFloating = global::DXChartsGettingStarted.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.colorButtonNormal = global::DXChartsGettingStarted.Droid.Resource.Attribute.colorButtonNormal;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.colorControlActivated = global::DXChartsGettingStarted.Droid.Resource.Attribute.colorControlActivated;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.colorControlHighlight = global::DXChartsGettingStarted.Droid.Resource.Attribute.colorControlHighlight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.colorControlNormal = global::DXChartsGettingStarted.Droid.Resource.Attribute.colorControlNormal;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.colorError = global::DXChartsGettingStarted.Droid.Resource.Attribute.colorError;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.colorPrimary = global::DXChartsGettingStarted.Droid.Resource.Attribute.colorPrimary;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.colorPrimaryDark = global::DXChartsGettingStarted.Droid.Resource.Attribute.colorPrimaryDark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.colorSwitchThumbNormal = global::DXChartsGettingStarted.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.commitIcon = global::DXChartsGettingStarted.Droid.Resource.Attribute.commitIcon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.contentDescription = global::DXChartsGettingStarted.Droid.Resource.Attribute.contentDescription;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.contentInsetEnd = global::DXChartsGettingStarted.Droid.Resource.Attribute.contentInsetEnd;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.contentInsetEndWithActions = global::DXChartsGettingStarted.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.contentInsetLeft = global::DXChartsGettingStarted.Droid.Resource.Attribute.contentInsetLeft;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.contentInsetRight = global::DXChartsGettingStarted.Droid.Resource.Attribute.contentInsetRight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.contentInsetStart = global::DXChartsGettingStarted.Droid.Resource.Attribute.contentInsetStart;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.contentInsetStartWithNavigation = global::DXChartsGettingStarted.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.contentPadding = global::DXChartsGettingStarted.Droid.Resource.Attribute.contentPadding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.contentPaddingBottom = global::DXChartsGettingStarted.Droid.Resource.Attribute.contentPaddingBottom;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.contentPaddingLeft = global::DXChartsGettingStarted.Droid.Resource.Attribute.contentPaddingLeft;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.contentPaddingRight = global::DXChartsGettingStarted.Droid.Resource.Attribute.contentPaddingRight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.contentPaddingTop = global::DXChartsGettingStarted.Droid.Resource.Attribute.contentPaddingTop;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.contentScrim = global::DXChartsGettingStarted.Droid.Resource.Attribute.contentScrim;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.controlBackground = global::DXChartsGettingStarted.Droid.Resource.Attribute.controlBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.counterEnabled = global::DXChartsGettingStarted.Droid.Resource.Attribute.counterEnabled;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.counterMaxLength = global::DXChartsGettingStarted.Droid.Resource.Attribute.counterMaxLength;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.counterOverflowTextAppearance = global::DXChartsGettingStarted.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.counterTextAppearance = global::DXChartsGettingStarted.Droid.Resource.Attribute.counterTextAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.customNavigationLayout = global::DXChartsGettingStarted.Droid.Resource.Attribute.customNavigationLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.defaultQueryHint = global::DXChartsGettingStarted.Droid.Resource.Attribute.defaultQueryHint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dialogPreferredPadding = global::DXChartsGettingStarted.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dialogTheme = global::DXChartsGettingStarted.Droid.Resource.Attribute.dialogTheme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.displayOptions = global::DXChartsGettingStarted.Droid.Resource.Attribute.displayOptions;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.divider = global::DXChartsGettingStarted.Droid.Resource.Attribute.divider;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dividerHorizontal = global::DXChartsGettingStarted.Droid.Resource.Attribute.dividerHorizontal;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dividerPadding = global::DXChartsGettingStarted.Droid.Resource.Attribute.dividerPadding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dividerVertical = global::DXChartsGettingStarted.Droid.Resource.Attribute.dividerVertical;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.drawableSize = global::DXChartsGettingStarted.Droid.Resource.Attribute.drawableSize;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.drawerArrowStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.drawerArrowStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dropDownListViewStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dropdownListPreferredItemHeight = global::DXChartsGettingStarted.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisXColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisXColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisXConstantLineColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisXConstantLineColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisXConstantLineTitleColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisXConstantLineTitleColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisXConstantLineTitleSize = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisXConstantLineTitleSize;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisXInterlacedColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisXInterlacedColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisXMajorGridLinesColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisXMajorGridLinesColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisXMinorGridLinesColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisXMinorGridLinesColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisXShowInterlaced = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisXShowInterlaced;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisXShowLine = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisXShowLine;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisXShowMajorGridLines = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisXShowMajorGridLines;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisXShowMajorTickmarks = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisXShowMajorTickmarks;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisXShowMinorGridLines = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisXShowMinorGridLines;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisXShowMinorTickmarks = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisXShowMinorTickmarks;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisXStripColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisXStripColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisXStripLabelColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisXStripLabelColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisXStripLabelSize = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisXStripLabelSize;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisXThickness = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisXThickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisXTitleSize = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisXTitleSize;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisYColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisYColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisYConstantLineColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisYConstantLineColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisYConstantLineTitleColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisYConstantLineTitleColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisYConstantLineTitleSize = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisYConstantLineTitleSize;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisYInterlacedColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisYInterlacedColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisYMajorGridLinesColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisYMajorGridLinesColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisYMinorGridLinesColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisYMinorGridLinesColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisYShowInterlaced = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisYShowInterlaced;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisYShowLine = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisYShowLine;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisYShowMajorGridLines = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisYShowMajorGridLines;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisYShowMajorTickmarks = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisYShowMajorTickmarks;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisYShowMinorGridLines = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisYShowMinorGridLines;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisYShowMinorTickmarks = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisYShowMinorTickmarks;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisYStripColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisYStripColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisYStripLabelColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisYStripLabelColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisYStripLabelSize = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisYStripLabelSize;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisYThickness = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisYThickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartAxisYTitleSize = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartAxisYTitleSize;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartBackground = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartBorderColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartBorderColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartBorderThickness = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartBorderThickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartCrosshairArgumentLabelBackground = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartCrosshairArgumentLabelBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartCrosshairArgumentLabelTextColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartCrosshairArgumentLabelTextColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartCrosshairArgumentLineStroke = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartCrosshairArgumentLineStroke;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartCrosshairArgumentLineThickness = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartCrosshairArgumentLineThickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartCrosshairValueLabelBackground = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartCrosshairValueLabelBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartCrosshairValueLabelTextColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartCrosshairValueLabelTextColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartCrosshairValueLineStroke = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartCrosshairValueLineStroke;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartCrosshairValueLineThickness = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartCrosshairValueLineThickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartPadding = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartPadding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartPaddingBottom = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartPaddingBottom;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartPaddingHorizontal = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartPaddingHorizontal;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartPaddingLeft = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartPaddingLeft;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartPaddingRight = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartPaddingRight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartPaddingTop = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartPaddingTop;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartPaddingVertical = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartPaddingVertical;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartPalette = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartPalette;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartTextColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartTextColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxChartTextSize = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxChartTextSize;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxHintLabelBackground = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxHintLabelBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxHintLabelTextColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxHintLabelTextColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxHintPadding = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxHintPadding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxHintPaddingBottom = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxHintPaddingBottom;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxHintPaddingHorizontal = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxHintPaddingHorizontal;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxHintPaddingLeft = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxHintPaddingLeft;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxHintPaddingRight = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxHintPaddingRight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxHintPaddingTop = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxHintPaddingTop;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxHintPaddingVertical = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxHintPaddingVertical;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxLegendBackground = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxLegendBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxLegendBorderColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxLegendBorderColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxLegendBorderThickness = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxLegendBorderThickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxLegendBottomIndentToDiagram = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxLegendBottomIndentToDiagram;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxLegendHorizontalIndentToDiagram = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxLegendHorizontalIndentToDiagram;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxLegendIndentToDiagram = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxLegendIndentToDiagram;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxLegendLeftIndentToDiagram = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxLegendLeftIndentToDiagram;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxLegendPadding = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxLegendPadding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxLegendPaddingBottom = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxLegendPaddingBottom;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxLegendPaddingHorizontal = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxLegendPaddingHorizontal;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxLegendPaddingLeft = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxLegendPaddingLeft;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxLegendPaddingRight = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxLegendPaddingRight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxLegendPaddingTop = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxLegendPaddingTop;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxLegendPaddingVertical = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxLegendPaddingVertical;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxLegendRightIndentToDiagram = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxLegendRightIndentToDiagram;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxLegendTopIndentToDiagram = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxLegendTopIndentToDiagram;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxLegendVerticalIndentToDiagram = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxLegendVerticalIndentToDiagram;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxPieChartLabelConnectorThickness = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxPieChartLabelConnectorThickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxPieChartSeriesIndent = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxPieChartSeriesIndent;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxPieChartSeriesStroke = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxPieChartSeriesStroke;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxPieChartSeriesStrokeThickness = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxPieChartSeriesStrokeThickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.dxScrollIndicatorColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.dxScrollIndicatorColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.editTextBackground = global::DXChartsGettingStarted.Droid.Resource.Attribute.editTextBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.editTextColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.editTextColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.editTextStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.editTextStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.elevation = global::DXChartsGettingStarted.Droid.Resource.Attribute.elevation;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.errorEnabled = global::DXChartsGettingStarted.Droid.Resource.Attribute.errorEnabled;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.errorTextAppearance = global::DXChartsGettingStarted.Droid.Resource.Attribute.errorTextAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.expandActivityOverflowButtonDrawable = global::DXChartsGettingStarted.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.expanded = global::DXChartsGettingStarted.Droid.Resource.Attribute.expanded;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.expandedTitleGravity = global::DXChartsGettingStarted.Droid.Resource.Attribute.expandedTitleGravity;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.expandedTitleMargin = global::DXChartsGettingStarted.Droid.Resource.Attribute.expandedTitleMargin;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.expandedTitleMarginBottom = global::DXChartsGettingStarted.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.expandedTitleMarginEnd = global::DXChartsGettingStarted.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.expandedTitleMarginStart = global::DXChartsGettingStarted.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.expandedTitleMarginTop = global::DXChartsGettingStarted.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.expandedTitleTextAppearance = global::DXChartsGettingStarted.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.externalRouteEnabledDrawable = global::DXChartsGettingStarted.Droid.Resource.Attribute.externalRouteEnabledDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.fabSize = global::DXChartsGettingStarted.Droid.Resource.Attribute.fabSize;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.fastScrollEnabled = global::DXChartsGettingStarted.Droid.Resource.Attribute.fastScrollEnabled;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::DXChartsGettingStarted.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::DXChartsGettingStarted.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.fastScrollVerticalThumbDrawable = global::DXChartsGettingStarted.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.fastScrollVerticalTrackDrawable = global::DXChartsGettingStarted.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.font = global::DXChartsGettingStarted.Droid.Resource.Attribute.font;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.fontFamily = global::DXChartsGettingStarted.Droid.Resource.Attribute.fontFamily;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.fontProviderAuthority = global::DXChartsGettingStarted.Droid.Resource.Attribute.fontProviderAuthority;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.fontProviderCerts = global::DXChartsGettingStarted.Droid.Resource.Attribute.fontProviderCerts;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.fontProviderFetchStrategy = global::DXChartsGettingStarted.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.fontProviderFetchTimeout = global::DXChartsGettingStarted.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.fontProviderPackage = global::DXChartsGettingStarted.Droid.Resource.Attribute.fontProviderPackage;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.fontProviderQuery = global::DXChartsGettingStarted.Droid.Resource.Attribute.fontProviderQuery;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.fontStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.fontStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.fontWeight = global::DXChartsGettingStarted.Droid.Resource.Attribute.fontWeight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.foregroundInsidePadding = global::DXChartsGettingStarted.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.gapBetweenBars = global::DXChartsGettingStarted.Droid.Resource.Attribute.gapBetweenBars;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.goIcon = global::DXChartsGettingStarted.Droid.Resource.Attribute.goIcon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.headerLayout = global::DXChartsGettingStarted.Droid.Resource.Attribute.headerLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.height = global::DXChartsGettingStarted.Droid.Resource.Attribute.height;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.hideOnContentScroll = global::DXChartsGettingStarted.Droid.Resource.Attribute.hideOnContentScroll;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.hintAnimationEnabled = global::DXChartsGettingStarted.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.hintEnabled = global::DXChartsGettingStarted.Droid.Resource.Attribute.hintEnabled;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.hintTextAppearance = global::DXChartsGettingStarted.Droid.Resource.Attribute.hintTextAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.homeAsUpIndicator = global::DXChartsGettingStarted.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.homeLayout = global::DXChartsGettingStarted.Droid.Resource.Attribute.homeLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.icon = global::DXChartsGettingStarted.Droid.Resource.Attribute.icon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.iconTint = global::DXChartsGettingStarted.Droid.Resource.Attribute.iconTint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.iconTintMode = global::DXChartsGettingStarted.Droid.Resource.Attribute.iconTintMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.iconifiedByDefault = global::DXChartsGettingStarted.Droid.Resource.Attribute.iconifiedByDefault;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.imageButtonStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.imageButtonStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.indeterminateProgressStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.initialActivityCount = global::DXChartsGettingStarted.Droid.Resource.Attribute.initialActivityCount;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.insetForeground = global::DXChartsGettingStarted.Droid.Resource.Attribute.insetForeground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.isLightTheme = global::DXChartsGettingStarted.Droid.Resource.Attribute.isLightTheme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.itemBackground = global::DXChartsGettingStarted.Droid.Resource.Attribute.itemBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.itemIconTint = global::DXChartsGettingStarted.Droid.Resource.Attribute.itemIconTint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.itemPadding = global::DXChartsGettingStarted.Droid.Resource.Attribute.itemPadding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.itemTextAppearance = global::DXChartsGettingStarted.Droid.Resource.Attribute.itemTextAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.itemTextColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.itemTextColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.keylines = global::DXChartsGettingStarted.Droid.Resource.Attribute.keylines;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.layout = global::DXChartsGettingStarted.Droid.Resource.Attribute.layout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.layoutManager = global::DXChartsGettingStarted.Droid.Resource.Attribute.layoutManager;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.layout_anchor = global::DXChartsGettingStarted.Droid.Resource.Attribute.layout_anchor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.layout_anchorGravity = global::DXChartsGettingStarted.Droid.Resource.Attribute.layout_anchorGravity;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.layout_behavior = global::DXChartsGettingStarted.Droid.Resource.Attribute.layout_behavior;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.layout_collapseMode = global::DXChartsGettingStarted.Droid.Resource.Attribute.layout_collapseMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.layout_collapseParallaxMultiplier = global::DXChartsGettingStarted.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.layout_dodgeInsetEdges = global::DXChartsGettingStarted.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.layout_insetEdge = global::DXChartsGettingStarted.Droid.Resource.Attribute.layout_insetEdge;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.layout_keyline = global::DXChartsGettingStarted.Droid.Resource.Attribute.layout_keyline;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.layout_scrollFlags = global::DXChartsGettingStarted.Droid.Resource.Attribute.layout_scrollFlags;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.layout_scrollInterpolator = global::DXChartsGettingStarted.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.listChoiceBackgroundIndicator = global::DXChartsGettingStarted.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.listDividerAlertDialog = global::DXChartsGettingStarted.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.listItemLayout = global::DXChartsGettingStarted.Droid.Resource.Attribute.listItemLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.listLayout = global::DXChartsGettingStarted.Droid.Resource.Attribute.listLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.listMenuViewStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.listMenuViewStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.listPopupWindowStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.listPreferredItemHeight = global::DXChartsGettingStarted.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.listPreferredItemHeightLarge = global::DXChartsGettingStarted.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.listPreferredItemHeightSmall = global::DXChartsGettingStarted.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.listPreferredItemPaddingLeft = global::DXChartsGettingStarted.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.listPreferredItemPaddingRight = global::DXChartsGettingStarted.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.logo = global::DXChartsGettingStarted.Droid.Resource.Attribute.logo;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.logoDescription = global::DXChartsGettingStarted.Droid.Resource.Attribute.logoDescription;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.maxActionInlineWidth = global::DXChartsGettingStarted.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.maxButtonHeight = global::DXChartsGettingStarted.Droid.Resource.Attribute.maxButtonHeight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.measureWithLargestChild = global::DXChartsGettingStarted.Droid.Resource.Attribute.measureWithLargestChild;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.mediaRouteAudioTrackDrawable = global::DXChartsGettingStarted.Droid.Resource.Attribute.mediaRouteAudioTrackDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.mediaRouteButtonStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.mediaRouteButtonStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.mediaRouteButtonTint = global::DXChartsGettingStarted.Droid.Resource.Attribute.mediaRouteButtonTint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.mediaRouteCloseDrawable = global::DXChartsGettingStarted.Droid.Resource.Attribute.mediaRouteCloseDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.mediaRouteControlPanelThemeOverlay = global::DXChartsGettingStarted.Droid.Resource.Attribute.mediaRouteControlPanelThemeOverlay;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.mediaRouteDefaultIconDrawable = global::DXChartsGettingStarted.Droid.Resource.Attribute.mediaRouteDefaultIconDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.mediaRoutePauseDrawable = global::DXChartsGettingStarted.Droid.Resource.Attribute.mediaRoutePauseDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.mediaRoutePlayDrawable = global::DXChartsGettingStarted.Droid.Resource.Attribute.mediaRoutePlayDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable = global::DXChartsGettingStarted.Droid.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.mediaRouteSpeakerIconDrawable = global::DXChartsGettingStarted.Droid.Resource.Attribute.mediaRouteSpeakerIconDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.mediaRouteStopDrawable = global::DXChartsGettingStarted.Droid.Resource.Attribute.mediaRouteStopDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.mediaRouteTheme = global::DXChartsGettingStarted.Droid.Resource.Attribute.mediaRouteTheme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.mediaRouteTvIconDrawable = global::DXChartsGettingStarted.Droid.Resource.Attribute.mediaRouteTvIconDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.menu = global::DXChartsGettingStarted.Droid.Resource.Attribute.menu;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.multiChoiceItemLayout = global::DXChartsGettingStarted.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.navigationContentDescription = global::DXChartsGettingStarted.Droid.Resource.Attribute.navigationContentDescription;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.navigationIcon = global::DXChartsGettingStarted.Droid.Resource.Attribute.navigationIcon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.navigationMode = global::DXChartsGettingStarted.Droid.Resource.Attribute.navigationMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.numericModifiers = global::DXChartsGettingStarted.Droid.Resource.Attribute.numericModifiers;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.overlapAnchor = global::DXChartsGettingStarted.Droid.Resource.Attribute.overlapAnchor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.paddingBottomNoButtons = global::DXChartsGettingStarted.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.paddingEnd = global::DXChartsGettingStarted.Droid.Resource.Attribute.paddingEnd;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.paddingStart = global::DXChartsGettingStarted.Droid.Resource.Attribute.paddingStart;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.paddingTopNoTitle = global::DXChartsGettingStarted.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.panelBackground = global::DXChartsGettingStarted.Droid.Resource.Attribute.panelBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.panelMenuListTheme = global::DXChartsGettingStarted.Droid.Resource.Attribute.panelMenuListTheme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.panelMenuListWidth = global::DXChartsGettingStarted.Droid.Resource.Attribute.panelMenuListWidth;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.passwordToggleContentDescription = global::DXChartsGettingStarted.Droid.Resource.Attribute.passwordToggleContentDescription;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.passwordToggleDrawable = global::DXChartsGettingStarted.Droid.Resource.Attribute.passwordToggleDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.passwordToggleEnabled = global::DXChartsGettingStarted.Droid.Resource.Attribute.passwordToggleEnabled;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.passwordToggleTint = global::DXChartsGettingStarted.Droid.Resource.Attribute.passwordToggleTint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.passwordToggleTintMode = global::DXChartsGettingStarted.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.popupMenuStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.popupMenuStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.popupTheme = global::DXChartsGettingStarted.Droid.Resource.Attribute.popupTheme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.popupWindowStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.popupWindowStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.preserveIconSpacing = global::DXChartsGettingStarted.Droid.Resource.Attribute.preserveIconSpacing;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.pressedTranslationZ = global::DXChartsGettingStarted.Droid.Resource.Attribute.pressedTranslationZ;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.progressBarPadding = global::DXChartsGettingStarted.Droid.Resource.Attribute.progressBarPadding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.progressBarStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.progressBarStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.queryBackground = global::DXChartsGettingStarted.Droid.Resource.Attribute.queryBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.queryHint = global::DXChartsGettingStarted.Droid.Resource.Attribute.queryHint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.radioButtonStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.radioButtonStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.ratingBarStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.ratingBarStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.ratingBarStyleIndicator = global::DXChartsGettingStarted.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.ratingBarStyleSmall = global::DXChartsGettingStarted.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.renderMode = global::DXChartsGettingStarted.Droid.Resource.Attribute.renderMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.reverseLayout = global::DXChartsGettingStarted.Droid.Resource.Attribute.reverseLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.rippleColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.rippleColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.scrimAnimationDuration = global::DXChartsGettingStarted.Droid.Resource.Attribute.scrimAnimationDuration;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.scrimVisibleHeightTrigger = global::DXChartsGettingStarted.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.searchHintIcon = global::DXChartsGettingStarted.Droid.Resource.Attribute.searchHintIcon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.searchIcon = global::DXChartsGettingStarted.Droid.Resource.Attribute.searchIcon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.searchViewStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.searchViewStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.seekBarStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.seekBarStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.selectableItemBackground = global::DXChartsGettingStarted.Droid.Resource.Attribute.selectableItemBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.selectableItemBackgroundBorderless = global::DXChartsGettingStarted.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.showAsAction = global::DXChartsGettingStarted.Droid.Resource.Attribute.showAsAction;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.showDividers = global::DXChartsGettingStarted.Droid.Resource.Attribute.showDividers;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.showText = global::DXChartsGettingStarted.Droid.Resource.Attribute.showText;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.showTitle = global::DXChartsGettingStarted.Droid.Resource.Attribute.showTitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.singleChoiceItemLayout = global::DXChartsGettingStarted.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.spanCount = global::DXChartsGettingStarted.Droid.Resource.Attribute.spanCount;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.spinBars = global::DXChartsGettingStarted.Droid.Resource.Attribute.spinBars;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.spinnerDropDownItemStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.spinnerStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.spinnerStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.splitTrack = global::DXChartsGettingStarted.Droid.Resource.Attribute.splitTrack;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.srcCompat = global::DXChartsGettingStarted.Droid.Resource.Attribute.srcCompat;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.stackFromEnd = global::DXChartsGettingStarted.Droid.Resource.Attribute.stackFromEnd;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.state_above_anchor = global::DXChartsGettingStarted.Droid.Resource.Attribute.state_above_anchor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.state_collapsed = global::DXChartsGettingStarted.Droid.Resource.Attribute.state_collapsed;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.state_collapsible = global::DXChartsGettingStarted.Droid.Resource.Attribute.state_collapsible;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.statusBarBackground = global::DXChartsGettingStarted.Droid.Resource.Attribute.statusBarBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.statusBarScrim = global::DXChartsGettingStarted.Droid.Resource.Attribute.statusBarScrim;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.subMenuArrow = global::DXChartsGettingStarted.Droid.Resource.Attribute.subMenuArrow;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.submitBackground = global::DXChartsGettingStarted.Droid.Resource.Attribute.submitBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.subtitle = global::DXChartsGettingStarted.Droid.Resource.Attribute.subtitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.subtitleTextAppearance = global::DXChartsGettingStarted.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.subtitleTextColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.subtitleTextColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.subtitleTextStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.subtitleTextStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.suggestionRowLayout = global::DXChartsGettingStarted.Droid.Resource.Attribute.suggestionRowLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.switchMinWidth = global::DXChartsGettingStarted.Droid.Resource.Attribute.switchMinWidth;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.switchPadding = global::DXChartsGettingStarted.Droid.Resource.Attribute.switchPadding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.switchStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.switchStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.switchTextAppearance = global::DXChartsGettingStarted.Droid.Resource.Attribute.switchTextAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.tabBackground = global::DXChartsGettingStarted.Droid.Resource.Attribute.tabBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.tabContentStart = global::DXChartsGettingStarted.Droid.Resource.Attribute.tabContentStart;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.tabGravity = global::DXChartsGettingStarted.Droid.Resource.Attribute.tabGravity;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.tabIndicatorColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.tabIndicatorColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.tabIndicatorHeight = global::DXChartsGettingStarted.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.tabMaxWidth = global::DXChartsGettingStarted.Droid.Resource.Attribute.tabMaxWidth;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.tabMinWidth = global::DXChartsGettingStarted.Droid.Resource.Attribute.tabMinWidth;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.tabMode = global::DXChartsGettingStarted.Droid.Resource.Attribute.tabMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.tabPadding = global::DXChartsGettingStarted.Droid.Resource.Attribute.tabPadding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.tabPaddingBottom = global::DXChartsGettingStarted.Droid.Resource.Attribute.tabPaddingBottom;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.tabPaddingEnd = global::DXChartsGettingStarted.Droid.Resource.Attribute.tabPaddingEnd;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.tabPaddingStart = global::DXChartsGettingStarted.Droid.Resource.Attribute.tabPaddingStart;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.tabPaddingTop = global::DXChartsGettingStarted.Droid.Resource.Attribute.tabPaddingTop;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.tabSelectedTextColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.tabTextAppearance = global::DXChartsGettingStarted.Droid.Resource.Attribute.tabTextAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.tabTextColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.tabTextColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.textAllCaps = global::DXChartsGettingStarted.Droid.Resource.Attribute.textAllCaps;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.textAppearanceLargePopupMenu = global::DXChartsGettingStarted.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.textAppearanceListItem = global::DXChartsGettingStarted.Droid.Resource.Attribute.textAppearanceListItem;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.textAppearanceListItemSecondary = global::DXChartsGettingStarted.Droid.Resource.Attribute.textAppearanceListItemSecondary;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.textAppearanceListItemSmall = global::DXChartsGettingStarted.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.textAppearancePopupMenuHeader = global::DXChartsGettingStarted.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.textAppearanceSearchResultSubtitle = global::DXChartsGettingStarted.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.textAppearanceSearchResultTitle = global::DXChartsGettingStarted.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.textAppearanceSmallPopupMenu = global::DXChartsGettingStarted.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.textColorAlertDialogListItem = global::DXChartsGettingStarted.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.textColorSearchUrl = global::DXChartsGettingStarted.Droid.Resource.Attribute.textColorSearchUrl;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.theme = global::DXChartsGettingStarted.Droid.Resource.Attribute.theme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.thickness = global::DXChartsGettingStarted.Droid.Resource.Attribute.thickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.thumbTextPadding = global::DXChartsGettingStarted.Droid.Resource.Attribute.thumbTextPadding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.thumbTint = global::DXChartsGettingStarted.Droid.Resource.Attribute.thumbTint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.thumbTintMode = global::DXChartsGettingStarted.Droid.Resource.Attribute.thumbTintMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.tickMark = global::DXChartsGettingStarted.Droid.Resource.Attribute.tickMark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.tickMarkTint = global::DXChartsGettingStarted.Droid.Resource.Attribute.tickMarkTint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.tickMarkTintMode = global::DXChartsGettingStarted.Droid.Resource.Attribute.tickMarkTintMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.tint = global::DXChartsGettingStarted.Droid.Resource.Attribute.tint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.tintMode = global::DXChartsGettingStarted.Droid.Resource.Attribute.tintMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.title = global::DXChartsGettingStarted.Droid.Resource.Attribute.title;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.titleEnabled = global::DXChartsGettingStarted.Droid.Resource.Attribute.titleEnabled;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.titleMargin = global::DXChartsGettingStarted.Droid.Resource.Attribute.titleMargin;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.titleMarginBottom = global::DXChartsGettingStarted.Droid.Resource.Attribute.titleMarginBottom;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.titleMarginEnd = global::DXChartsGettingStarted.Droid.Resource.Attribute.titleMarginEnd;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.titleMarginStart = global::DXChartsGettingStarted.Droid.Resource.Attribute.titleMarginStart;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.titleMarginTop = global::DXChartsGettingStarted.Droid.Resource.Attribute.titleMarginTop;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.titleMargins = global::DXChartsGettingStarted.Droid.Resource.Attribute.titleMargins;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.titleTextAppearance = global::DXChartsGettingStarted.Droid.Resource.Attribute.titleTextAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.titleTextColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.titleTextColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.titleTextStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.titleTextStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.toolbarId = global::DXChartsGettingStarted.Droid.Resource.Attribute.toolbarId;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.toolbarNavigationButtonStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.toolbarStyle = global::DXChartsGettingStarted.Droid.Resource.Attribute.toolbarStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.tooltipForegroundColor = global::DXChartsGettingStarted.Droid.Resource.Attribute.tooltipForegroundColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.tooltipFrameBackground = global::DXChartsGettingStarted.Droid.Resource.Attribute.tooltipFrameBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.tooltipText = global::DXChartsGettingStarted.Droid.Resource.Attribute.tooltipText;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.track = global::DXChartsGettingStarted.Droid.Resource.Attribute.track;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.trackTint = global::DXChartsGettingStarted.Droid.Resource.Attribute.trackTint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.trackTintMode = global::DXChartsGettingStarted.Droid.Resource.Attribute.trackTintMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.useCompatPadding = global::DXChartsGettingStarted.Droid.Resource.Attribute.useCompatPadding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.voiceIcon = global::DXChartsGettingStarted.Droid.Resource.Attribute.voiceIcon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.windowActionBar = global::DXChartsGettingStarted.Droid.Resource.Attribute.windowActionBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.windowActionBarOverlay = global::DXChartsGettingStarted.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.windowActionModeOverlay = global::DXChartsGettingStarted.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.windowFixedHeightMajor = global::DXChartsGettingStarted.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.windowFixedHeightMinor = global::DXChartsGettingStarted.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.windowFixedWidthMajor = global::DXChartsGettingStarted.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.windowFixedWidthMinor = global::DXChartsGettingStarted.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.windowMinWidthMajor = global::DXChartsGettingStarted.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.windowMinWidthMinor = global::DXChartsGettingStarted.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Attribute.windowNoTitle = global::DXChartsGettingStarted.Droid.Resource.Attribute.windowNoTitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Boolean.abc_action_bar_embed_tabs = global::DXChartsGettingStarted.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Boolean.abc_allow_stacked_button_bar = global::DXChartsGettingStarted.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::DXChartsGettingStarted.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Boolean.axis_show_interlaced = global::DXChartsGettingStarted.Droid.Resource.Boolean.axis_show_interlaced;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Boolean.axis_show_line = global::DXChartsGettingStarted.Droid.Resource.Boolean.axis_show_line;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Boolean.axis_show_major_tickmarks = global::DXChartsGettingStarted.Droid.Resource.Boolean.axis_show_major_tickmarks;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Boolean.axis_show_minor_gridlines = global::DXChartsGettingStarted.Droid.Resource.Boolean.axis_show_minor_gridlines;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Boolean.axis_show_minor_tickmarks = global::DXChartsGettingStarted.Droid.Resource.Boolean.axis_show_minor_tickmarks;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Boolean.axis_x_show_major_gridlines = global::DXChartsGettingStarted.Droid.Resource.Boolean.axis_x_show_major_gridlines;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Boolean.axis_y_show_major_gridlines = global::DXChartsGettingStarted.Droid.Resource.Boolean.axis_y_show_major_gridlines;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.abc_background_cache_hint_selector_material_dark = global::DXChartsGettingStarted.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.abc_background_cache_hint_selector_material_light = global::DXChartsGettingStarted.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.abc_btn_colored_borderless_text_material = global::DXChartsGettingStarted.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.abc_btn_colored_text_material = global::DXChartsGettingStarted.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.abc_color_highlight_material = global::DXChartsGettingStarted.Droid.Resource.Color.abc_color_highlight_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.abc_hint_foreground_material_dark = global::DXChartsGettingStarted.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.abc_hint_foreground_material_light = global::DXChartsGettingStarted.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.abc_input_method_navigation_guard = global::DXChartsGettingStarted.Droid.Resource.Color.abc_input_method_navigation_guard;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.abc_primary_text_disable_only_material_dark = global::DXChartsGettingStarted.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.abc_primary_text_disable_only_material_light = global::DXChartsGettingStarted.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.abc_primary_text_material_dark = global::DXChartsGettingStarted.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.abc_primary_text_material_light = global::DXChartsGettingStarted.Droid.Resource.Color.abc_primary_text_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.abc_search_url_text = global::DXChartsGettingStarted.Droid.Resource.Color.abc_search_url_text;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.abc_search_url_text_normal = global::DXChartsGettingStarted.Droid.Resource.Color.abc_search_url_text_normal;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.abc_search_url_text_pressed = global::DXChartsGettingStarted.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.abc_search_url_text_selected = global::DXChartsGettingStarted.Droid.Resource.Color.abc_search_url_text_selected;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.abc_secondary_text_material_dark = global::DXChartsGettingStarted.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.abc_secondary_text_material_light = global::DXChartsGettingStarted.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.abc_tint_btn_checkable = global::DXChartsGettingStarted.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.abc_tint_default = global::DXChartsGettingStarted.Droid.Resource.Color.abc_tint_default;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.abc_tint_edittext = global::DXChartsGettingStarted.Droid.Resource.Color.abc_tint_edittext;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.abc_tint_seek_thumb = global::DXChartsGettingStarted.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.abc_tint_spinner = global::DXChartsGettingStarted.Droid.Resource.Color.abc_tint_spinner;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.abc_tint_switch_track = global::DXChartsGettingStarted.Droid.Resource.Color.abc_tint_switch_track;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.accent_material_dark = global::DXChartsGettingStarted.Droid.Resource.Color.accent_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.accent_material_light = global::DXChartsGettingStarted.Droid.Resource.Color.accent_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.background_floating_material_dark = global::DXChartsGettingStarted.Droid.Resource.Color.background_floating_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.background_floating_material_light = global::DXChartsGettingStarted.Droid.Resource.Color.background_floating_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.background_material_dark = global::DXChartsGettingStarted.Droid.Resource.Color.background_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.background_material_light = global::DXChartsGettingStarted.Droid.Resource.Color.background_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.bright_foreground_disabled_material_dark = global::DXChartsGettingStarted.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.bright_foreground_disabled_material_light = global::DXChartsGettingStarted.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.bright_foreground_inverse_material_dark = global::DXChartsGettingStarted.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.bright_foreground_inverse_material_light = global::DXChartsGettingStarted.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.bright_foreground_material_dark = global::DXChartsGettingStarted.Droid.Resource.Color.bright_foreground_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.bright_foreground_material_light = global::DXChartsGettingStarted.Droid.Resource.Color.bright_foreground_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.button_material_dark = global::DXChartsGettingStarted.Droid.Resource.Color.button_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.button_material_light = global::DXChartsGettingStarted.Droid.Resource.Color.button_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.cardview_dark_background = global::DXChartsGettingStarted.Droid.Resource.Color.cardview_dark_background;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.cardview_light_background = global::DXChartsGettingStarted.Droid.Resource.Color.cardview_light_background;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.cardview_shadow_end_color = global::DXChartsGettingStarted.Droid.Resource.Color.cardview_shadow_end_color;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.cardview_shadow_start_color = global::DXChartsGettingStarted.Droid.Resource.Color.cardview_shadow_start_color;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_area_series = global::DXChartsGettingStarted.Droid.Resource.Color.color_area_series;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_area_series_marker = global::DXChartsGettingStarted.Droid.Resource.Color.color_area_series_marker;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_area_series_marker_stroke = global::DXChartsGettingStarted.Droid.Resource.Color.color_area_series_marker_stroke;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_area_series_stroke = global::DXChartsGettingStarted.Droid.Resource.Color.color_area_series_stroke;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_axis_constant_line = global::DXChartsGettingStarted.Droid.Resource.Color.color_axis_constant_line;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_axis_constant_line_title_dark = global::DXChartsGettingStarted.Droid.Resource.Color.color_axis_constant_line_title_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_axis_constant_line_title_light = global::DXChartsGettingStarted.Droid.Resource.Color.color_axis_constant_line_title_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_axis_dark = global::DXChartsGettingStarted.Droid.Resource.Color.color_axis_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_axis_interlaced_dark = global::DXChartsGettingStarted.Droid.Resource.Color.color_axis_interlaced_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_axis_interlaced_light = global::DXChartsGettingStarted.Droid.Resource.Color.color_axis_interlaced_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_axis_light = global::DXChartsGettingStarted.Droid.Resource.Color.color_axis_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_axis_major_gridlines_dark = global::DXChartsGettingStarted.Droid.Resource.Color.color_axis_major_gridlines_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_axis_major_gridlines_light = global::DXChartsGettingStarted.Droid.Resource.Color.color_axis_major_gridlines_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_axis_minor_gridlines_dark = global::DXChartsGettingStarted.Droid.Resource.Color.color_axis_minor_gridlines_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_axis_minor_gridlines_light = global::DXChartsGettingStarted.Droid.Resource.Color.color_axis_minor_gridlines_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_axis_strip_dark = global::DXChartsGettingStarted.Droid.Resource.Color.color_axis_strip_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_axis_strip_label_dark = global::DXChartsGettingStarted.Droid.Resource.Color.color_axis_strip_label_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_axis_strip_label_light = global::DXChartsGettingStarted.Droid.Resource.Color.color_axis_strip_label_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_axis_strip_light = global::DXChartsGettingStarted.Droid.Resource.Color.color_axis_strip_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_bar_series = global::DXChartsGettingStarted.Droid.Resource.Color.color_bar_series;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_bar_series_stroke = global::DXChartsGettingStarted.Droid.Resource.Color.color_bar_series_stroke;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_candle_stick_series_falling_fill = global::DXChartsGettingStarted.Droid.Resource.Color.color_candle_stick_series_falling_fill;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_candle_stick_series_falling_stroke = global::DXChartsGettingStarted.Droid.Resource.Color.color_candle_stick_series_falling_stroke;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_candle_stick_series_rising_fill = global::DXChartsGettingStarted.Droid.Resource.Color.color_candle_stick_series_rising_fill;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_candle_stick_series_rising_stroke = global::DXChartsGettingStarted.Droid.Resource.Color.color_candle_stick_series_rising_stroke;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_chart_background_dark = global::DXChartsGettingStarted.Droid.Resource.Color.color_chart_background_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_chart_background_light = global::DXChartsGettingStarted.Droid.Resource.Color.color_chart_background_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_chart_border_dark = global::DXChartsGettingStarted.Droid.Resource.Color.color_chart_border_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_chart_border_light = global::DXChartsGettingStarted.Droid.Resource.Color.color_chart_border_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_chart_scroll_indicator_dark = global::DXChartsGettingStarted.Droid.Resource.Color.color_chart_scroll_indicator_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_chart_scroll_indicator_light = global::DXChartsGettingStarted.Droid.Resource.Color.color_chart_scroll_indicator_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_hint_background = global::DXChartsGettingStarted.Droid.Resource.Color.color_hint_background;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_hint_background_dark = global::DXChartsGettingStarted.Droid.Resource.Color.color_hint_background_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_hint_background_light = global::DXChartsGettingStarted.Droid.Resource.Color.color_hint_background_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_hint_label_fill = global::DXChartsGettingStarted.Droid.Resource.Color.color_hint_label_fill;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_hint_line_stroke = global::DXChartsGettingStarted.Droid.Resource.Color.color_hint_line_stroke;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_hint_text_dark = global::DXChartsGettingStarted.Droid.Resource.Color.color_hint_text_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_hint_text_light = global::DXChartsGettingStarted.Droid.Resource.Color.color_hint_text_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_legend_background_dark = global::DXChartsGettingStarted.Droid.Resource.Color.color_legend_background_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_legend_background_light = global::DXChartsGettingStarted.Droid.Resource.Color.color_legend_background_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_legend_border_dark = global::DXChartsGettingStarted.Droid.Resource.Color.color_legend_border_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_legend_border_light = global::DXChartsGettingStarted.Droid.Resource.Color.color_legend_border_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_line_series = global::DXChartsGettingStarted.Droid.Resource.Color.color_line_series;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_line_series_marker = global::DXChartsGettingStarted.Droid.Resource.Color.color_line_series_marker;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_line_series_marker_stroke = global::DXChartsGettingStarted.Droid.Resource.Color.color_line_series_marker_stroke;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_pie_connector = global::DXChartsGettingStarted.Droid.Resource.Color.color_pie_connector;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_pie_stroke_dark = global::DXChartsGettingStarted.Droid.Resource.Color.color_pie_stroke_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_pie_stroke_light = global::DXChartsGettingStarted.Droid.Resource.Color.color_pie_stroke_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_point_series = global::DXChartsGettingStarted.Droid.Resource.Color.color_point_series;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_point_series_stroke = global::DXChartsGettingStarted.Droid.Resource.Color.color_point_series_stroke;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_stock_series_falling_stroke = global::DXChartsGettingStarted.Droid.Resource.Color.color_stock_series_falling_stroke;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_stock_series_rising_stroke = global::DXChartsGettingStarted.Droid.Resource.Color.color_stock_series_rising_stroke;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_text_dark = global::DXChartsGettingStarted.Droid.Resource.Color.color_text_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.color_text_light = global::DXChartsGettingStarted.Droid.Resource.Color.color_text_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.design_bottom_navigation_shadow_color = global::DXChartsGettingStarted.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.design_error = global::DXChartsGettingStarted.Droid.Resource.Color.design_error;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.design_fab_shadow_end_color = global::DXChartsGettingStarted.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.design_fab_shadow_mid_color = global::DXChartsGettingStarted.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.design_fab_shadow_start_color = global::DXChartsGettingStarted.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.design_fab_stroke_end_inner_color = global::DXChartsGettingStarted.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.design_fab_stroke_end_outer_color = global::DXChartsGettingStarted.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.design_fab_stroke_top_inner_color = global::DXChartsGettingStarted.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.design_fab_stroke_top_outer_color = global::DXChartsGettingStarted.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.design_snackbar_background_color = global::DXChartsGettingStarted.Droid.Resource.Color.design_snackbar_background_color;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.design_tint_password_toggle = global::DXChartsGettingStarted.Droid.Resource.Color.design_tint_password_toggle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.dim_foreground_disabled_material_dark = global::DXChartsGettingStarted.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.dim_foreground_disabled_material_light = global::DXChartsGettingStarted.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.dim_foreground_material_dark = global::DXChartsGettingStarted.Droid.Resource.Color.dim_foreground_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.dim_foreground_material_light = global::DXChartsGettingStarted.Droid.Resource.Color.dim_foreground_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.foreground_material_dark = global::DXChartsGettingStarted.Droid.Resource.Color.foreground_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.foreground_material_light = global::DXChartsGettingStarted.Droid.Resource.Color.foreground_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.highlighted_text_material_dark = global::DXChartsGettingStarted.Droid.Resource.Color.highlighted_text_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.highlighted_text_material_light = global::DXChartsGettingStarted.Droid.Resource.Color.highlighted_text_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.material_blue_grey_800 = global::DXChartsGettingStarted.Droid.Resource.Color.material_blue_grey_800;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.material_blue_grey_900 = global::DXChartsGettingStarted.Droid.Resource.Color.material_blue_grey_900;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.material_blue_grey_950 = global::DXChartsGettingStarted.Droid.Resource.Color.material_blue_grey_950;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.material_deep_teal_200 = global::DXChartsGettingStarted.Droid.Resource.Color.material_deep_teal_200;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.material_deep_teal_500 = global::DXChartsGettingStarted.Droid.Resource.Color.material_deep_teal_500;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.material_grey_100 = global::DXChartsGettingStarted.Droid.Resource.Color.material_grey_100;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.material_grey_300 = global::DXChartsGettingStarted.Droid.Resource.Color.material_grey_300;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.material_grey_50 = global::DXChartsGettingStarted.Droid.Resource.Color.material_grey_50;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.material_grey_600 = global::DXChartsGettingStarted.Droid.Resource.Color.material_grey_600;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.material_grey_800 = global::DXChartsGettingStarted.Droid.Resource.Color.material_grey_800;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.material_grey_850 = global::DXChartsGettingStarted.Droid.Resource.Color.material_grey_850;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.material_grey_900 = global::DXChartsGettingStarted.Droid.Resource.Color.material_grey_900;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.notification_action_color_filter = global::DXChartsGettingStarted.Droid.Resource.Color.notification_action_color_filter;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.notification_icon_bg_color = global::DXChartsGettingStarted.Droid.Resource.Color.notification_icon_bg_color;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.notification_material_background_media_default_color = global::DXChartsGettingStarted.Droid.Resource.Color.notification_material_background_media_default_color;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.primary_dark_material_dark = global::DXChartsGettingStarted.Droid.Resource.Color.primary_dark_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.primary_dark_material_light = global::DXChartsGettingStarted.Droid.Resource.Color.primary_dark_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.primary_material_dark = global::DXChartsGettingStarted.Droid.Resource.Color.primary_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.primary_material_light = global::DXChartsGettingStarted.Droid.Resource.Color.primary_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.primary_text_default_material_dark = global::DXChartsGettingStarted.Droid.Resource.Color.primary_text_default_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.primary_text_default_material_light = global::DXChartsGettingStarted.Droid.Resource.Color.primary_text_default_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.primary_text_disabled_material_dark = global::DXChartsGettingStarted.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.primary_text_disabled_material_light = global::DXChartsGettingStarted.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.ripple_material_dark = global::DXChartsGettingStarted.Droid.Resource.Color.ripple_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.ripple_material_light = global::DXChartsGettingStarted.Droid.Resource.Color.ripple_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.secondary_text_default_material_dark = global::DXChartsGettingStarted.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.secondary_text_default_material_light = global::DXChartsGettingStarted.Droid.Resource.Color.secondary_text_default_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.secondary_text_disabled_material_dark = global::DXChartsGettingStarted.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.secondary_text_disabled_material_light = global::DXChartsGettingStarted.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.switch_thumb_disabled_material_dark = global::DXChartsGettingStarted.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.switch_thumb_disabled_material_light = global::DXChartsGettingStarted.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.switch_thumb_material_dark = global::DXChartsGettingStarted.Droid.Resource.Color.switch_thumb_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.switch_thumb_material_light = global::DXChartsGettingStarted.Droid.Resource.Color.switch_thumb_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.switch_thumb_normal_material_dark = global::DXChartsGettingStarted.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.switch_thumb_normal_material_light = global::DXChartsGettingStarted.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.tooltip_background_dark = global::DXChartsGettingStarted.Droid.Resource.Color.tooltip_background_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Color.tooltip_background_light = global::DXChartsGettingStarted.Droid.Resource.Color.tooltip_background_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_action_bar_content_inset_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_action_bar_default_height_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_action_bar_default_padding_end_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_action_bar_default_padding_start_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_action_bar_elevation_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_action_bar_stacked_max_height = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_action_button_min_height_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_action_button_min_width_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_action_button_min_width_overflow_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_alert_dialog_button_bar_height = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_button_inset_horizontal_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_button_inset_vertical_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_button_padding_horizontal_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_button_padding_vertical_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_config_prefDialogWidth = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_control_corner_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_control_corner_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_control_inset_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_control_inset_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_control_padding_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_control_padding_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_dialog_fixed_height_major = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_dialog_fixed_height_minor = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_dialog_fixed_width_major = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_dialog_fixed_width_minor = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_dialog_min_width_major = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_dialog_min_width_minor = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_dialog_padding_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_dialog_padding_top_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_dialog_title_divider_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_disabled_alpha_material_dark = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_disabled_alpha_material_light = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_dropdownitem_icon_width = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_dropdownitem_text_padding_left = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_dropdownitem_text_padding_right = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_edit_text_inset_bottom_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_edit_text_inset_top_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_floating_window_z = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_floating_window_z;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_list_item_padding_horizontal_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_panel_menu_list_width = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_progress_bar_height_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_search_view_preferred_height = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_search_view_preferred_width = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_seekbar_track_background_height_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_seekbar_track_progress_height_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_select_dialog_padding_start_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_switch_padding = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_switch_padding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_text_size_body_1_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_text_size_body_2_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_text_size_button_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_text_size_caption_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_text_size_display_1_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_text_size_display_2_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_text_size_display_3_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_text_size_display_4_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_text_size_headline_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_text_size_large_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_text_size_medium_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_text_size_menu_header_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_text_size_menu_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_text_size_small_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_text_size_subhead_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_text_size_title_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.abc_text_size_title_material_toolbar = global::DXChartsGettingStarted.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.area_series_alpha = global::DXChartsGettingStarted.Droid.Resource.Dimension.area_series_alpha;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.area_series_marker_size = global::DXChartsGettingStarted.Droid.Resource.Dimension.area_series_marker_size;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.area_series_marker_stroke_thickness = global::DXChartsGettingStarted.Droid.Resource.Dimension.area_series_marker_stroke_thickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.area_series_stroke_thickness = global::DXChartsGettingStarted.Droid.Resource.Dimension.area_series_stroke_thickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.axis_constant_line_thickness = global::DXChartsGettingStarted.Droid.Resource.Dimension.axis_constant_line_thickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.axis_major_gridlines_thickness = global::DXChartsGettingStarted.Droid.Resource.Dimension.axis_major_gridlines_thickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.axis_major_tickmarks_length = global::DXChartsGettingStarted.Droid.Resource.Dimension.axis_major_tickmarks_length;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.axis_major_tickmarks_thickness = global::DXChartsGettingStarted.Droid.Resource.Dimension.axis_major_tickmarks_thickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.axis_minor_gridlines_thickness = global::DXChartsGettingStarted.Droid.Resource.Dimension.axis_minor_gridlines_thickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.axis_minor_tickmarks_length = global::DXChartsGettingStarted.Droid.Resource.Dimension.axis_minor_tickmarks_length;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.axis_minor_tickmarks_thickness = global::DXChartsGettingStarted.Droid.Resource.Dimension.axis_minor_tickmarks_thickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.axis_thickness = global::DXChartsGettingStarted.Droid.Resource.Dimension.axis_thickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.bar_series_stroke_thickness = global::DXChartsGettingStarted.Droid.Resource.Dimension.bar_series_stroke_thickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.candle_stick_series_stroke_thickness = global::DXChartsGettingStarted.Droid.Resource.Dimension.candle_stick_series_stroke_thickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.cardview_compat_inset_shadow = global::DXChartsGettingStarted.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.cardview_default_elevation = global::DXChartsGettingStarted.Droid.Resource.Dimension.cardview_default_elevation;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.cardview_default_radius = global::DXChartsGettingStarted.Droid.Resource.Dimension.cardview_default_radius;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.chart_axis_constant_line_title_size = global::DXChartsGettingStarted.Droid.Resource.Dimension.chart_axis_constant_line_title_size;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.chart_axis_strip_label_size = global::DXChartsGettingStarted.Droid.Resource.Dimension.chart_axis_strip_label_size;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.chart_axis_title_size = global::DXChartsGettingStarted.Droid.Resource.Dimension.chart_axis_title_size;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.chart_border_thickness = global::DXChartsGettingStarted.Droid.Resource.Dimension.chart_border_thickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.chart_padding = global::DXChartsGettingStarted.Droid.Resource.Dimension.chart_padding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.chart_text_size = global::DXChartsGettingStarted.Droid.Resource.Dimension.chart_text_size;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.compat_button_inset_horizontal_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.compat_button_inset_vertical_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.compat_button_padding_horizontal_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.compat_button_padding_vertical_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.compat_control_corner_material = global::DXChartsGettingStarted.Droid.Resource.Dimension.compat_control_corner_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_appbar_elevation = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_appbar_elevation;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_bottom_navigation_active_text_size = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_bottom_navigation_elevation = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_bottom_navigation_elevation;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_bottom_navigation_height = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_bottom_navigation_height;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_bottom_navigation_item_max_width = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_bottom_navigation_item_min_width = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_bottom_navigation_margin = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_bottom_navigation_margin;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_bottom_navigation_shadow_height = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_bottom_navigation_text_size = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_bottom_sheet_modal_elevation = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_bottom_sheet_peek_height_min = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_fab_border_width = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_fab_border_width;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_fab_elevation = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_fab_elevation;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_fab_image_size = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_fab_image_size;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_fab_size_mini = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_fab_size_mini;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_fab_size_normal = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_fab_size_normal;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_fab_translation_z_pressed = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_navigation_elevation = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_navigation_elevation;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_navigation_icon_padding = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_navigation_icon_size = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_navigation_max_width = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_navigation_max_width;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_navigation_padding_bottom = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_navigation_separator_vertical_padding = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_snackbar_action_inline_max_width = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_snackbar_background_corner_radius = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_snackbar_elevation = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_snackbar_max_width = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_snackbar_min_width = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_snackbar_padding_horizontal = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_snackbar_padding_vertical = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_snackbar_text_size = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_tab_max_width = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_tab_max_width;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_tab_scrollable_min_width = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_tab_text_size = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_tab_text_size;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.design_tab_text_size_2line = global::DXChartsGettingStarted.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.disabled_alpha_material_dark = global::DXChartsGettingStarted.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.disabled_alpha_material_light = global::DXChartsGettingStarted.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.fastscroll_default_thickness = global::DXChartsGettingStarted.Droid.Resource.Dimension.fastscroll_default_thickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.fastscroll_margin = global::DXChartsGettingStarted.Droid.Resource.Dimension.fastscroll_margin;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.fastscroll_minimum_range = global::DXChartsGettingStarted.Droid.Resource.Dimension.fastscroll_minimum_range;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.highlight_alpha_material_colored = global::DXChartsGettingStarted.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.highlight_alpha_material_dark = global::DXChartsGettingStarted.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.highlight_alpha_material_light = global::DXChartsGettingStarted.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.hint_alpha_material_dark = global::DXChartsGettingStarted.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.hint_alpha_material_light = global::DXChartsGettingStarted.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.hint_border_radius = global::DXChartsGettingStarted.Droid.Resource.Dimension.hint_border_radius;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.hint_border_thickness = global::DXChartsGettingStarted.Droid.Resource.Dimension.hint_border_thickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.hint_items_indent = global::DXChartsGettingStarted.Droid.Resource.Dimension.hint_items_indent;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.hint_line_thickness = global::DXChartsGettingStarted.Droid.Resource.Dimension.hint_line_thickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.hint_marker_size = global::DXChartsGettingStarted.Droid.Resource.Dimension.hint_marker_size;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.hint_padding_bottom = global::DXChartsGettingStarted.Droid.Resource.Dimension.hint_padding_bottom;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.hint_padding_left = global::DXChartsGettingStarted.Droid.Resource.Dimension.hint_padding_left;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.hint_padding_right = global::DXChartsGettingStarted.Droid.Resource.Dimension.hint_padding_right;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.hint_padding_top = global::DXChartsGettingStarted.Droid.Resource.Dimension.hint_padding_top;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.hint_pressed_alpha_material_dark = global::DXChartsGettingStarted.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.hint_pressed_alpha_material_light = global::DXChartsGettingStarted.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.hint_tail_height = global::DXChartsGettingStarted.Droid.Resource.Dimension.hint_tail_height;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.hint_tail_width = global::DXChartsGettingStarted.Droid.Resource.Dimension.hint_tail_width;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.hint_text_indent = global::DXChartsGettingStarted.Droid.Resource.Dimension.hint_text_indent;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::DXChartsGettingStarted.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::DXChartsGettingStarted.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::DXChartsGettingStarted.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.legend_border_thickness = global::DXChartsGettingStarted.Droid.Resource.Dimension.legend_border_thickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.legend_horizontal_indent = global::DXChartsGettingStarted.Droid.Resource.Dimension.legend_horizontal_indent;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.legend_indent_to_diagram = global::DXChartsGettingStarted.Droid.Resource.Dimension.legend_indent_to_diagram;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.legend_marker_size = global::DXChartsGettingStarted.Droid.Resource.Dimension.legend_marker_size;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.legend_padding = global::DXChartsGettingStarted.Droid.Resource.Dimension.legend_padding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.legend_text_indent = global::DXChartsGettingStarted.Droid.Resource.Dimension.legend_text_indent;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.legend_vertical_indent = global::DXChartsGettingStarted.Droid.Resource.Dimension.legend_vertical_indent;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.line_series_marker_size = global::DXChartsGettingStarted.Droid.Resource.Dimension.line_series_marker_size;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.line_series_marker_stroke_thickness = global::DXChartsGettingStarted.Droid.Resource.Dimension.line_series_marker_stroke_thickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.line_series_stroke_thickness = global::DXChartsGettingStarted.Droid.Resource.Dimension.line_series_stroke_thickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.mr_controller_volume_group_list_item_height = global::DXChartsGettingStarted.Droid.Resource.Dimension.mr_controller_volume_group_list_item_height;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.mr_controller_volume_group_list_item_icon_size = global::DXChartsGettingStarted.Droid.Resource.Dimension.mr_controller_volume_group_list_item_icon_size;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.mr_controller_volume_group_list_max_height = global::DXChartsGettingStarted.Droid.Resource.Dimension.mr_controller_volume_group_list_max_height;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.mr_controller_volume_group_list_padding_top = global::DXChartsGettingStarted.Droid.Resource.Dimension.mr_controller_volume_group_list_padding_top;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.mr_dialog_fixed_width_major = global::DXChartsGettingStarted.Droid.Resource.Dimension.mr_dialog_fixed_width_major;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.mr_dialog_fixed_width_minor = global::DXChartsGettingStarted.Droid.Resource.Dimension.mr_dialog_fixed_width_minor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.notification_action_icon_size = global::DXChartsGettingStarted.Droid.Resource.Dimension.notification_action_icon_size;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.notification_action_text_size = global::DXChartsGettingStarted.Droid.Resource.Dimension.notification_action_text_size;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.notification_big_circle_margin = global::DXChartsGettingStarted.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.notification_content_margin_start = global::DXChartsGettingStarted.Droid.Resource.Dimension.notification_content_margin_start;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.notification_large_icon_height = global::DXChartsGettingStarted.Droid.Resource.Dimension.notification_large_icon_height;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.notification_large_icon_width = global::DXChartsGettingStarted.Droid.Resource.Dimension.notification_large_icon_width;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.notification_main_column_padding_top = global::DXChartsGettingStarted.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.notification_media_narrow_margin = global::DXChartsGettingStarted.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.notification_right_icon_size = global::DXChartsGettingStarted.Droid.Resource.Dimension.notification_right_icon_size;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.notification_right_side_padding_top = global::DXChartsGettingStarted.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.notification_small_icon_background_padding = global::DXChartsGettingStarted.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.notification_small_icon_size_as_large = global::DXChartsGettingStarted.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.notification_subtext_size = global::DXChartsGettingStarted.Droid.Resource.Dimension.notification_subtext_size;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.notification_top_pad = global::DXChartsGettingStarted.Droid.Resource.Dimension.notification_top_pad;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.notification_top_pad_large_text = global::DXChartsGettingStarted.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.pie_connector_thickness = global::DXChartsGettingStarted.Droid.Resource.Dimension.pie_connector_thickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.pie_series_indent = global::DXChartsGettingStarted.Droid.Resource.Dimension.pie_series_indent;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.pie_stroke_thickness = global::DXChartsGettingStarted.Droid.Resource.Dimension.pie_stroke_thickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.point_series_marker_size = global::DXChartsGettingStarted.Droid.Resource.Dimension.point_series_marker_size;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.point_series_stroke_thickness = global::DXChartsGettingStarted.Droid.Resource.Dimension.point_series_stroke_thickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.stock_series_stroke_thickness = global::DXChartsGettingStarted.Droid.Resource.Dimension.stock_series_stroke_thickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.tooltip_corner_radius = global::DXChartsGettingStarted.Droid.Resource.Dimension.tooltip_corner_radius;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.tooltip_horizontal_padding = global::DXChartsGettingStarted.Droid.Resource.Dimension.tooltip_horizontal_padding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.tooltip_margin = global::DXChartsGettingStarted.Droid.Resource.Dimension.tooltip_margin;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::DXChartsGettingStarted.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.tooltip_precise_anchor_threshold = global::DXChartsGettingStarted.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.tooltip_vertical_padding = global::DXChartsGettingStarted.Droid.Resource.Dimension.tooltip_vertical_padding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.tooltip_y_offset_non_touch = global::DXChartsGettingStarted.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Dimension.tooltip_y_offset_touch = global::DXChartsGettingStarted.Droid.Resource.Dimension.tooltip_y_offset_touch;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_action_bar_item_background_material = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_btn_borderless_material = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_btn_check_material = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_btn_check_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_btn_colored_material = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_btn_default_mtrl_shape = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_btn_radio_material = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_cab_background_internal_bg = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_cab_background_top_material = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_control_background_material = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_control_background_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_dialog_material_background = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_edit_text_material = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_edit_text_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_ic_ab_back_material = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_ic_clear_material = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_ic_go_search_api_material = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_ic_menu_overflow_material = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_ic_search_api_material = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_ic_star_black_16dp = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_ic_star_black_36dp = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_ic_star_black_48dp = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_ic_star_black_48dp;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_ic_star_half_black_16dp = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_ic_star_half_black_36dp = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_ic_star_half_black_48dp = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_ic_voice_search_api_material = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_item_background_holo_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_item_background_holo_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_list_divider_mtrl_alpha = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_list_focused_holo = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_list_longpressed_holo = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_list_pressed_holo_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_list_pressed_holo_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_list_selector_disabled_holo_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_list_selector_holo_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_list_selector_holo_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_popup_background_mtrl_mult = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_ratingbar_indicator_material = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_ratingbar_material = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_ratingbar_small_material = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_seekbar_thumb_material = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_seekbar_tick_mark_material = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_seekbar_track_material = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_spinner_textfield_background_material = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_switch_thumb_material = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_switch_track_mtrl_alpha = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_tab_indicator_material = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_text_cursor_material = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_textfield_search_material = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.abc_vector_test = global::DXChartsGettingStarted.Droid.Resource.Drawable.abc_vector_test;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.avd_hide_password = global::DXChartsGettingStarted.Droid.Resource.Drawable.avd_hide_password;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.avd_hide_password_1 = global::DXChartsGettingStarted.Droid.Resource.Drawable.avd_hide_password_1;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.avd_hide_password_2 = global::DXChartsGettingStarted.Droid.Resource.Drawable.avd_hide_password_2;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.avd_hide_password_3 = global::DXChartsGettingStarted.Droid.Resource.Drawable.avd_hide_password_3;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.avd_show_password = global::DXChartsGettingStarted.Droid.Resource.Drawable.avd_show_password;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.avd_show_password_1 = global::DXChartsGettingStarted.Droid.Resource.Drawable.avd_show_password_1;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.avd_show_password_2 = global::DXChartsGettingStarted.Droid.Resource.Drawable.avd_show_password_2;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.avd_show_password_3 = global::DXChartsGettingStarted.Droid.Resource.Drawable.avd_show_password_3;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.design_bottom_navigation_item_background = global::DXChartsGettingStarted.Droid.Resource.Drawable.design_bottom_navigation_item_background;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.design_fab_background = global::DXChartsGettingStarted.Droid.Resource.Drawable.design_fab_background;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.design_ic_visibility = global::DXChartsGettingStarted.Droid.Resource.Drawable.design_ic_visibility;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.design_ic_visibility_off = global::DXChartsGettingStarted.Droid.Resource.Drawable.design_ic_visibility_off;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.design_password_eye = global::DXChartsGettingStarted.Droid.Resource.Drawable.design_password_eye;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.design_snackbar_background = global::DXChartsGettingStarted.Droid.Resource.Drawable.design_snackbar_background;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_audiotrack_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_audiotrack_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_audiotrack_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_audiotrack_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_dialog_close_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_dialog_close_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_dialog_close_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_dialog_close_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_collapse_00 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_collapse_00;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_collapse_01 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_collapse_01;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_collapse_02 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_collapse_02;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_collapse_03 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_collapse_03;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_collapse_04 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_collapse_04;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_collapse_05 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_collapse_05;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_collapse_06 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_collapse_06;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_collapse_07 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_collapse_07;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_collapse_08 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_collapse_08;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_collapse_09 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_collapse_09;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_collapse_10 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_collapse_10;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_collapse_11 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_collapse_11;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_collapse_12 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_collapse_12;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_collapse_13 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_collapse_13;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_collapse_14 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_collapse_14;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_collapse_15 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_collapse_15;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_expand_00 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_expand_00;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_expand_01 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_expand_01;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_expand_02 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_expand_02;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_expand_03 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_expand_03;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_expand_04 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_expand_04;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_expand_05 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_expand_05;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_expand_06 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_expand_06;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_expand_07 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_expand_07;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_expand_08 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_expand_08;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_expand_09 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_expand_09;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_expand_10 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_expand_10;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_expand_11 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_expand_11;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_expand_12 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_expand_12;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_expand_13 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_expand_13;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_expand_14 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_expand_14;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_group_expand_15 = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_group_expand_15;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_media_pause_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_media_pause_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_media_pause_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_media_pause_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_media_play_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_media_play_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_media_play_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_media_play_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_media_stop_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_media_stop_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_media_stop_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_media_stop_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_00_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_00_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_00_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_00_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_01_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_01_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_01_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_01_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_02_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_02_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_02_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_02_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_03_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_03_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_03_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_03_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_04_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_04_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_04_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_04_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_05_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_05_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_05_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_05_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_06_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_06_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_06_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_06_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_07_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_07_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_07_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_07_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_08_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_08_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_08_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_08_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_09_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_09_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_09_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_09_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_10_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_10_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_10_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_10_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_11_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_11_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_11_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_11_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_12_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_12_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_12_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_12_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_13_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_13_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_13_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_13_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_14_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_14_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_14_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_14_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_15_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_15_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_15_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_15_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_16_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_16_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_16_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_16_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_17_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_17_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_17_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_17_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_18_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_18_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_18_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_18_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_19_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_19_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_19_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_19_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_20_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_20_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_20_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_20_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_21_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_21_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_21_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_21_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_22_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_22_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_22_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_22_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_23_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_23_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_23_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_23_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_24_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_24_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_24_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_24_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_25_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_25_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_25_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_25_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_26_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_26_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_26_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_26_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_27_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_27_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_27_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_27_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_28_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_28_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_28_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_28_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_29_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_29_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_29_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_29_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_30_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_30_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connected_30_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connected_30_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_00_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_00_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_00_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_00_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_01_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_01_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_01_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_01_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_02_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_02_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_02_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_02_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_03_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_03_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_03_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_03_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_04_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_04_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_04_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_04_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_05_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_05_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_05_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_05_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_06_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_06_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_06_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_06_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_07_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_07_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_07_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_07_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_08_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_08_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_08_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_08_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_09_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_09_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_09_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_09_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_10_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_10_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_10_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_10_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_11_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_11_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_11_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_11_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_12_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_12_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_12_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_12_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_13_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_13_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_13_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_13_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_14_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_14_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_14_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_14_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_15_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_15_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_15_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_15_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_16_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_16_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_16_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_16_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_17_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_17_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_17_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_17_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_18_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_18_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_18_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_18_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_19_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_19_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_19_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_19_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_20_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_20_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_20_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_20_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_21_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_21_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_21_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_21_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_22_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_22_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_22_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_22_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_23_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_23_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_23_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_23_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_24_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_24_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_24_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_24_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_25_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_25_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_25_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_25_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_26_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_26_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_26_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_26_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_27_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_27_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_27_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_27_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_28_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_28_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_28_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_28_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_29_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_29_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_29_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_29_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_30_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_30_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_connecting_30_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_connecting_30_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_disabled_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_disabled_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_disabled_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_disabled_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_disconnected_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_disconnected_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_disconnected_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_disconnected_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_mr_button_grey = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_mr_button_grey;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_vol_type_speaker_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_vol_type_speaker_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_vol_type_speaker_group_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_vol_type_speaker_group_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_vol_type_speaker_group_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_vol_type_speaker_group_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_vol_type_speaker_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_vol_type_speaker_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_vol_type_tv_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_vol_type_tv_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.ic_vol_type_tv_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.ic_vol_type_tv_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.mr_button_connected_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.mr_button_connected_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.mr_button_connected_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.mr_button_connected_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.mr_button_connecting_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.mr_button_connecting_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.mr_button_connecting_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.mr_button_connecting_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.mr_button_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.mr_button_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.mr_button_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.mr_button_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.mr_dialog_close_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.mr_dialog_close_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.mr_dialog_close_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.mr_dialog_close_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.mr_dialog_material_background_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.mr_dialog_material_background_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.mr_dialog_material_background_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.mr_dialog_material_background_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.mr_group_collapse = global::DXChartsGettingStarted.Droid.Resource.Drawable.mr_group_collapse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.mr_group_expand = global::DXChartsGettingStarted.Droid.Resource.Drawable.mr_group_expand;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.mr_media_pause_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.mr_media_pause_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.mr_media_pause_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.mr_media_pause_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.mr_media_play_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.mr_media_play_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.mr_media_play_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.mr_media_play_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.mr_media_stop_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.mr_media_stop_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.mr_media_stop_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.mr_media_stop_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.mr_vol_type_audiotrack_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.mr_vol_type_audiotrack_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.mr_vol_type_audiotrack_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.mr_vol_type_audiotrack_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.navigation_empty_icon = global::DXChartsGettingStarted.Droid.Resource.Drawable.navigation_empty_icon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.notification_action_background = global::DXChartsGettingStarted.Droid.Resource.Drawable.notification_action_background;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.notification_bg = global::DXChartsGettingStarted.Droid.Resource.Drawable.notification_bg;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.notification_bg_low = global::DXChartsGettingStarted.Droid.Resource.Drawable.notification_bg_low;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.notification_bg_low_normal = global::DXChartsGettingStarted.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.notification_bg_low_pressed = global::DXChartsGettingStarted.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.notification_bg_normal = global::DXChartsGettingStarted.Droid.Resource.Drawable.notification_bg_normal;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.notification_bg_normal_pressed = global::DXChartsGettingStarted.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.notification_icon_background = global::DXChartsGettingStarted.Droid.Resource.Drawable.notification_icon_background;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.notification_template_icon_bg = global::DXChartsGettingStarted.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.notification_template_icon_low_bg = global::DXChartsGettingStarted.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.notification_tile_bg = global::DXChartsGettingStarted.Droid.Resource.Drawable.notification_tile_bg;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.notify_panel_notification_icon_bg = global::DXChartsGettingStarted.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.tooltip_frame_dark = global::DXChartsGettingStarted.Droid.Resource.Drawable.tooltip_frame_dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Drawable.tooltip_frame_light = global::DXChartsGettingStarted.Droid.Resource.Drawable.tooltip_frame_light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.ALT = global::DXChartsGettingStarted.Droid.Resource.Id.ALT;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.CTRL = global::DXChartsGettingStarted.Droid.Resource.Id.CTRL;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.FUNCTION = global::DXChartsGettingStarted.Droid.Resource.Id.FUNCTION;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.META = global::DXChartsGettingStarted.Droid.Resource.Id.META;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.SHIFT = global::DXChartsGettingStarted.Droid.Resource.Id.SHIFT;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.SYM = global::DXChartsGettingStarted.Droid.Resource.Id.SYM;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.action0 = global::DXChartsGettingStarted.Droid.Resource.Id.action0;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.action_bar = global::DXChartsGettingStarted.Droid.Resource.Id.action_bar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.action_bar_activity_content = global::DXChartsGettingStarted.Droid.Resource.Id.action_bar_activity_content;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.action_bar_container = global::DXChartsGettingStarted.Droid.Resource.Id.action_bar_container;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.action_bar_root = global::DXChartsGettingStarted.Droid.Resource.Id.action_bar_root;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.action_bar_spinner = global::DXChartsGettingStarted.Droid.Resource.Id.action_bar_spinner;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.action_bar_subtitle = global::DXChartsGettingStarted.Droid.Resource.Id.action_bar_subtitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.action_bar_title = global::DXChartsGettingStarted.Droid.Resource.Id.action_bar_title;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.action_container = global::DXChartsGettingStarted.Droid.Resource.Id.action_container;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.action_context_bar = global::DXChartsGettingStarted.Droid.Resource.Id.action_context_bar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.action_divider = global::DXChartsGettingStarted.Droid.Resource.Id.action_divider;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.action_image = global::DXChartsGettingStarted.Droid.Resource.Id.action_image;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.action_menu_divider = global::DXChartsGettingStarted.Droid.Resource.Id.action_menu_divider;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.action_menu_presenter = global::DXChartsGettingStarted.Droid.Resource.Id.action_menu_presenter;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.action_mode_bar = global::DXChartsGettingStarted.Droid.Resource.Id.action_mode_bar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.action_mode_bar_stub = global::DXChartsGettingStarted.Droid.Resource.Id.action_mode_bar_stub;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.action_mode_close_button = global::DXChartsGettingStarted.Droid.Resource.Id.action_mode_close_button;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.action_text = global::DXChartsGettingStarted.Droid.Resource.Id.action_text;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.actions = global::DXChartsGettingStarted.Droid.Resource.Id.actions;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.activity_chooser_view_content = global::DXChartsGettingStarted.Droid.Resource.Id.activity_chooser_view_content;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.add = global::DXChartsGettingStarted.Droid.Resource.Id.add;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.alertTitle = global::DXChartsGettingStarted.Droid.Resource.Id.alertTitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.all = global::DXChartsGettingStarted.Droid.Resource.Id.all;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.always = global::DXChartsGettingStarted.Droid.Resource.Id.always;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.async = global::DXChartsGettingStarted.Droid.Resource.Id.async;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.auto = global::DXChartsGettingStarted.Droid.Resource.Id.auto;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.beginning = global::DXChartsGettingStarted.Droid.Resource.Id.beginning;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.blocking = global::DXChartsGettingStarted.Droid.Resource.Id.blocking;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.bottom = global::DXChartsGettingStarted.Droid.Resource.Id.bottom;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.buttonPanel = global::DXChartsGettingStarted.Droid.Resource.Id.buttonPanel;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.cancel_action = global::DXChartsGettingStarted.Droid.Resource.Id.cancel_action;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.center = global::DXChartsGettingStarted.Droid.Resource.Id.center;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.center_horizontal = global::DXChartsGettingStarted.Droid.Resource.Id.center_horizontal;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.center_vertical = global::DXChartsGettingStarted.Droid.Resource.Id.center_vertical;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.checkbox = global::DXChartsGettingStarted.Droid.Resource.Id.checkbox;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.chronometer = global::DXChartsGettingStarted.Droid.Resource.Id.chronometer;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.clip_horizontal = global::DXChartsGettingStarted.Droid.Resource.Id.clip_horizontal;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.clip_vertical = global::DXChartsGettingStarted.Droid.Resource.Id.clip_vertical;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.collapseActionView = global::DXChartsGettingStarted.Droid.Resource.Id.collapseActionView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.container = global::DXChartsGettingStarted.Droid.Resource.Id.container;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.contentPanel = global::DXChartsGettingStarted.Droid.Resource.Id.contentPanel;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.coordinator = global::DXChartsGettingStarted.Droid.Resource.Id.coordinator;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.custom = global::DXChartsGettingStarted.Droid.Resource.Id.custom;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.customPanel = global::DXChartsGettingStarted.Droid.Resource.Id.customPanel;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.decor_content_parent = global::DXChartsGettingStarted.Droid.Resource.Id.decor_content_parent;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.default_activity_button = global::DXChartsGettingStarted.Droid.Resource.Id.default_activity_button;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.design_bottom_sheet = global::DXChartsGettingStarted.Droid.Resource.Id.design_bottom_sheet;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.design_menu_item_action_area = global::DXChartsGettingStarted.Droid.Resource.Id.design_menu_item_action_area;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.design_menu_item_action_area_stub = global::DXChartsGettingStarted.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.design_menu_item_text = global::DXChartsGettingStarted.Droid.Resource.Id.design_menu_item_text;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.design_navigation_view = global::DXChartsGettingStarted.Droid.Resource.Id.design_navigation_view;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.disableHome = global::DXChartsGettingStarted.Droid.Resource.Id.disableHome;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.edit_query = global::DXChartsGettingStarted.Droid.Resource.Id.edit_query;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.end = global::DXChartsGettingStarted.Droid.Resource.Id.end;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.end_padder = global::DXChartsGettingStarted.Droid.Resource.Id.end_padder;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.enterAlways = global::DXChartsGettingStarted.Droid.Resource.Id.enterAlways;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.enterAlwaysCollapsed = global::DXChartsGettingStarted.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.exitUntilCollapsed = global::DXChartsGettingStarted.Droid.Resource.Id.exitUntilCollapsed;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.expand_activities_button = global::DXChartsGettingStarted.Droid.Resource.Id.expand_activities_button;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.expanded_menu = global::DXChartsGettingStarted.Droid.Resource.Id.expanded_menu;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.fill = global::DXChartsGettingStarted.Droid.Resource.Id.fill;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.fill_horizontal = global::DXChartsGettingStarted.Droid.Resource.Id.fill_horizontal;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.fill_vertical = global::DXChartsGettingStarted.Droid.Resource.Id.fill_vertical;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.@fixed = global::DXChartsGettingStarted.Droid.Resource.Id.@fixed;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.forever = global::DXChartsGettingStarted.Droid.Resource.Id.forever;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.ghost_view = global::DXChartsGettingStarted.Droid.Resource.Id.ghost_view;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.home = global::DXChartsGettingStarted.Droid.Resource.Id.home;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.homeAsUp = global::DXChartsGettingStarted.Droid.Resource.Id.homeAsUp;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.icon = global::DXChartsGettingStarted.Droid.Resource.Id.icon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.icon_group = global::DXChartsGettingStarted.Droid.Resource.Id.icon_group;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.ifRoom = global::DXChartsGettingStarted.Droid.Resource.Id.ifRoom;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.image = global::DXChartsGettingStarted.Droid.Resource.Id.image;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.info = global::DXChartsGettingStarted.Droid.Resource.Id.info;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.italic = global::DXChartsGettingStarted.Droid.Resource.Id.italic;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.item_touch_helper_previous_elevation = global::DXChartsGettingStarted.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.largeLabel = global::DXChartsGettingStarted.Droid.Resource.Id.largeLabel;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.left = global::DXChartsGettingStarted.Droid.Resource.Id.left;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.line1 = global::DXChartsGettingStarted.Droid.Resource.Id.line1;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.line3 = global::DXChartsGettingStarted.Droid.Resource.Id.line3;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.listMode = global::DXChartsGettingStarted.Droid.Resource.Id.listMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.list_item = global::DXChartsGettingStarted.Droid.Resource.Id.list_item;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.masked = global::DXChartsGettingStarted.Droid.Resource.Id.masked;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.media_actions = global::DXChartsGettingStarted.Droid.Resource.Id.media_actions;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.message = global::DXChartsGettingStarted.Droid.Resource.Id.message;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.middle = global::DXChartsGettingStarted.Droid.Resource.Id.middle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.mini = global::DXChartsGettingStarted.Droid.Resource.Id.mini;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.mr_art = global::DXChartsGettingStarted.Droid.Resource.Id.mr_art;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.mr_chooser_list = global::DXChartsGettingStarted.Droid.Resource.Id.mr_chooser_list;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.mr_chooser_route_desc = global::DXChartsGettingStarted.Droid.Resource.Id.mr_chooser_route_desc;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.mr_chooser_route_icon = global::DXChartsGettingStarted.Droid.Resource.Id.mr_chooser_route_icon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.mr_chooser_route_name = global::DXChartsGettingStarted.Droid.Resource.Id.mr_chooser_route_name;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.mr_chooser_title = global::DXChartsGettingStarted.Droid.Resource.Id.mr_chooser_title;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.mr_close = global::DXChartsGettingStarted.Droid.Resource.Id.mr_close;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.mr_control_divider = global::DXChartsGettingStarted.Droid.Resource.Id.mr_control_divider;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.mr_control_playback_ctrl = global::DXChartsGettingStarted.Droid.Resource.Id.mr_control_playback_ctrl;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.mr_control_subtitle = global::DXChartsGettingStarted.Droid.Resource.Id.mr_control_subtitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.mr_control_title = global::DXChartsGettingStarted.Droid.Resource.Id.mr_control_title;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.mr_control_title_container = global::DXChartsGettingStarted.Droid.Resource.Id.mr_control_title_container;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.mr_custom_control = global::DXChartsGettingStarted.Droid.Resource.Id.mr_custom_control;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.mr_default_control = global::DXChartsGettingStarted.Droid.Resource.Id.mr_default_control;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.mr_dialog_area = global::DXChartsGettingStarted.Droid.Resource.Id.mr_dialog_area;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.mr_expandable_area = global::DXChartsGettingStarted.Droid.Resource.Id.mr_expandable_area;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.mr_group_expand_collapse = global::DXChartsGettingStarted.Droid.Resource.Id.mr_group_expand_collapse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.mr_media_main_control = global::DXChartsGettingStarted.Droid.Resource.Id.mr_media_main_control;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.mr_name = global::DXChartsGettingStarted.Droid.Resource.Id.mr_name;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.mr_playback_control = global::DXChartsGettingStarted.Droid.Resource.Id.mr_playback_control;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.mr_title_bar = global::DXChartsGettingStarted.Droid.Resource.Id.mr_title_bar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.mr_volume_control = global::DXChartsGettingStarted.Droid.Resource.Id.mr_volume_control;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.mr_volume_group_list = global::DXChartsGettingStarted.Droid.Resource.Id.mr_volume_group_list;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.mr_volume_item_icon = global::DXChartsGettingStarted.Droid.Resource.Id.mr_volume_item_icon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.mr_volume_slider = global::DXChartsGettingStarted.Droid.Resource.Id.mr_volume_slider;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.multiply = global::DXChartsGettingStarted.Droid.Resource.Id.multiply;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.navigation_header_container = global::DXChartsGettingStarted.Droid.Resource.Id.navigation_header_container;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.never = global::DXChartsGettingStarted.Droid.Resource.Id.never;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.none = global::DXChartsGettingStarted.Droid.Resource.Id.none;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.normal = global::DXChartsGettingStarted.Droid.Resource.Id.normal;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.notification_background = global::DXChartsGettingStarted.Droid.Resource.Id.notification_background;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.notification_main_column = global::DXChartsGettingStarted.Droid.Resource.Id.notification_main_column;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.notification_main_column_container = global::DXChartsGettingStarted.Droid.Resource.Id.notification_main_column_container;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.parallax = global::DXChartsGettingStarted.Droid.Resource.Id.parallax;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.parentPanel = global::DXChartsGettingStarted.Droid.Resource.Id.parentPanel;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.parent_matrix = global::DXChartsGettingStarted.Droid.Resource.Id.parent_matrix;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.pin = global::DXChartsGettingStarted.Droid.Resource.Id.pin;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.progress_circular = global::DXChartsGettingStarted.Droid.Resource.Id.progress_circular;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.progress_horizontal = global::DXChartsGettingStarted.Droid.Resource.Id.progress_horizontal;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.radio = global::DXChartsGettingStarted.Droid.Resource.Id.radio;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.right = global::DXChartsGettingStarted.Droid.Resource.Id.right;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.right_icon = global::DXChartsGettingStarted.Droid.Resource.Id.right_icon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.right_side = global::DXChartsGettingStarted.Droid.Resource.Id.right_side;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.save_image_matrix = global::DXChartsGettingStarted.Droid.Resource.Id.save_image_matrix;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.save_non_transition_alpha = global::DXChartsGettingStarted.Droid.Resource.Id.save_non_transition_alpha;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.save_scale_type = global::DXChartsGettingStarted.Droid.Resource.Id.save_scale_type;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.screen = global::DXChartsGettingStarted.Droid.Resource.Id.screen;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.scroll = global::DXChartsGettingStarted.Droid.Resource.Id.scroll;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.scrollIndicatorDown = global::DXChartsGettingStarted.Droid.Resource.Id.scrollIndicatorDown;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.scrollIndicatorUp = global::DXChartsGettingStarted.Droid.Resource.Id.scrollIndicatorUp;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.scrollView = global::DXChartsGettingStarted.Droid.Resource.Id.scrollView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.scrollable = global::DXChartsGettingStarted.Droid.Resource.Id.scrollable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.search_badge = global::DXChartsGettingStarted.Droid.Resource.Id.search_badge;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.search_bar = global::DXChartsGettingStarted.Droid.Resource.Id.search_bar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.search_button = global::DXChartsGettingStarted.Droid.Resource.Id.search_button;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.search_close_btn = global::DXChartsGettingStarted.Droid.Resource.Id.search_close_btn;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.search_edit_frame = global::DXChartsGettingStarted.Droid.Resource.Id.search_edit_frame;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.search_go_btn = global::DXChartsGettingStarted.Droid.Resource.Id.search_go_btn;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.search_mag_icon = global::DXChartsGettingStarted.Droid.Resource.Id.search_mag_icon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.search_plate = global::DXChartsGettingStarted.Droid.Resource.Id.search_plate;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.search_src_text = global::DXChartsGettingStarted.Droid.Resource.Id.search_src_text;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.search_voice_btn = global::DXChartsGettingStarted.Droid.Resource.Id.search_voice_btn;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.select_dialog_listview = global::DXChartsGettingStarted.Droid.Resource.Id.select_dialog_listview;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.shortcut = global::DXChartsGettingStarted.Droid.Resource.Id.shortcut;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.showCustom = global::DXChartsGettingStarted.Droid.Resource.Id.showCustom;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.showHome = global::DXChartsGettingStarted.Droid.Resource.Id.showHome;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.showTitle = global::DXChartsGettingStarted.Droid.Resource.Id.showTitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.smallLabel = global::DXChartsGettingStarted.Droid.Resource.Id.smallLabel;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.snackbar_action = global::DXChartsGettingStarted.Droid.Resource.Id.snackbar_action;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.snackbar_text = global::DXChartsGettingStarted.Droid.Resource.Id.snackbar_text;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.snap = global::DXChartsGettingStarted.Droid.Resource.Id.snap;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.spacer = global::DXChartsGettingStarted.Droid.Resource.Id.spacer;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.split_action_bar = global::DXChartsGettingStarted.Droid.Resource.Id.split_action_bar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.src_atop = global::DXChartsGettingStarted.Droid.Resource.Id.src_atop;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.src_in = global::DXChartsGettingStarted.Droid.Resource.Id.src_in;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.src_over = global::DXChartsGettingStarted.Droid.Resource.Id.src_over;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.start = global::DXChartsGettingStarted.Droid.Resource.Id.start;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.status_bar_latest_event_content = global::DXChartsGettingStarted.Droid.Resource.Id.status_bar_latest_event_content;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.submenuarrow = global::DXChartsGettingStarted.Droid.Resource.Id.submenuarrow;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.submit_area = global::DXChartsGettingStarted.Droid.Resource.Id.submit_area;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.surface = global::DXChartsGettingStarted.Droid.Resource.Id.surface;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.tabMode = global::DXChartsGettingStarted.Droid.Resource.Id.tabMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.text = global::DXChartsGettingStarted.Droid.Resource.Id.text;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.text2 = global::DXChartsGettingStarted.Droid.Resource.Id.text2;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.textSpacerNoButtons = global::DXChartsGettingStarted.Droid.Resource.Id.textSpacerNoButtons;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.textSpacerNoTitle = global::DXChartsGettingStarted.Droid.Resource.Id.textSpacerNoTitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.text_input_password_toggle = global::DXChartsGettingStarted.Droid.Resource.Id.text_input_password_toggle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.textinput_counter = global::DXChartsGettingStarted.Droid.Resource.Id.textinput_counter;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.textinput_error = global::DXChartsGettingStarted.Droid.Resource.Id.textinput_error;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.texture = global::DXChartsGettingStarted.Droid.Resource.Id.texture;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.time = global::DXChartsGettingStarted.Droid.Resource.Id.time;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.title = global::DXChartsGettingStarted.Droid.Resource.Id.title;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.titleDividerNoCustom = global::DXChartsGettingStarted.Droid.Resource.Id.titleDividerNoCustom;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.title_template = global::DXChartsGettingStarted.Droid.Resource.Id.title_template;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.top = global::DXChartsGettingStarted.Droid.Resource.Id.top;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.topPanel = global::DXChartsGettingStarted.Droid.Resource.Id.topPanel;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.touch_outside = global::DXChartsGettingStarted.Droid.Resource.Id.touch_outside;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.transition_current_scene = global::DXChartsGettingStarted.Droid.Resource.Id.transition_current_scene;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.transition_layout_save = global::DXChartsGettingStarted.Droid.Resource.Id.transition_layout_save;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.transition_position = global::DXChartsGettingStarted.Droid.Resource.Id.transition_position;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.transition_scene_layoutid_cache = global::DXChartsGettingStarted.Droid.Resource.Id.transition_scene_layoutid_cache;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.transition_transform = global::DXChartsGettingStarted.Droid.Resource.Id.transition_transform;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.uniform = global::DXChartsGettingStarted.Droid.Resource.Id.uniform;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.up = global::DXChartsGettingStarted.Droid.Resource.Id.up;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.useLogo = global::DXChartsGettingStarted.Droid.Resource.Id.useLogo;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.view_offset_helper = global::DXChartsGettingStarted.Droid.Resource.Id.view_offset_helper;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.visible = global::DXChartsGettingStarted.Droid.Resource.Id.visible;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.volume_item_container = global::DXChartsGettingStarted.Droid.Resource.Id.volume_item_container;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.withText = global::DXChartsGettingStarted.Droid.Resource.Id.withText;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Id.wrap_content = global::DXChartsGettingStarted.Droid.Resource.Id.wrap_content;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Integer.abc_config_activityDefaultDur = global::DXChartsGettingStarted.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Integer.abc_config_activityShortDur = global::DXChartsGettingStarted.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Integer.app_bar_elevation_anim_duration = global::DXChartsGettingStarted.Droid.Resource.Integer.app_bar_elevation_anim_duration;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Integer.bottom_sheet_slide_duration = global::DXChartsGettingStarted.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Integer.cancel_button_image_alpha = global::DXChartsGettingStarted.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Integer.config_tooltipAnimTime = global::DXChartsGettingStarted.Droid.Resource.Integer.config_tooltipAnimTime;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Integer.design_snackbar_text_max_lines = global::DXChartsGettingStarted.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Integer.hide_password_duration = global::DXChartsGettingStarted.Droid.Resource.Integer.hide_password_duration;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms = global::DXChartsGettingStarted.Droid.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms = global::DXChartsGettingStarted.Droid.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms = global::DXChartsGettingStarted.Droid.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Integer.pie_exploded_distance = global::DXChartsGettingStarted.Droid.Resource.Integer.pie_exploded_distance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Integer.show_password_duration = global::DXChartsGettingStarted.Droid.Resource.Integer.show_password_duration;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Integer.status_bar_notification_info_maxnum = global::DXChartsGettingStarted.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Interpolator.mr_fast_out_slow_in = global::DXChartsGettingStarted.Droid.Resource.Interpolator.mr_fast_out_slow_in;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Interpolator.mr_linear_out_slow_in = global::DXChartsGettingStarted.Droid.Resource.Interpolator.mr_linear_out_slow_in;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.abc_action_bar_title_item = global::DXChartsGettingStarted.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.abc_action_bar_up_container = global::DXChartsGettingStarted.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.abc_action_menu_item_layout = global::DXChartsGettingStarted.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.abc_action_menu_layout = global::DXChartsGettingStarted.Droid.Resource.Layout.abc_action_menu_layout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.abc_action_mode_bar = global::DXChartsGettingStarted.Droid.Resource.Layout.abc_action_mode_bar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.abc_action_mode_close_item_material = global::DXChartsGettingStarted.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.abc_activity_chooser_view = global::DXChartsGettingStarted.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.abc_activity_chooser_view_list_item = global::DXChartsGettingStarted.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.abc_alert_dialog_button_bar_material = global::DXChartsGettingStarted.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.abc_alert_dialog_material = global::DXChartsGettingStarted.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.abc_alert_dialog_title_material = global::DXChartsGettingStarted.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.abc_dialog_title_material = global::DXChartsGettingStarted.Droid.Resource.Layout.abc_dialog_title_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.abc_expanded_menu_layout = global::DXChartsGettingStarted.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.abc_list_menu_item_checkbox = global::DXChartsGettingStarted.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.abc_list_menu_item_icon = global::DXChartsGettingStarted.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.abc_list_menu_item_layout = global::DXChartsGettingStarted.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.abc_list_menu_item_radio = global::DXChartsGettingStarted.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.abc_popup_menu_header_item_layout = global::DXChartsGettingStarted.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.abc_popup_menu_item_layout = global::DXChartsGettingStarted.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.abc_screen_content_include = global::DXChartsGettingStarted.Droid.Resource.Layout.abc_screen_content_include;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.abc_screen_simple = global::DXChartsGettingStarted.Droid.Resource.Layout.abc_screen_simple;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.abc_screen_simple_overlay_action_mode = global::DXChartsGettingStarted.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.abc_screen_toolbar = global::DXChartsGettingStarted.Droid.Resource.Layout.abc_screen_toolbar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.abc_search_dropdown_item_icons_2line = global::DXChartsGettingStarted.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.abc_search_view = global::DXChartsGettingStarted.Droid.Resource.Layout.abc_search_view;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.abc_select_dialog_material = global::DXChartsGettingStarted.Droid.Resource.Layout.abc_select_dialog_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.design_bottom_navigation_item = global::DXChartsGettingStarted.Droid.Resource.Layout.design_bottom_navigation_item;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.design_bottom_sheet_dialog = global::DXChartsGettingStarted.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.design_layout_snackbar = global::DXChartsGettingStarted.Droid.Resource.Layout.design_layout_snackbar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.design_layout_snackbar_include = global::DXChartsGettingStarted.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.design_layout_tab_icon = global::DXChartsGettingStarted.Droid.Resource.Layout.design_layout_tab_icon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.design_layout_tab_text = global::DXChartsGettingStarted.Droid.Resource.Layout.design_layout_tab_text;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.design_menu_item_action_area = global::DXChartsGettingStarted.Droid.Resource.Layout.design_menu_item_action_area;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.design_navigation_item = global::DXChartsGettingStarted.Droid.Resource.Layout.design_navigation_item;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.design_navigation_item_header = global::DXChartsGettingStarted.Droid.Resource.Layout.design_navigation_item_header;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.design_navigation_item_separator = global::DXChartsGettingStarted.Droid.Resource.Layout.design_navigation_item_separator;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.design_navigation_item_subheader = global::DXChartsGettingStarted.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.design_navigation_menu = global::DXChartsGettingStarted.Droid.Resource.Layout.design_navigation_menu;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.design_navigation_menu_item = global::DXChartsGettingStarted.Droid.Resource.Layout.design_navigation_menu_item;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.design_text_input_password_icon = global::DXChartsGettingStarted.Droid.Resource.Layout.design_text_input_password_icon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.mr_chooser_dialog = global::DXChartsGettingStarted.Droid.Resource.Layout.mr_chooser_dialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.mr_chooser_list_item = global::DXChartsGettingStarted.Droid.Resource.Layout.mr_chooser_list_item;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.mr_controller_material_dialog_b = global::DXChartsGettingStarted.Droid.Resource.Layout.mr_controller_material_dialog_b;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.mr_controller_volume_item = global::DXChartsGettingStarted.Droid.Resource.Layout.mr_controller_volume_item;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.mr_playback_control = global::DXChartsGettingStarted.Droid.Resource.Layout.mr_playback_control;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.mr_volume_control = global::DXChartsGettingStarted.Droid.Resource.Layout.mr_volume_control;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.notification_action = global::DXChartsGettingStarted.Droid.Resource.Layout.notification_action;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.notification_action_tombstone = global::DXChartsGettingStarted.Droid.Resource.Layout.notification_action_tombstone;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.notification_media_action = global::DXChartsGettingStarted.Droid.Resource.Layout.notification_media_action;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.notification_media_cancel_action = global::DXChartsGettingStarted.Droid.Resource.Layout.notification_media_cancel_action;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.notification_template_big_media = global::DXChartsGettingStarted.Droid.Resource.Layout.notification_template_big_media;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.notification_template_big_media_custom = global::DXChartsGettingStarted.Droid.Resource.Layout.notification_template_big_media_custom;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.notification_template_big_media_narrow = global::DXChartsGettingStarted.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.notification_template_big_media_narrow_custom = global::DXChartsGettingStarted.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.notification_template_custom_big = global::DXChartsGettingStarted.Droid.Resource.Layout.notification_template_custom_big;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.notification_template_icon_group = global::DXChartsGettingStarted.Droid.Resource.Layout.notification_template_icon_group;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.notification_template_lines_media = global::DXChartsGettingStarted.Droid.Resource.Layout.notification_template_lines_media;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.notification_template_media = global::DXChartsGettingStarted.Droid.Resource.Layout.notification_template_media;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.notification_template_media_custom = global::DXChartsGettingStarted.Droid.Resource.Layout.notification_template_media_custom;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.notification_template_part_chronometer = global::DXChartsGettingStarted.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.notification_template_part_time = global::DXChartsGettingStarted.Droid.Resource.Layout.notification_template_part_time;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.select_dialog_item_material = global::DXChartsGettingStarted.Droid.Resource.Layout.select_dialog_item_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.select_dialog_multichoice_material = global::DXChartsGettingStarted.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.select_dialog_singlechoice_material = global::DXChartsGettingStarted.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Layout.support_simple_spinner_dropdown_item = global::DXChartsGettingStarted.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_action_bar_home_description = global::DXChartsGettingStarted.Droid.Resource.String.abc_action_bar_home_description;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_action_bar_up_description = global::DXChartsGettingStarted.Droid.Resource.String.abc_action_bar_up_description;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_action_menu_overflow_description = global::DXChartsGettingStarted.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_action_mode_done = global::DXChartsGettingStarted.Droid.Resource.String.abc_action_mode_done;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_activity_chooser_view_see_all = global::DXChartsGettingStarted.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_activitychooserview_choose_application = global::DXChartsGettingStarted.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_capital_off = global::DXChartsGettingStarted.Droid.Resource.String.abc_capital_off;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_capital_on = global::DXChartsGettingStarted.Droid.Resource.String.abc_capital_on;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_font_family_body_1_material = global::DXChartsGettingStarted.Droid.Resource.String.abc_font_family_body_1_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_font_family_body_2_material = global::DXChartsGettingStarted.Droid.Resource.String.abc_font_family_body_2_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_font_family_button_material = global::DXChartsGettingStarted.Droid.Resource.String.abc_font_family_button_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_font_family_caption_material = global::DXChartsGettingStarted.Droid.Resource.String.abc_font_family_caption_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_font_family_display_1_material = global::DXChartsGettingStarted.Droid.Resource.String.abc_font_family_display_1_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_font_family_display_2_material = global::DXChartsGettingStarted.Droid.Resource.String.abc_font_family_display_2_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_font_family_display_3_material = global::DXChartsGettingStarted.Droid.Resource.String.abc_font_family_display_3_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_font_family_display_4_material = global::DXChartsGettingStarted.Droid.Resource.String.abc_font_family_display_4_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_font_family_headline_material = global::DXChartsGettingStarted.Droid.Resource.String.abc_font_family_headline_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_font_family_menu_material = global::DXChartsGettingStarted.Droid.Resource.String.abc_font_family_menu_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_font_family_subhead_material = global::DXChartsGettingStarted.Droid.Resource.String.abc_font_family_subhead_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_font_family_title_material = global::DXChartsGettingStarted.Droid.Resource.String.abc_font_family_title_material;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_search_hint = global::DXChartsGettingStarted.Droid.Resource.String.abc_search_hint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_searchview_description_clear = global::DXChartsGettingStarted.Droid.Resource.String.abc_searchview_description_clear;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_searchview_description_query = global::DXChartsGettingStarted.Droid.Resource.String.abc_searchview_description_query;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_searchview_description_search = global::DXChartsGettingStarted.Droid.Resource.String.abc_searchview_description_search;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_searchview_description_submit = global::DXChartsGettingStarted.Droid.Resource.String.abc_searchview_description_submit;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_searchview_description_voice = global::DXChartsGettingStarted.Droid.Resource.String.abc_searchview_description_voice;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_shareactionprovider_share_with = global::DXChartsGettingStarted.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_shareactionprovider_share_with_application = global::DXChartsGettingStarted.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.abc_toolbar_collapse_description = global::DXChartsGettingStarted.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.appbar_scrolling_view_behavior = global::DXChartsGettingStarted.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.bottom_sheet_behavior = global::DXChartsGettingStarted.Droid.Resource.String.bottom_sheet_behavior;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.character_counter_pattern = global::DXChartsGettingStarted.Droid.Resource.String.character_counter_pattern;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.library_name = global::DXChartsGettingStarted.Droid.Resource.String.library_name;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.mr_button_content_description = global::DXChartsGettingStarted.Droid.Resource.String.mr_button_content_description;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.mr_cast_button_connected = global::DXChartsGettingStarted.Droid.Resource.String.mr_cast_button_connected;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.mr_cast_button_connecting = global::DXChartsGettingStarted.Droid.Resource.String.mr_cast_button_connecting;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.mr_cast_button_disconnected = global::DXChartsGettingStarted.Droid.Resource.String.mr_cast_button_disconnected;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.mr_chooser_searching = global::DXChartsGettingStarted.Droid.Resource.String.mr_chooser_searching;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.mr_chooser_title = global::DXChartsGettingStarted.Droid.Resource.String.mr_chooser_title;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.mr_controller_album_art = global::DXChartsGettingStarted.Droid.Resource.String.mr_controller_album_art;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.mr_controller_casting_screen = global::DXChartsGettingStarted.Droid.Resource.String.mr_controller_casting_screen;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.mr_controller_close_description = global::DXChartsGettingStarted.Droid.Resource.String.mr_controller_close_description;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.mr_controller_collapse_group = global::DXChartsGettingStarted.Droid.Resource.String.mr_controller_collapse_group;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.mr_controller_disconnect = global::DXChartsGettingStarted.Droid.Resource.String.mr_controller_disconnect;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.mr_controller_expand_group = global::DXChartsGettingStarted.Droid.Resource.String.mr_controller_expand_group;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.mr_controller_no_info_available = global::DXChartsGettingStarted.Droid.Resource.String.mr_controller_no_info_available;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.mr_controller_no_media_selected = global::DXChartsGettingStarted.Droid.Resource.String.mr_controller_no_media_selected;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.mr_controller_pause = global::DXChartsGettingStarted.Droid.Resource.String.mr_controller_pause;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.mr_controller_play = global::DXChartsGettingStarted.Droid.Resource.String.mr_controller_play;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.mr_controller_stop = global::DXChartsGettingStarted.Droid.Resource.String.mr_controller_stop;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.mr_controller_stop_casting = global::DXChartsGettingStarted.Droid.Resource.String.mr_controller_stop_casting;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.mr_controller_volume_slider = global::DXChartsGettingStarted.Droid.Resource.String.mr_controller_volume_slider;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.mr_system_route_name = global::DXChartsGettingStarted.Droid.Resource.String.mr_system_route_name;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.mr_user_route_category_name = global::DXChartsGettingStarted.Droid.Resource.String.mr_user_route_category_name;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.password_toggle_content_description = global::DXChartsGettingStarted.Droid.Resource.String.password_toggle_content_description;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.path_password_eye = global::DXChartsGettingStarted.Droid.Resource.String.path_password_eye;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.path_password_eye_mask_strike_through = global::DXChartsGettingStarted.Droid.Resource.String.path_password_eye_mask_strike_through;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.path_password_eye_mask_visible = global::DXChartsGettingStarted.Droid.Resource.String.path_password_eye_mask_visible;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.path_password_strike_through = global::DXChartsGettingStarted.Droid.Resource.String.path_password_strike_through;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.search_menu_title = global::DXChartsGettingStarted.Droid.Resource.String.search_menu_title;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.String.status_bar_notification_info_overflow = global::DXChartsGettingStarted.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.AlertDialog_AppCompat = global::DXChartsGettingStarted.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.AlertDialog_AppCompat_Light = global::DXChartsGettingStarted.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Animation_AppCompat_Dialog = global::DXChartsGettingStarted.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Animation_AppCompat_DropDownUp = global::DXChartsGettingStarted.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Animation_AppCompat_Tooltip = global::DXChartsGettingStarted.Droid.Resource.Style.Animation_AppCompat_Tooltip;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Animation_Design_BottomSheetDialog = global::DXChartsGettingStarted.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_AlertDialog_AppCompat = global::DXChartsGettingStarted.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_AlertDialog_AppCompat_Light = global::DXChartsGettingStarted.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Animation_AppCompat_Dialog = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Animation_AppCompat_Tooltip = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_CardView = global::DXChartsGettingStarted.Droid.Resource.Style.Base_CardView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_DialogWindowTitle_AppCompat = global::DXChartsGettingStarted.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::DXChartsGettingStarted.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Button = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Large = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Small = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Title = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::DXChartsGettingStarted.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Theme_AppCompat = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Theme_AppCompat_Dialog = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Theme_AppCompat_Light = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_ThemeOverlay_AppCompat = global::DXChartsGettingStarted.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::DXChartsGettingStarted.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::DXChartsGettingStarted.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::DXChartsGettingStarted.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::DXChartsGettingStarted.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::DXChartsGettingStarted.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::DXChartsGettingStarted.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_V21_Theme_AppCompat = global::DXChartsGettingStarted.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::DXChartsGettingStarted.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_V21_Theme_AppCompat_Light = global::DXChartsGettingStarted.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::DXChartsGettingStarted.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::DXChartsGettingStarted.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_V22_Theme_AppCompat = global::DXChartsGettingStarted.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_V22_Theme_AppCompat_Light = global::DXChartsGettingStarted.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_V23_Theme_AppCompat = global::DXChartsGettingStarted.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_V23_Theme_AppCompat_Light = global::DXChartsGettingStarted.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_V26_Theme_AppCompat = global::DXChartsGettingStarted.Droid.Resource.Style.Base_V26_Theme_AppCompat;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_V26_Theme_AppCompat_Light = global::DXChartsGettingStarted.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::DXChartsGettingStarted.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_V7_Theme_AppCompat = global::DXChartsGettingStarted.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::DXChartsGettingStarted.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_V7_Theme_AppCompat_Light = global::DXChartsGettingStarted.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::DXChartsGettingStarted.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::DXChartsGettingStarted.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::DXChartsGettingStarted.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::DXChartsGettingStarted.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::DXChartsGettingStarted.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_ActionBar = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_ActionButton = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_ActionMode = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_Button = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_Button_Small = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_EditText = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_ImageButton = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_ListView = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_RatingBar = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_SearchView = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_SeekBar = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_Spinner = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_Toolbar = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Base_Widget_Design_TabLayout = global::DXChartsGettingStarted.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.CardView = global::DXChartsGettingStarted.Droid.Resource.Style.CardView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.CardView_Dark = global::DXChartsGettingStarted.Droid.Resource.Style.CardView_Dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.CardView_Light = global::DXChartsGettingStarted.Droid.Resource.Style.CardView_Light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.ChartTheme = global::DXChartsGettingStarted.Droid.Resource.Style.ChartTheme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.ChartTheme_Dark = global::DXChartsGettingStarted.Droid.Resource.Style.ChartTheme_Dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.ChartTheme_Light = global::DXChartsGettingStarted.Droid.Resource.Style.ChartTheme_Light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Platform_AppCompat = global::DXChartsGettingStarted.Droid.Resource.Style.Platform_AppCompat;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Platform_AppCompat_Light = global::DXChartsGettingStarted.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Platform_ThemeOverlay_AppCompat = global::DXChartsGettingStarted.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::DXChartsGettingStarted.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::DXChartsGettingStarted.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Platform_V21_AppCompat = global::DXChartsGettingStarted.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Platform_V21_AppCompat_Light = global::DXChartsGettingStarted.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Platform_V25_AppCompat = global::DXChartsGettingStarted.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Platform_V25_AppCompat_Light = global::DXChartsGettingStarted.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Platform_Widget_AppCompat_Spinner = global::DXChartsGettingStarted.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::DXChartsGettingStarted.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::DXChartsGettingStarted.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::DXChartsGettingStarted.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::DXChartsGettingStarted.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::DXChartsGettingStarted.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::DXChartsGettingStarted.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::DXChartsGettingStarted.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::DXChartsGettingStarted.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::DXChartsGettingStarted.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::DXChartsGettingStarted.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::DXChartsGettingStarted.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::DXChartsGettingStarted.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::DXChartsGettingStarted.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::DXChartsGettingStarted.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Body1 = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Body2 = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Button = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Caption = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Display1 = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Display2 = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Display3 = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Display4 = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Headline = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Inverse = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Large = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Medium = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Menu = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Small = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Subhead = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Title = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Tooltip = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_Compat_Notification = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_Compat_Notification_Info = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_Compat_Notification_Media = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_Compat_Notification_Time = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_Compat_Notification_Title = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_Design_Counter = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_Design_Counter_Overflow = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_Design_Error = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_Design_Hint = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_Design_Snackbar_Message = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_Design_Tab = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_MediaRouter_PrimaryText = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_MediaRouter_PrimaryText;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_MediaRouter_SecondaryText = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_MediaRouter_SecondaryText;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_MediaRouter_Title = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_MediaRouter_Title;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::DXChartsGettingStarted.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_AppCompat = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_AppCompat;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_AppCompat_CompactMenu = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_AppCompat_DayNight = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_AppCompat_Dialog = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_AppCompat_Dialog_Alert = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_AppCompat_Light = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_AppCompat_Light_Dialog = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_AppCompat_NoActionBar = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_Design = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_Design;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_Design_BottomSheetDialog = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_Design_Light = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_Design_Light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_Design_Light_NoActionBar = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_Design_NoActionBar = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_MediaRouter = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_MediaRouter;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_MediaRouter_Light = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_MediaRouter_Light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Theme_MediaRouter_LightControlPanel = global::DXChartsGettingStarted.Droid.Resource.Style.Theme_MediaRouter_LightControlPanel;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.ThemeOverlay_AppCompat = global::DXChartsGettingStarted.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::DXChartsGettingStarted.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.ThemeOverlay_AppCompat_Dark = global::DXChartsGettingStarted.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::DXChartsGettingStarted.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::DXChartsGettingStarted.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::DXChartsGettingStarted.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.ThemeOverlay_AppCompat_Light = global::DXChartsGettingStarted.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.ThemeOverlay_MediaRouter_Dark = global::DXChartsGettingStarted.Droid.Resource.Style.ThemeOverlay_MediaRouter_Dark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.ThemeOverlay_MediaRouter_Light = global::DXChartsGettingStarted.Droid.Resource.Style.ThemeOverlay_MediaRouter_Light;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_ActionBar = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_ActionButton = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_ActionMode = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_ActivityChooserView = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Button = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Button_Borderless = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Button_Colored = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Button_Small = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_ButtonBar = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_EditText = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_ImageButton = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Light_ActionBar = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Light_ActionButton = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Light_SearchView = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_ListMenuView = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_ListPopupWindow = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_ListView = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_ListView_DropDown = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_ListView_Menu = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_PopupMenu = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_PopupWindow = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_ProgressBar = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_RatingBar = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_RatingBar_Small = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_SearchView = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_SeekBar = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Spinner = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Toolbar = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_Compat_NotificationActionContainer = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_Compat_NotificationActionText = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_Design_AppBarLayout = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_Design_BottomNavigationView = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_Design_BottomNavigationView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_Design_BottomSheet_Modal = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_Design_CollapsingToolbar = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_Design_FloatingActionButton = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_Design_NavigationView = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_Design_Snackbar = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_Design_TabLayout = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_Design_TextInputLayout = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Style.Widget_MediaRouter_MediaRouteButton = global::DXChartsGettingStarted.Droid.Resource.Style.Widget_MediaRouter_MediaRouteButton;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_background = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_background;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_backgroundSplit = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_backgroundStacked = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_contentInsetEnd = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_contentInsetLeft = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_contentInsetRight = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_contentInsetStart = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_customNavigationLayout = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_displayOptions = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_divider = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_divider;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_elevation = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_elevation;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_height = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_height;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_hideOnContentScroll = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_homeAsUpIndicator = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_homeLayout = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_icon = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_icon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_itemPadding = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_logo = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_logo;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_navigationMode = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_popupTheme = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_progressBarPadding = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_progressBarStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_subtitle = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_subtitleTextStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_title = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_title;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBar_titleTextStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBarLayout = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBarLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionMenuItemView = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionMenuItemView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionMenuItemView_android_minWidth = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionMenuView = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionMenuView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionMode = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionMode_background = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionMode_background;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionMode_backgroundSplit = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionMode_closeItemLayout = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionMode_height = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionMode_height;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionMode_subtitleTextStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActionMode_titleTextStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActivityChooserView = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActivityChooserView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ActivityChooserView_initialActivityCount = global::DXChartsGettingStarted.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AlertDialog = global::DXChartsGettingStarted.Droid.Resource.Styleable.AlertDialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AlertDialog_android_layout = global::DXChartsGettingStarted.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::DXChartsGettingStarted.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AlertDialog_listItemLayout = global::DXChartsGettingStarted.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AlertDialog_listLayout = global::DXChartsGettingStarted.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::DXChartsGettingStarted.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AlertDialog_showTitle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::DXChartsGettingStarted.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppBarLayout = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppBarLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppBarLayout_android_background = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppBarLayout_elevation = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppBarLayout_expanded = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppBarLayoutStates = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppBarLayout_Layout = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppBarLayout_Layout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatImageView = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatImageView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatImageView_android_src = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatImageView_srcCompat = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatImageView_tint = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatImageView_tint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatImageView_tintMode = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatImageView_tintMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatSeekBar = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatSeekBar_android_thumb = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatSeekBar_tickMark = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTextHelper = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTextView = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTextView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTextView_android_textAppearance = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTextView_fontFamily = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTextView_textAllCaps = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionBarDivider = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionBarSize = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionBarStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionBarTheme = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionModeBackground = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionModeStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_buttonStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_checkboxStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_colorAccent = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_colorControlActivated = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_colorControlNormal = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_colorError = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_colorError;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_colorPrimary = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_controlBackground = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_dialogTheme = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_dividerVertical = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_editTextBackground = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_editTextColor = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_editTextStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_panelBackground = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_searchViewStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_seekBarStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_spinnerStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_switchStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_toolbarStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_windowActionBar = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.AppCompatTheme_windowNoTitle = global::DXChartsGettingStarted.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.BottomNavigationView = global::DXChartsGettingStarted.Droid.Resource.Styleable.BottomNavigationView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.BottomNavigationView_elevation = global::DXChartsGettingStarted.Droid.Resource.Styleable.BottomNavigationView_elevation;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.BottomNavigationView_itemBackground = global::DXChartsGettingStarted.Droid.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.BottomNavigationView_itemIconTint = global::DXChartsGettingStarted.Droid.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.BottomNavigationView_itemTextColor = global::DXChartsGettingStarted.Droid.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.BottomNavigationView_menu = global::DXChartsGettingStarted.Droid.Resource.Styleable.BottomNavigationView_menu;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.BottomSheetBehavior_Layout = global::DXChartsGettingStarted.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::DXChartsGettingStarted.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::DXChartsGettingStarted.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::DXChartsGettingStarted.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ButtonBarLayout = global::DXChartsGettingStarted.Droid.Resource.Styleable.ButtonBarLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ButtonBarLayout_allowStacking = global::DXChartsGettingStarted.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CardView = global::DXChartsGettingStarted.Droid.Resource.Styleable.CardView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CardView_android_minHeight = global::DXChartsGettingStarted.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CardView_android_minWidth = global::DXChartsGettingStarted.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CardView_cardBackgroundColor = global::DXChartsGettingStarted.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CardView_cardCornerRadius = global::DXChartsGettingStarted.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CardView_cardElevation = global::DXChartsGettingStarted.Droid.Resource.Styleable.CardView_cardElevation;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CardView_cardMaxElevation = global::DXChartsGettingStarted.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CardView_cardPreventCornerOverlap = global::DXChartsGettingStarted.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CardView_cardUseCompatPadding = global::DXChartsGettingStarted.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CardView_contentPadding = global::DXChartsGettingStarted.Droid.Resource.Styleable.CardView_contentPadding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CardView_contentPaddingBottom = global::DXChartsGettingStarted.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CardView_contentPaddingLeft = global::DXChartsGettingStarted.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CardView_contentPaddingRight = global::DXChartsGettingStarted.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CardView_contentPaddingTop = global::DXChartsGettingStarted.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ChartBase = global::DXChartsGettingStarted.Droid.Resource.Styleable.ChartBase;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ChartBase_android_theme = global::DXChartsGettingStarted.Droid.Resource.Styleable.ChartBase_android_theme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ChartBase_renderMode = global::DXChartsGettingStarted.Droid.Resource.Styleable.ChartBase_renderMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CollapsingToolbarLayout = global::DXChartsGettingStarted.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::DXChartsGettingStarted.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::DXChartsGettingStarted.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::DXChartsGettingStarted.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::DXChartsGettingStarted.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::DXChartsGettingStarted.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::DXChartsGettingStarted.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::DXChartsGettingStarted.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::DXChartsGettingStarted.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::DXChartsGettingStarted.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::DXChartsGettingStarted.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::DXChartsGettingStarted.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::DXChartsGettingStarted.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::DXChartsGettingStarted.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CollapsingToolbarLayout_title = global::DXChartsGettingStarted.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::DXChartsGettingStarted.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::DXChartsGettingStarted.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CollapsingToolbarLayout_Layout = global::DXChartsGettingStarted.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::DXChartsGettingStarted.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::DXChartsGettingStarted.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ColorStateListItem = global::DXChartsGettingStarted.Droid.Resource.Styleable.ColorStateListItem;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ColorStateListItem_alpha = global::DXChartsGettingStarted.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ColorStateListItem_android_alpha = global::DXChartsGettingStarted.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ColorStateListItem_android_color = global::DXChartsGettingStarted.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CompoundButton = global::DXChartsGettingStarted.Droid.Resource.Styleable.CompoundButton;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CompoundButton_android_button = global::DXChartsGettingStarted.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CompoundButton_buttonTint = global::DXChartsGettingStarted.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CompoundButton_buttonTintMode = global::DXChartsGettingStarted.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CoordinatorLayout = global::DXChartsGettingStarted.Droid.Resource.Styleable.CoordinatorLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CoordinatorLayout_keylines = global::DXChartsGettingStarted.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::DXChartsGettingStarted.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CoordinatorLayout_Layout = global::DXChartsGettingStarted.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::DXChartsGettingStarted.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::DXChartsGettingStarted.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::DXChartsGettingStarted.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::DXChartsGettingStarted.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::DXChartsGettingStarted.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::DXChartsGettingStarted.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::DXChartsGettingStarted.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.DesignTheme = global::DXChartsGettingStarted.Droid.Resource.Styleable.DesignTheme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::DXChartsGettingStarted.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.DesignTheme_bottomSheetStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.DrawerArrowToggle = global::DXChartsGettingStarted.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::DXChartsGettingStarted.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::DXChartsGettingStarted.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.DrawerArrowToggle_barLength = global::DXChartsGettingStarted.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.DrawerArrowToggle_color = global::DXChartsGettingStarted.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.DrawerArrowToggle_drawableSize = global::DXChartsGettingStarted.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::DXChartsGettingStarted.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.DrawerArrowToggle_spinBars = global::DXChartsGettingStarted.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.DrawerArrowToggle_thickness = global::DXChartsGettingStarted.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.FloatingActionButton = global::DXChartsGettingStarted.Droid.Resource.Styleable.FloatingActionButton;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.FloatingActionButton_backgroundTint = global::DXChartsGettingStarted.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::DXChartsGettingStarted.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.FloatingActionButton_borderWidth = global::DXChartsGettingStarted.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.FloatingActionButton_elevation = global::DXChartsGettingStarted.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.FloatingActionButton_fabSize = global::DXChartsGettingStarted.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::DXChartsGettingStarted.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.FloatingActionButton_rippleColor = global::DXChartsGettingStarted.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.FloatingActionButton_useCompatPadding = global::DXChartsGettingStarted.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::DXChartsGettingStarted.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::DXChartsGettingStarted.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.FontFamily = global::DXChartsGettingStarted.Droid.Resource.Styleable.FontFamily;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.FontFamily_fontProviderAuthority = global::DXChartsGettingStarted.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.FontFamily_fontProviderCerts = global::DXChartsGettingStarted.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::DXChartsGettingStarted.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::DXChartsGettingStarted.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.FontFamily_fontProviderPackage = global::DXChartsGettingStarted.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.FontFamily_fontProviderQuery = global::DXChartsGettingStarted.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.FontFamilyFont = global::DXChartsGettingStarted.Droid.Resource.Styleable.FontFamilyFont;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.FontFamilyFont_font = global::DXChartsGettingStarted.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.FontFamilyFont_fontStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.FontFamilyFont_fontWeight = global::DXChartsGettingStarted.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ForegroundLinearLayout = global::DXChartsGettingStarted.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::DXChartsGettingStarted.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::DXChartsGettingStarted.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::DXChartsGettingStarted.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.LinearLayoutCompat = global::DXChartsGettingStarted.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::DXChartsGettingStarted.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::DXChartsGettingStarted.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.LinearLayoutCompat_android_gravity = global::DXChartsGettingStarted.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.LinearLayoutCompat_android_orientation = global::DXChartsGettingStarted.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::DXChartsGettingStarted.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.LinearLayoutCompat_divider = global::DXChartsGettingStarted.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::DXChartsGettingStarted.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::DXChartsGettingStarted.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.LinearLayoutCompat_showDividers = global::DXChartsGettingStarted.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.LinearLayoutCompat_Layout = global::DXChartsGettingStarted.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::DXChartsGettingStarted.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::DXChartsGettingStarted.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::DXChartsGettingStarted.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::DXChartsGettingStarted.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ListPopupWindow = global::DXChartsGettingStarted.Droid.Resource.Styleable.ListPopupWindow;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::DXChartsGettingStarted.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::DXChartsGettingStarted.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MediaRouteButton = global::DXChartsGettingStarted.Droid.Resource.Styleable.MediaRouteButton;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MediaRouteButton_android_minHeight = global::DXChartsGettingStarted.Droid.Resource.Styleable.MediaRouteButton_android_minHeight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MediaRouteButton_android_minWidth = global::DXChartsGettingStarted.Droid.Resource.Styleable.MediaRouteButton_android_minWidth;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable = global::DXChartsGettingStarted.Droid.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MediaRouteButton_mediaRouteButtonTint = global::DXChartsGettingStarted.Droid.Resource.Styleable.MediaRouteButton_mediaRouteButtonTint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuGroup = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuGroup;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuGroup_android_checkableBehavior = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuGroup_android_enabled = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuGroup_android_id = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuGroup_android_menuCategory = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuGroup_android_orderInCategory = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuGroup_android_visible = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuItem = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuItem;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuItem_actionLayout = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuItem_actionProviderClass = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuItem_actionViewClass = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuItem_alphabeticModifiers = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuItem_android_checkable = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuItem_android_checked = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuItem_android_enabled = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuItem_android_icon = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuItem_android_id = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuItem_android_id;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuItem_android_menuCategory = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuItem_android_numericShortcut = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuItem_android_onClick = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuItem_android_orderInCategory = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuItem_android_title = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuItem_android_title;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuItem_android_titleCondensed = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuItem_android_visible = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuItem_contentDescription = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuItem_contentDescription;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuItem_iconTint = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuItem_iconTint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuItem_iconTintMode = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuItem_iconTintMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuItem_numericModifiers = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuItem_numericModifiers;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuItem_showAsAction = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuItem_tooltipText = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuItem_tooltipText;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuView = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuView_android_headerBackground = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuView_android_horizontalDivider = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuView_android_itemBackground = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuView_android_itemTextAppearance = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuView_android_verticalDivider = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuView_android_windowAnimationStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuView_preserveIconSpacing = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.MenuView_subMenuArrow = global::DXChartsGettingStarted.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.NavigationView = global::DXChartsGettingStarted.Droid.Resource.Styleable.NavigationView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.NavigationView_android_background = global::DXChartsGettingStarted.Droid.Resource.Styleable.NavigationView_android_background;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::DXChartsGettingStarted.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.NavigationView_android_maxWidth = global::DXChartsGettingStarted.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.NavigationView_elevation = global::DXChartsGettingStarted.Droid.Resource.Styleable.NavigationView_elevation;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.NavigationView_headerLayout = global::DXChartsGettingStarted.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.NavigationView_itemBackground = global::DXChartsGettingStarted.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.NavigationView_itemIconTint = global::DXChartsGettingStarted.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.NavigationView_itemTextAppearance = global::DXChartsGettingStarted.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.NavigationView_itemTextColor = global::DXChartsGettingStarted.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.NavigationView_menu = global::DXChartsGettingStarted.Droid.Resource.Styleable.NavigationView_menu;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.PopupWindow = global::DXChartsGettingStarted.Droid.Resource.Styleable.PopupWindow;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.PopupWindow_android_popupBackground = global::DXChartsGettingStarted.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.PopupWindow_overlapAnchor = global::DXChartsGettingStarted.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.PopupWindowBackgroundState = global::DXChartsGettingStarted.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::DXChartsGettingStarted.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.RecycleListView = global::DXChartsGettingStarted.Droid.Resource.Styleable.RecycleListView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::DXChartsGettingStarted.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::DXChartsGettingStarted.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.RecyclerView = global::DXChartsGettingStarted.Droid.Resource.Styleable.RecyclerView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.RecyclerView_android_descendantFocusability = global::DXChartsGettingStarted.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.RecyclerView_android_orientation = global::DXChartsGettingStarted.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.RecyclerView_fastScrollEnabled = global::DXChartsGettingStarted.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::DXChartsGettingStarted.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::DXChartsGettingStarted.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::DXChartsGettingStarted.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::DXChartsGettingStarted.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.RecyclerView_layoutManager = global::DXChartsGettingStarted.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.RecyclerView_reverseLayout = global::DXChartsGettingStarted.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.RecyclerView_spanCount = global::DXChartsGettingStarted.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.RecyclerView_stackFromEnd = global::DXChartsGettingStarted.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ScrimInsetsFrameLayout = global::DXChartsGettingStarted.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::DXChartsGettingStarted.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ScrollingViewBehavior_Layout = global::DXChartsGettingStarted.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::DXChartsGettingStarted.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SearchView = global::DXChartsGettingStarted.Droid.Resource.Styleable.SearchView;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SearchView_android_focusable = global::DXChartsGettingStarted.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SearchView_android_imeOptions = global::DXChartsGettingStarted.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SearchView_android_inputType = global::DXChartsGettingStarted.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SearchView_android_maxWidth = global::DXChartsGettingStarted.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SearchView_closeIcon = global::DXChartsGettingStarted.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SearchView_commitIcon = global::DXChartsGettingStarted.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SearchView_defaultQueryHint = global::DXChartsGettingStarted.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SearchView_goIcon = global::DXChartsGettingStarted.Droid.Resource.Styleable.SearchView_goIcon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SearchView_iconifiedByDefault = global::DXChartsGettingStarted.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SearchView_layout = global::DXChartsGettingStarted.Droid.Resource.Styleable.SearchView_layout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SearchView_queryBackground = global::DXChartsGettingStarted.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SearchView_queryHint = global::DXChartsGettingStarted.Droid.Resource.Styleable.SearchView_queryHint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SearchView_searchHintIcon = global::DXChartsGettingStarted.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SearchView_searchIcon = global::DXChartsGettingStarted.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SearchView_submitBackground = global::DXChartsGettingStarted.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SearchView_suggestionRowLayout = global::DXChartsGettingStarted.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SearchView_voiceIcon = global::DXChartsGettingStarted.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SnackbarLayout = global::DXChartsGettingStarted.Droid.Resource.Styleable.SnackbarLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SnackbarLayout_android_maxWidth = global::DXChartsGettingStarted.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SnackbarLayout_elevation = global::DXChartsGettingStarted.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::DXChartsGettingStarted.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Spinner = global::DXChartsGettingStarted.Droid.Resource.Styleable.Spinner;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Spinner_android_dropDownWidth = global::DXChartsGettingStarted.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Spinner_android_entries = global::DXChartsGettingStarted.Droid.Resource.Styleable.Spinner_android_entries;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Spinner_android_popupBackground = global::DXChartsGettingStarted.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Spinner_android_prompt = global::DXChartsGettingStarted.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Spinner_popupTheme = global::DXChartsGettingStarted.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SwitchCompat = global::DXChartsGettingStarted.Droid.Resource.Styleable.SwitchCompat;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SwitchCompat_android_textOff = global::DXChartsGettingStarted.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SwitchCompat_android_textOn = global::DXChartsGettingStarted.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SwitchCompat_android_thumb = global::DXChartsGettingStarted.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SwitchCompat_showText = global::DXChartsGettingStarted.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SwitchCompat_splitTrack = global::DXChartsGettingStarted.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SwitchCompat_switchMinWidth = global::DXChartsGettingStarted.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SwitchCompat_switchPadding = global::DXChartsGettingStarted.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SwitchCompat_switchTextAppearance = global::DXChartsGettingStarted.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SwitchCompat_thumbTextPadding = global::DXChartsGettingStarted.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SwitchCompat_thumbTint = global::DXChartsGettingStarted.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SwitchCompat_thumbTintMode = global::DXChartsGettingStarted.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SwitchCompat_track = global::DXChartsGettingStarted.Droid.Resource.Styleable.SwitchCompat_track;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SwitchCompat_trackTint = global::DXChartsGettingStarted.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.SwitchCompat_trackTintMode = global::DXChartsGettingStarted.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TabItem = global::DXChartsGettingStarted.Droid.Resource.Styleable.TabItem;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TabItem_android_icon = global::DXChartsGettingStarted.Droid.Resource.Styleable.TabItem_android_icon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TabItem_android_layout = global::DXChartsGettingStarted.Droid.Resource.Styleable.TabItem_android_layout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TabItem_android_text = global::DXChartsGettingStarted.Droid.Resource.Styleable.TabItem_android_text;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TabLayout = global::DXChartsGettingStarted.Droid.Resource.Styleable.TabLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TabLayout_tabBackground = global::DXChartsGettingStarted.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TabLayout_tabContentStart = global::DXChartsGettingStarted.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TabLayout_tabGravity = global::DXChartsGettingStarted.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TabLayout_tabIndicatorColor = global::DXChartsGettingStarted.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TabLayout_tabIndicatorHeight = global::DXChartsGettingStarted.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TabLayout_tabMaxWidth = global::DXChartsGettingStarted.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TabLayout_tabMinWidth = global::DXChartsGettingStarted.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TabLayout_tabMode = global::DXChartsGettingStarted.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TabLayout_tabPadding = global::DXChartsGettingStarted.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TabLayout_tabPaddingBottom = global::DXChartsGettingStarted.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TabLayout_tabPaddingEnd = global::DXChartsGettingStarted.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TabLayout_tabPaddingStart = global::DXChartsGettingStarted.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TabLayout_tabPaddingTop = global::DXChartsGettingStarted.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TabLayout_tabSelectedTextColor = global::DXChartsGettingStarted.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TabLayout_tabTextAppearance = global::DXChartsGettingStarted.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TabLayout_tabTextColor = global::DXChartsGettingStarted.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextAppearance = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextAppearance_android_fontFamily = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextAppearance_android_shadowColor = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextAppearance_android_shadowDx = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextAppearance_android_shadowDy = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextAppearance_android_shadowRadius = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextAppearance_android_textColor = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextAppearance_android_textColorHint = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextAppearance_android_textColorLink = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextAppearance_android_textSize = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextAppearance_android_textStyle = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextAppearance_android_typeface = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextAppearance_fontFamily = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextAppearance_fontFamily;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextAppearance_textAllCaps = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextInputLayout = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextInputLayout;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextInputLayout_android_hint = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextInputLayout_android_textColorHint = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextInputLayout_counterEnabled = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextInputLayout_counterMaxLength = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextInputLayout_counterTextAppearance = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextInputLayout_errorEnabled = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextInputLayout_errorTextAppearance = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextInputLayout_hintEnabled = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextInputLayout_hintTextAppearance = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextInputLayout_passwordToggleTint = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::DXChartsGettingStarted.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_android_gravity = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_android_minHeight = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_buttonGravity = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_collapseContentDescription = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_collapseIcon = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_contentInsetEnd = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_contentInsetLeft = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_contentInsetRight = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_contentInsetStart = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_logo = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_logo;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_logoDescription = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_maxButtonHeight = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_navigationContentDescription = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_navigationIcon = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_popupTheme = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_subtitle = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_subtitleTextAppearance = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_subtitleTextColor = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_title = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_title;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_titleMargin = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_titleMarginBottom = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_titleMarginEnd = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_titleMarginStart = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_titleMarginTop = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_titleMargins = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_titleTextAppearance = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.Toolbar_titleTextColor = global::DXChartsGettingStarted.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.View = global::DXChartsGettingStarted.Droid.Resource.Styleable.View;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.View_android_focusable = global::DXChartsGettingStarted.Droid.Resource.Styleable.View_android_focusable;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.View_android_theme = global::DXChartsGettingStarted.Droid.Resource.Styleable.View_android_theme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.View_paddingEnd = global::DXChartsGettingStarted.Droid.Resource.Styleable.View_paddingEnd;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.View_paddingStart = global::DXChartsGettingStarted.Droid.Resource.Styleable.View_paddingStart;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.View_theme = global::DXChartsGettingStarted.Droid.Resource.Styleable.View_theme;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ViewBackgroundHelper = global::DXChartsGettingStarted.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ViewBackgroundHelper_android_background = global::DXChartsGettingStarted.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::DXChartsGettingStarted.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::DXChartsGettingStarted.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ViewStubCompat = global::DXChartsGettingStarted.Droid.Resource.Styleable.ViewStubCompat;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ViewStubCompat_android_id = global::DXChartsGettingStarted.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ViewStubCompat_android_inflatedId = global::DXChartsGettingStarted.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::DevExpress.XamarinForms.Charts.Android.Resource.Styleable.ViewStubCompat_android_layout = global::DXChartsGettingStarted.Droid.Resource.Styleable.ViewStubCompat_android_layout;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::DXChartsGettingStarted.Droid.Resource.Attribute.actionBarSize;
 		}
 		
@@ -102,6 +2548,22 @@ namespace DXChartsGettingStarted.Droid
 			}
 			
 			private Animator()
+			{
+			}
+		}
+		
+		public partial class Array
+		{
+			
+			// aapt resource value: 0x7f0f0000
+			public const int chart_palette_default = 2131689472;
+			
+			static Array()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Array()
 			{
 			}
 		}
@@ -505,6 +2967,270 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f010083
 			public const int dropdownListPreferredItemHeight = 2130772099;
 			
+			// aapt resource value: 0x7f010173
+			public const int dxChartAxisXColor = 2130772339;
+			
+			// aapt resource value: 0x7f010174
+			public const int dxChartAxisXConstantLineColor = 2130772340;
+			
+			// aapt resource value: 0x7f010175
+			public const int dxChartAxisXConstantLineTitleColor = 2130772341;
+			
+			// aapt resource value: 0x7f010176
+			public const int dxChartAxisXConstantLineTitleSize = 2130772342;
+			
+			// aapt resource value: 0x7f010177
+			public const int dxChartAxisXInterlacedColor = 2130772343;
+			
+			// aapt resource value: 0x7f010178
+			public const int dxChartAxisXMajorGridLinesColor = 2130772344;
+			
+			// aapt resource value: 0x7f010179
+			public const int dxChartAxisXMinorGridLinesColor = 2130772345;
+			
+			// aapt resource value: 0x7f01017a
+			public const int dxChartAxisXShowInterlaced = 2130772346;
+			
+			// aapt resource value: 0x7f01017b
+			public const int dxChartAxisXShowLine = 2130772347;
+			
+			// aapt resource value: 0x7f01017c
+			public const int dxChartAxisXShowMajorGridLines = 2130772348;
+			
+			// aapt resource value: 0x7f01017d
+			public const int dxChartAxisXShowMajorTickmarks = 2130772349;
+			
+			// aapt resource value: 0x7f01017e
+			public const int dxChartAxisXShowMinorGridLines = 2130772350;
+			
+			// aapt resource value: 0x7f01017f
+			public const int dxChartAxisXShowMinorTickmarks = 2130772351;
+			
+			// aapt resource value: 0x7f010180
+			public const int dxChartAxisXStripColor = 2130772352;
+			
+			// aapt resource value: 0x7f010181
+			public const int dxChartAxisXStripLabelColor = 2130772353;
+			
+			// aapt resource value: 0x7f010182
+			public const int dxChartAxisXStripLabelSize = 2130772354;
+			
+			// aapt resource value: 0x7f010183
+			public const int dxChartAxisXThickness = 2130772355;
+			
+			// aapt resource value: 0x7f010184
+			public const int dxChartAxisXTitleSize = 2130772356;
+			
+			// aapt resource value: 0x7f010185
+			public const int dxChartAxisYColor = 2130772357;
+			
+			// aapt resource value: 0x7f010186
+			public const int dxChartAxisYConstantLineColor = 2130772358;
+			
+			// aapt resource value: 0x7f010187
+			public const int dxChartAxisYConstantLineTitleColor = 2130772359;
+			
+			// aapt resource value: 0x7f010188
+			public const int dxChartAxisYConstantLineTitleSize = 2130772360;
+			
+			// aapt resource value: 0x7f010189
+			public const int dxChartAxisYInterlacedColor = 2130772361;
+			
+			// aapt resource value: 0x7f01018a
+			public const int dxChartAxisYMajorGridLinesColor = 2130772362;
+			
+			// aapt resource value: 0x7f01018b
+			public const int dxChartAxisYMinorGridLinesColor = 2130772363;
+			
+			// aapt resource value: 0x7f01018c
+			public const int dxChartAxisYShowInterlaced = 2130772364;
+			
+			// aapt resource value: 0x7f01018d
+			public const int dxChartAxisYShowLine = 2130772365;
+			
+			// aapt resource value: 0x7f01018e
+			public const int dxChartAxisYShowMajorGridLines = 2130772366;
+			
+			// aapt resource value: 0x7f01018f
+			public const int dxChartAxisYShowMajorTickmarks = 2130772367;
+			
+			// aapt resource value: 0x7f010190
+			public const int dxChartAxisYShowMinorGridLines = 2130772368;
+			
+			// aapt resource value: 0x7f010191
+			public const int dxChartAxisYShowMinorTickmarks = 2130772369;
+			
+			// aapt resource value: 0x7f010192
+			public const int dxChartAxisYStripColor = 2130772370;
+			
+			// aapt resource value: 0x7f010193
+			public const int dxChartAxisYStripLabelColor = 2130772371;
+			
+			// aapt resource value: 0x7f010194
+			public const int dxChartAxisYStripLabelSize = 2130772372;
+			
+			// aapt resource value: 0x7f010195
+			public const int dxChartAxisYThickness = 2130772373;
+			
+			// aapt resource value: 0x7f010196
+			public const int dxChartAxisYTitleSize = 2130772374;
+			
+			// aapt resource value: 0x7f010197
+			public const int dxChartBackground = 2130772375;
+			
+			// aapt resource value: 0x7f010198
+			public const int dxChartBorderColor = 2130772376;
+			
+			// aapt resource value: 0x7f010199
+			public const int dxChartBorderThickness = 2130772377;
+			
+			// aapt resource value: 0x7f01019a
+			public const int dxChartCrosshairArgumentLabelBackground = 2130772378;
+			
+			// aapt resource value: 0x7f01019b
+			public const int dxChartCrosshairArgumentLabelTextColor = 2130772379;
+			
+			// aapt resource value: 0x7f01019c
+			public const int dxChartCrosshairArgumentLineStroke = 2130772380;
+			
+			// aapt resource value: 0x7f01019d
+			public const int dxChartCrosshairArgumentLineThickness = 2130772381;
+			
+			// aapt resource value: 0x7f01019e
+			public const int dxChartCrosshairValueLabelBackground = 2130772382;
+			
+			// aapt resource value: 0x7f01019f
+			public const int dxChartCrosshairValueLabelTextColor = 2130772383;
+			
+			// aapt resource value: 0x7f0101a0
+			public const int dxChartCrosshairValueLineStroke = 2130772384;
+			
+			// aapt resource value: 0x7f0101a1
+			public const int dxChartCrosshairValueLineThickness = 2130772385;
+			
+			// aapt resource value: 0x7f0101a2
+			public const int dxChartPadding = 2130772386;
+			
+			// aapt resource value: 0x7f0101a3
+			public const int dxChartPaddingBottom = 2130772387;
+			
+			// aapt resource value: 0x7f0101a4
+			public const int dxChartPaddingHorizontal = 2130772388;
+			
+			// aapt resource value: 0x7f0101a5
+			public const int dxChartPaddingLeft = 2130772389;
+			
+			// aapt resource value: 0x7f0101a6
+			public const int dxChartPaddingRight = 2130772390;
+			
+			// aapt resource value: 0x7f0101a7
+			public const int dxChartPaddingTop = 2130772391;
+			
+			// aapt resource value: 0x7f0101a8
+			public const int dxChartPaddingVertical = 2130772392;
+			
+			// aapt resource value: 0x7f0101a9
+			public const int dxChartPalette = 2130772393;
+			
+			// aapt resource value: 0x7f0101aa
+			public const int dxChartTextColor = 2130772394;
+			
+			// aapt resource value: 0x7f0101ab
+			public const int dxChartTextSize = 2130772395;
+			
+			// aapt resource value: 0x7f0101ac
+			public const int dxHintLabelBackground = 2130772396;
+			
+			// aapt resource value: 0x7f0101ad
+			public const int dxHintLabelTextColor = 2130772397;
+			
+			// aapt resource value: 0x7f0101ae
+			public const int dxHintPadding = 2130772398;
+			
+			// aapt resource value: 0x7f0101af
+			public const int dxHintPaddingBottom = 2130772399;
+			
+			// aapt resource value: 0x7f0101b0
+			public const int dxHintPaddingHorizontal = 2130772400;
+			
+			// aapt resource value: 0x7f0101b1
+			public const int dxHintPaddingLeft = 2130772401;
+			
+			// aapt resource value: 0x7f0101b2
+			public const int dxHintPaddingRight = 2130772402;
+			
+			// aapt resource value: 0x7f0101b3
+			public const int dxHintPaddingTop = 2130772403;
+			
+			// aapt resource value: 0x7f0101b4
+			public const int dxHintPaddingVertical = 2130772404;
+			
+			// aapt resource value: 0x7f0101b5
+			public const int dxLegendBackground = 2130772405;
+			
+			// aapt resource value: 0x7f0101b6
+			public const int dxLegendBorderColor = 2130772406;
+			
+			// aapt resource value: 0x7f0101b7
+			public const int dxLegendBorderThickness = 2130772407;
+			
+			// aapt resource value: 0x7f0101b8
+			public const int dxLegendBottomIndentToDiagram = 2130772408;
+			
+			// aapt resource value: 0x7f0101b9
+			public const int dxLegendHorizontalIndentToDiagram = 2130772409;
+			
+			// aapt resource value: 0x7f0101ba
+			public const int dxLegendIndentToDiagram = 2130772410;
+			
+			// aapt resource value: 0x7f0101bb
+			public const int dxLegendLeftIndentToDiagram = 2130772411;
+			
+			// aapt resource value: 0x7f0101bc
+			public const int dxLegendPadding = 2130772412;
+			
+			// aapt resource value: 0x7f0101bd
+			public const int dxLegendPaddingBottom = 2130772413;
+			
+			// aapt resource value: 0x7f0101be
+			public const int dxLegendPaddingHorizontal = 2130772414;
+			
+			// aapt resource value: 0x7f0101bf
+			public const int dxLegendPaddingLeft = 2130772415;
+			
+			// aapt resource value: 0x7f0101c0
+			public const int dxLegendPaddingRight = 2130772416;
+			
+			// aapt resource value: 0x7f0101c1
+			public const int dxLegendPaddingTop = 2130772417;
+			
+			// aapt resource value: 0x7f0101c2
+			public const int dxLegendPaddingVertical = 2130772418;
+			
+			// aapt resource value: 0x7f0101c3
+			public const int dxLegendRightIndentToDiagram = 2130772419;
+			
+			// aapt resource value: 0x7f0101c4
+			public const int dxLegendTopIndentToDiagram = 2130772420;
+			
+			// aapt resource value: 0x7f0101c5
+			public const int dxLegendVerticalIndentToDiagram = 2130772421;
+			
+			// aapt resource value: 0x7f0101c6
+			public const int dxPieChartLabelConnectorThickness = 2130772422;
+			
+			// aapt resource value: 0x7f0101c7
+			public const int dxPieChartSeriesIndent = 2130772423;
+			
+			// aapt resource value: 0x7f0101c8
+			public const int dxPieChartSeriesStroke = 2130772424;
+			
+			// aapt resource value: 0x7f0101c9
+			public const int dxPieChartSeriesStrokeThickness = 2130772425;
+			
+			// aapt resource value: 0x7f0101ca
+			public const int dxScrollIndicatorColor = 2130772426;
+			
 			// aapt resource value: 0x7f010094
 			public const int editTextBackground = 2130772116;
 			
@@ -898,6 +3624,9 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f0100c3
 			public const int ratingBarStyleSmall = 2130772163;
 			
+			// aapt resource value: 0x7f0101cb
+			public const int renderMode = 2130772427;
+			
 			// aapt resource value: 0x7f010002
 			public const int reverseLayout = 2130771970;
 			
@@ -1250,6 +3979,27 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f0e0004
 			public const int abc_config_showMenuShortcutsWhenKeyboardPresent = 2131623940;
 			
+			// aapt resource value: 0x7f0e0005
+			public const int axis_show_interlaced = 2131623941;
+			
+			// aapt resource value: 0x7f0e0006
+			public const int axis_show_line = 2131623942;
+			
+			// aapt resource value: 0x7f0e0007
+			public const int axis_show_major_tickmarks = 2131623943;
+			
+			// aapt resource value: 0x7f0e0008
+			public const int axis_show_minor_gridlines = 2131623944;
+			
+			// aapt resource value: 0x7f0e0009
+			public const int axis_show_minor_tickmarks = 2131623945;
+			
+			// aapt resource value: 0x7f0e000a
+			public const int axis_x_show_major_gridlines = 2131623946;
+			
+			// aapt resource value: 0x7f0e000b
+			public const int axis_y_show_major_gridlines = 2131623947;
+			
 			static Boolean()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -1263,44 +4013,44 @@ namespace DXChartsGettingStarted.Droid
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7f0d004f
-			public const int abc_background_cache_hint_selector_material_dark = 2131558479;
+			// aapt resource value: 0x7f0d0085
+			public const int abc_background_cache_hint_selector_material_dark = 2131558533;
 			
-			// aapt resource value: 0x7f0d0050
-			public const int abc_background_cache_hint_selector_material_light = 2131558480;
+			// aapt resource value: 0x7f0d0086
+			public const int abc_background_cache_hint_selector_material_light = 2131558534;
 			
-			// aapt resource value: 0x7f0d0051
-			public const int abc_btn_colored_borderless_text_material = 2131558481;
+			// aapt resource value: 0x7f0d0087
+			public const int abc_btn_colored_borderless_text_material = 2131558535;
 			
-			// aapt resource value: 0x7f0d0052
-			public const int abc_btn_colored_text_material = 2131558482;
+			// aapt resource value: 0x7f0d0088
+			public const int abc_btn_colored_text_material = 2131558536;
 			
-			// aapt resource value: 0x7f0d0053
-			public const int abc_color_highlight_material = 2131558483;
+			// aapt resource value: 0x7f0d0089
+			public const int abc_color_highlight_material = 2131558537;
 			
-			// aapt resource value: 0x7f0d0054
-			public const int abc_hint_foreground_material_dark = 2131558484;
+			// aapt resource value: 0x7f0d008a
+			public const int abc_hint_foreground_material_dark = 2131558538;
 			
-			// aapt resource value: 0x7f0d0055
-			public const int abc_hint_foreground_material_light = 2131558485;
+			// aapt resource value: 0x7f0d008b
+			public const int abc_hint_foreground_material_light = 2131558539;
 			
 			// aapt resource value: 0x7f0d0004
 			public const int abc_input_method_navigation_guard = 2131558404;
 			
-			// aapt resource value: 0x7f0d0056
-			public const int abc_primary_text_disable_only_material_dark = 2131558486;
+			// aapt resource value: 0x7f0d008c
+			public const int abc_primary_text_disable_only_material_dark = 2131558540;
 			
-			// aapt resource value: 0x7f0d0057
-			public const int abc_primary_text_disable_only_material_light = 2131558487;
+			// aapt resource value: 0x7f0d008d
+			public const int abc_primary_text_disable_only_material_light = 2131558541;
 			
-			// aapt resource value: 0x7f0d0058
-			public const int abc_primary_text_material_dark = 2131558488;
+			// aapt resource value: 0x7f0d008e
+			public const int abc_primary_text_material_dark = 2131558542;
 			
-			// aapt resource value: 0x7f0d0059
-			public const int abc_primary_text_material_light = 2131558489;
+			// aapt resource value: 0x7f0d008f
+			public const int abc_primary_text_material_light = 2131558543;
 			
-			// aapt resource value: 0x7f0d005a
-			public const int abc_search_url_text = 2131558490;
+			// aapt resource value: 0x7f0d0090
+			public const int abc_search_url_text = 2131558544;
 			
 			// aapt resource value: 0x7f0d0005
 			public const int abc_search_url_text_normal = 2131558405;
@@ -1311,29 +4061,29 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f0d0007
 			public const int abc_search_url_text_selected = 2131558407;
 			
-			// aapt resource value: 0x7f0d005b
-			public const int abc_secondary_text_material_dark = 2131558491;
+			// aapt resource value: 0x7f0d0091
+			public const int abc_secondary_text_material_dark = 2131558545;
 			
-			// aapt resource value: 0x7f0d005c
-			public const int abc_secondary_text_material_light = 2131558492;
+			// aapt resource value: 0x7f0d0092
+			public const int abc_secondary_text_material_light = 2131558546;
 			
-			// aapt resource value: 0x7f0d005d
-			public const int abc_tint_btn_checkable = 2131558493;
+			// aapt resource value: 0x7f0d0093
+			public const int abc_tint_btn_checkable = 2131558547;
 			
-			// aapt resource value: 0x7f0d005e
-			public const int abc_tint_default = 2131558494;
+			// aapt resource value: 0x7f0d0094
+			public const int abc_tint_default = 2131558548;
 			
-			// aapt resource value: 0x7f0d005f
-			public const int abc_tint_edittext = 2131558495;
+			// aapt resource value: 0x7f0d0095
+			public const int abc_tint_edittext = 2131558549;
 			
-			// aapt resource value: 0x7f0d0060
-			public const int abc_tint_seek_thumb = 2131558496;
+			// aapt resource value: 0x7f0d0096
+			public const int abc_tint_seek_thumb = 2131558550;
 			
-			// aapt resource value: 0x7f0d0061
-			public const int abc_tint_spinner = 2131558497;
+			// aapt resource value: 0x7f0d0097
+			public const int abc_tint_spinner = 2131558551;
 			
-			// aapt resource value: 0x7f0d0062
-			public const int abc_tint_switch_track = 2131558498;
+			// aapt resource value: 0x7f0d0098
+			public const int abc_tint_switch_track = 2131558552;
 			
 			// aapt resource value: 0x7f0d0008
 			public const int accent_material_dark = 2131558408;
@@ -1389,20 +4139,182 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f0d0003
 			public const int cardview_shadow_start_color = 2131558403;
 			
-			// aapt resource value: 0x7f0d004e
-			public const int colorAccent = 2131558478;
+			// aapt resource value: 0x7f0d0084
+			public const int colorAccent = 2131558532;
+			
+			// aapt resource value: 0x7f0d0082
+			public const int colorPrimary = 2131558530;
+			
+			// aapt resource value: 0x7f0d0083
+			public const int colorPrimaryDark = 2131558531;
+			
+			// aapt resource value: 0x7f0d004b
+			public const int color_area_series = 2131558475;
 			
 			// aapt resource value: 0x7f0d004c
-			public const int colorPrimary = 2131558476;
+			public const int color_area_series_marker = 2131558476;
 			
 			// aapt resource value: 0x7f0d004d
-			public const int colorPrimaryDark = 2131558477;
+			public const int color_area_series_marker_stroke = 2131558477;
+			
+			// aapt resource value: 0x7f0d004e
+			public const int color_area_series_stroke = 2131558478;
+			
+			// aapt resource value: 0x7f0d004f
+			public const int color_axis_constant_line = 2131558479;
+			
+			// aapt resource value: 0x7f0d0050
+			public const int color_axis_constant_line_title_dark = 2131558480;
+			
+			// aapt resource value: 0x7f0d0051
+			public const int color_axis_constant_line_title_light = 2131558481;
+			
+			// aapt resource value: 0x7f0d0052
+			public const int color_axis_dark = 2131558482;
+			
+			// aapt resource value: 0x7f0d0053
+			public const int color_axis_interlaced_dark = 2131558483;
+			
+			// aapt resource value: 0x7f0d0054
+			public const int color_axis_interlaced_light = 2131558484;
+			
+			// aapt resource value: 0x7f0d0055
+			public const int color_axis_light = 2131558485;
+			
+			// aapt resource value: 0x7f0d0056
+			public const int color_axis_major_gridlines_dark = 2131558486;
+			
+			// aapt resource value: 0x7f0d0057
+			public const int color_axis_major_gridlines_light = 2131558487;
+			
+			// aapt resource value: 0x7f0d0058
+			public const int color_axis_minor_gridlines_dark = 2131558488;
+			
+			// aapt resource value: 0x7f0d0059
+			public const int color_axis_minor_gridlines_light = 2131558489;
+			
+			// aapt resource value: 0x7f0d005a
+			public const int color_axis_strip_dark = 2131558490;
+			
+			// aapt resource value: 0x7f0d005b
+			public const int color_axis_strip_label_dark = 2131558491;
+			
+			// aapt resource value: 0x7f0d005c
+			public const int color_axis_strip_label_light = 2131558492;
+			
+			// aapt resource value: 0x7f0d005d
+			public const int color_axis_strip_light = 2131558493;
+			
+			// aapt resource value: 0x7f0d005e
+			public const int color_bar_series = 2131558494;
+			
+			// aapt resource value: 0x7f0d005f
+			public const int color_bar_series_stroke = 2131558495;
+			
+			// aapt resource value: 0x7f0d0060
+			public const int color_candle_stick_series_falling_fill = 2131558496;
+			
+			// aapt resource value: 0x7f0d0061
+			public const int color_candle_stick_series_falling_stroke = 2131558497;
+			
+			// aapt resource value: 0x7f0d0062
+			public const int color_candle_stick_series_rising_fill = 2131558498;
+			
+			// aapt resource value: 0x7f0d0063
+			public const int color_candle_stick_series_rising_stroke = 2131558499;
+			
+			// aapt resource value: 0x7f0d0064
+			public const int color_chart_background_dark = 2131558500;
+			
+			// aapt resource value: 0x7f0d0065
+			public const int color_chart_background_light = 2131558501;
+			
+			// aapt resource value: 0x7f0d0066
+			public const int color_chart_border_dark = 2131558502;
+			
+			// aapt resource value: 0x7f0d0067
+			public const int color_chart_border_light = 2131558503;
+			
+			// aapt resource value: 0x7f0d0068
+			public const int color_chart_scroll_indicator_dark = 2131558504;
+			
+			// aapt resource value: 0x7f0d0069
+			public const int color_chart_scroll_indicator_light = 2131558505;
+			
+			// aapt resource value: 0x7f0d006a
+			public const int color_hint_background = 2131558506;
+			
+			// aapt resource value: 0x7f0d006b
+			public const int color_hint_background_dark = 2131558507;
+			
+			// aapt resource value: 0x7f0d006c
+			public const int color_hint_background_light = 2131558508;
+			
+			// aapt resource value: 0x7f0d006d
+			public const int color_hint_label_fill = 2131558509;
+			
+			// aapt resource value: 0x7f0d006e
+			public const int color_hint_line_stroke = 2131558510;
+			
+			// aapt resource value: 0x7f0d006f
+			public const int color_hint_text_dark = 2131558511;
+			
+			// aapt resource value: 0x7f0d0070
+			public const int color_hint_text_light = 2131558512;
+			
+			// aapt resource value: 0x7f0d0071
+			public const int color_legend_background_dark = 2131558513;
+			
+			// aapt resource value: 0x7f0d0072
+			public const int color_legend_background_light = 2131558514;
+			
+			// aapt resource value: 0x7f0d0073
+			public const int color_legend_border_dark = 2131558515;
+			
+			// aapt resource value: 0x7f0d0074
+			public const int color_legend_border_light = 2131558516;
+			
+			// aapt resource value: 0x7f0d0075
+			public const int color_line_series = 2131558517;
+			
+			// aapt resource value: 0x7f0d0076
+			public const int color_line_series_marker = 2131558518;
+			
+			// aapt resource value: 0x7f0d0077
+			public const int color_line_series_marker_stroke = 2131558519;
+			
+			// aapt resource value: 0x7f0d0078
+			public const int color_pie_connector = 2131558520;
+			
+			// aapt resource value: 0x7f0d0079
+			public const int color_pie_stroke_dark = 2131558521;
+			
+			// aapt resource value: 0x7f0d007a
+			public const int color_pie_stroke_light = 2131558522;
+			
+			// aapt resource value: 0x7f0d007b
+			public const int color_point_series = 2131558523;
+			
+			// aapt resource value: 0x7f0d007c
+			public const int color_point_series_stroke = 2131558524;
+			
+			// aapt resource value: 0x7f0d007d
+			public const int color_stock_series_falling_stroke = 2131558525;
+			
+			// aapt resource value: 0x7f0d007e
+			public const int color_stock_series_rising_stroke = 2131558526;
+			
+			// aapt resource value: 0x7f0d007f
+			public const int color_text_dark = 2131558527;
+			
+			// aapt resource value: 0x7f0d0080
+			public const int color_text_light = 2131558528;
 			
 			// aapt resource value: 0x7f0d0040
 			public const int design_bottom_navigation_shadow_color = 2131558464;
 			
-			// aapt resource value: 0x7f0d0063
-			public const int design_error = 2131558499;
+			// aapt resource value: 0x7f0d0099
+			public const int design_error = 2131558553;
 			
 			// aapt resource value: 0x7f0d0041
 			public const int design_fab_shadow_end_color = 2131558465;
@@ -1428,8 +4340,8 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f0d0048
 			public const int design_snackbar_background_color = 2131558472;
 			
-			// aapt resource value: 0x7f0d0064
-			public const int design_tint_password_toggle = 2131558500;
+			// aapt resource value: 0x7f0d009a
+			public const int design_tint_password_toggle = 2131558554;
 			
 			// aapt resource value: 0x7f0d0016
 			public const int dim_foreground_disabled_material_dark = 2131558422;
@@ -1458,8 +4370,8 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f0d001e
 			public const int highlighted_text_material_light = 2131558430;
 			
-			// aapt resource value: 0x7f0d004b
-			public const int launcher_background = 2131558475;
+			// aapt resource value: 0x7f0d0081
+			public const int launcher_background = 2131558529;
 			
 			// aapt resource value: 0x7f0d001f
 			public const int material_blue_grey_800 = 2131558431;
@@ -1554,11 +4466,11 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f0d003a
 			public const int switch_thumb_disabled_material_light = 2131558458;
 			
-			// aapt resource value: 0x7f0d0065
-			public const int switch_thumb_material_dark = 2131558501;
+			// aapt resource value: 0x7f0d009b
+			public const int switch_thumb_material_dark = 2131558555;
 			
-			// aapt resource value: 0x7f0d0066
-			public const int switch_thumb_material_light = 2131558502;
+			// aapt resource value: 0x7f0d009c
+			public const int switch_thumb_material_light = 2131558556;
 			
 			// aapt resource value: 0x7f0d003b
 			public const int switch_thumb_normal_material_dark = 2131558459;
@@ -1807,6 +4719,48 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f080013
 			public const int abc_text_size_title_material_toolbar = 2131230739;
 			
+			// aapt resource value: 0x7f0800a4
+			public const int area_series_alpha = 2131230884;
+			
+			// aapt resource value: 0x7f0800a5
+			public const int area_series_marker_size = 2131230885;
+			
+			// aapt resource value: 0x7f0800a6
+			public const int area_series_marker_stroke_thickness = 2131230886;
+			
+			// aapt resource value: 0x7f0800a7
+			public const int area_series_stroke_thickness = 2131230887;
+			
+			// aapt resource value: 0x7f0800a8
+			public const int axis_constant_line_thickness = 2131230888;
+			
+			// aapt resource value: 0x7f0800a9
+			public const int axis_major_gridlines_thickness = 2131230889;
+			
+			// aapt resource value: 0x7f0800aa
+			public const int axis_major_tickmarks_length = 2131230890;
+			
+			// aapt resource value: 0x7f0800ab
+			public const int axis_major_tickmarks_thickness = 2131230891;
+			
+			// aapt resource value: 0x7f0800ac
+			public const int axis_minor_gridlines_thickness = 2131230892;
+			
+			// aapt resource value: 0x7f0800ad
+			public const int axis_minor_tickmarks_length = 2131230893;
+			
+			// aapt resource value: 0x7f0800ae
+			public const int axis_minor_tickmarks_thickness = 2131230894;
+			
+			// aapt resource value: 0x7f0800af
+			public const int axis_thickness = 2131230895;
+			
+			// aapt resource value: 0x7f0800b0
+			public const int bar_series_stroke_thickness = 2131230896;
+			
+			// aapt resource value: 0x7f0800b1
+			public const int candle_stick_series_stroke_thickness = 2131230897;
+			
 			// aapt resource value: 0x7f08000c
 			public const int cardview_compat_inset_shadow = 2131230732;
 			
@@ -1815,6 +4769,24 @@ namespace DXChartsGettingStarted.Droid
 			
 			// aapt resource value: 0x7f08000e
 			public const int cardview_default_radius = 2131230734;
+			
+			// aapt resource value: 0x7f0800b2
+			public const int chart_axis_constant_line_title_size = 2131230898;
+			
+			// aapt resource value: 0x7f0800b3
+			public const int chart_axis_strip_label_size = 2131230899;
+			
+			// aapt resource value: 0x7f0800b4
+			public const int chart_axis_title_size = 2131230900;
+			
+			// aapt resource value: 0x7f0800b5
+			public const int chart_border_thickness = 2131230901;
+			
+			// aapt resource value: 0x7f0800b6
+			public const int chart_padding = 2131230902;
+			
+			// aapt resource value: 0x7f0800b7
+			public const int chart_text_size = 2131230903;
 			
 			// aapt resource value: 0x7f080094
 			public const int compat_button_inset_horizontal_material = 2131230868;
@@ -1975,11 +4947,47 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f08005f
 			public const int hint_alpha_material_light = 2131230815;
 			
+			// aapt resource value: 0x7f0800b8
+			public const int hint_border_radius = 2131230904;
+			
+			// aapt resource value: 0x7f0800b9
+			public const int hint_border_thickness = 2131230905;
+			
+			// aapt resource value: 0x7f0800ba
+			public const int hint_items_indent = 2131230906;
+			
+			// aapt resource value: 0x7f0800bb
+			public const int hint_line_thickness = 2131230907;
+			
+			// aapt resource value: 0x7f0800bc
+			public const int hint_marker_size = 2131230908;
+			
+			// aapt resource value: 0x7f0800bd
+			public const int hint_padding_bottom = 2131230909;
+			
+			// aapt resource value: 0x7f0800be
+			public const int hint_padding_left = 2131230910;
+			
+			// aapt resource value: 0x7f0800bf
+			public const int hint_padding_right = 2131230911;
+			
+			// aapt resource value: 0x7f0800c0
+			public const int hint_padding_top = 2131230912;
+			
 			// aapt resource value: 0x7f080060
 			public const int hint_pressed_alpha_material_dark = 2131230816;
 			
 			// aapt resource value: 0x7f080061
 			public const int hint_pressed_alpha_material_light = 2131230817;
+			
+			// aapt resource value: 0x7f0800c1
+			public const int hint_tail_height = 2131230913;
+			
+			// aapt resource value: 0x7f0800c2
+			public const int hint_tail_width = 2131230914;
+			
+			// aapt resource value: 0x7f0800c3
+			public const int hint_text_indent = 2131230915;
 			
 			// aapt resource value: 0x7f080003
 			public const int item_touch_helper_max_drag_scroll_per_frame = 2131230723;
@@ -1989,6 +4997,36 @@ namespace DXChartsGettingStarted.Droid
 			
 			// aapt resource value: 0x7f080005
 			public const int item_touch_helper_swipe_escape_velocity = 2131230725;
+			
+			// aapt resource value: 0x7f0800c4
+			public const int legend_border_thickness = 2131230916;
+			
+			// aapt resource value: 0x7f0800c5
+			public const int legend_horizontal_indent = 2131230917;
+			
+			// aapt resource value: 0x7f0800c6
+			public const int legend_indent_to_diagram = 2131230918;
+			
+			// aapt resource value: 0x7f0800c7
+			public const int legend_marker_size = 2131230919;
+			
+			// aapt resource value: 0x7f0800c8
+			public const int legend_padding = 2131230920;
+			
+			// aapt resource value: 0x7f0800c9
+			public const int legend_text_indent = 2131230921;
+			
+			// aapt resource value: 0x7f0800ca
+			public const int legend_vertical_indent = 2131230922;
+			
+			// aapt resource value: 0x7f0800cb
+			public const int line_series_marker_size = 2131230923;
+			
+			// aapt resource value: 0x7f0800cc
+			public const int line_series_marker_stroke_thickness = 2131230924;
+			
+			// aapt resource value: 0x7f0800cd
+			public const int line_series_stroke_thickness = 2131230925;
 			
 			// aapt resource value: 0x7f080006
 			public const int mr_controller_volume_group_list_item_height = 2131230726;
@@ -2052,6 +5090,24 @@ namespace DXChartsGettingStarted.Droid
 			
 			// aapt resource value: 0x7f0800a3
 			public const int notification_top_pad_large_text = 2131230883;
+			
+			// aapt resource value: 0x7f0800ce
+			public const int pie_connector_thickness = 2131230926;
+			
+			// aapt resource value: 0x7f0800cf
+			public const int pie_series_indent = 2131230927;
+			
+			// aapt resource value: 0x7f0800d0
+			public const int pie_stroke_thickness = 2131230928;
+			
+			// aapt resource value: 0x7f0800d1
+			public const int point_series_marker_size = 2131230929;
+			
+			// aapt resource value: 0x7f0800d2
+			public const int point_series_stroke_thickness = 2131230930;
+			
+			// aapt resource value: 0x7f0800d3
+			public const int stock_series_stroke_thickness = 2131230931;
 			
 			// aapt resource value: 0x7f080062
 			public const int tooltip_corner_radius = 2131230818;
@@ -3048,41 +6104,41 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f090036
 			public const int SYM = 2131296310;
 			
-			// aapt resource value: 0x7f0900b5
-			public const int action0 = 2131296437;
+			// aapt resource value: 0x7f0900b7
+			public const int action0 = 2131296439;
 			
-			// aapt resource value: 0x7f09007b
-			public const int action_bar = 2131296379;
+			// aapt resource value: 0x7f09007d
+			public const int action_bar = 2131296381;
 			
 			// aapt resource value: 0x7f090001
 			public const int action_bar_activity_content = 2131296257;
 			
-			// aapt resource value: 0x7f09007a
-			public const int action_bar_container = 2131296378;
+			// aapt resource value: 0x7f09007c
+			public const int action_bar_container = 2131296380;
 			
-			// aapt resource value: 0x7f090076
-			public const int action_bar_root = 2131296374;
+			// aapt resource value: 0x7f090078
+			public const int action_bar_root = 2131296376;
 			
 			// aapt resource value: 0x7f090002
 			public const int action_bar_spinner = 2131296258;
 			
-			// aapt resource value: 0x7f09005a
-			public const int action_bar_subtitle = 2131296346;
+			// aapt resource value: 0x7f09005c
+			public const int action_bar_subtitle = 2131296348;
 			
-			// aapt resource value: 0x7f090059
-			public const int action_bar_title = 2131296345;
+			// aapt resource value: 0x7f09005b
+			public const int action_bar_title = 2131296347;
 			
-			// aapt resource value: 0x7f0900b2
-			public const int action_container = 2131296434;
+			// aapt resource value: 0x7f0900b4
+			public const int action_container = 2131296436;
 			
-			// aapt resource value: 0x7f09007c
-			public const int action_context_bar = 2131296380;
+			// aapt resource value: 0x7f09007e
+			public const int action_context_bar = 2131296382;
 			
-			// aapt resource value: 0x7f0900b9
-			public const int action_divider = 2131296441;
+			// aapt resource value: 0x7f0900bb
+			public const int action_divider = 2131296443;
 			
-			// aapt resource value: 0x7f0900b3
-			public const int action_image = 2131296435;
+			// aapt resource value: 0x7f0900b5
+			public const int action_image = 2131296437;
 			
 			// aapt resource value: 0x7f090003
 			public const int action_menu_divider = 2131296259;
@@ -3090,29 +6146,29 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f090004
 			public const int action_menu_presenter = 2131296260;
 			
-			// aapt resource value: 0x7f090078
-			public const int action_mode_bar = 2131296376;
+			// aapt resource value: 0x7f09007a
+			public const int action_mode_bar = 2131296378;
 			
-			// aapt resource value: 0x7f090077
-			public const int action_mode_bar_stub = 2131296375;
+			// aapt resource value: 0x7f090079
+			public const int action_mode_bar_stub = 2131296377;
 			
-			// aapt resource value: 0x7f09005b
-			public const int action_mode_close_button = 2131296347;
+			// aapt resource value: 0x7f09005d
+			public const int action_mode_close_button = 2131296349;
 			
-			// aapt resource value: 0x7f0900b4
-			public const int action_text = 2131296436;
+			// aapt resource value: 0x7f0900b6
+			public const int action_text = 2131296438;
 			
-			// aapt resource value: 0x7f0900c2
-			public const int actions = 2131296450;
+			// aapt resource value: 0x7f0900c4
+			public const int actions = 2131296452;
 			
-			// aapt resource value: 0x7f09005c
-			public const int activity_chooser_view_content = 2131296348;
+			// aapt resource value: 0x7f09005e
+			public const int activity_chooser_view_content = 2131296350;
 			
 			// aapt resource value: 0x7f09002b
 			public const int add = 2131296299;
 			
-			// aapt resource value: 0x7f09006f
-			public const int alertTitle = 2131296367;
+			// aapt resource value: 0x7f090071
+			public const int alertTitle = 2131296369;
 			
 			// aapt resource value: 0x7f090051
 			public const int all = 2131296337;
@@ -3135,11 +6191,11 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f09003c
 			public const int bottom = 2131296316;
 			
-			// aapt resource value: 0x7f090062
-			public const int buttonPanel = 2131296354;
+			// aapt resource value: 0x7f090064
+			public const int buttonPanel = 2131296356;
 			
-			// aapt resource value: 0x7f0900b6
-			public const int cancel_action = 2131296438;
+			// aapt resource value: 0x7f0900b8
+			public const int cancel_action = 2131296440;
 			
 			// aapt resource value: 0x7f090044
 			public const int center = 2131296324;
@@ -3150,11 +6206,11 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f090046
 			public const int center_vertical = 2131296326;
 			
-			// aapt resource value: 0x7f090072
-			public const int checkbox = 2131296370;
+			// aapt resource value: 0x7f090074
+			public const int checkbox = 2131296372;
 			
-			// aapt resource value: 0x7f0900be
-			public const int chronometer = 2131296446;
+			// aapt resource value: 0x7f0900c0
+			public const int chronometer = 2131296448;
 			
 			// aapt resource value: 0x7f09004d
 			public const int clip_horizontal = 2131296333;
@@ -3165,53 +6221,53 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f090038
 			public const int collapseActionView = 2131296312;
 			
-			// aapt resource value: 0x7f09008c
-			public const int container = 2131296396;
+			// aapt resource value: 0x7f09008e
+			public const int container = 2131296398;
 			
-			// aapt resource value: 0x7f090065
-			public const int contentPanel = 2131296357;
-			
-			// aapt resource value: 0x7f09008d
-			public const int coordinator = 2131296397;
-			
-			// aapt resource value: 0x7f09006c
-			public const int custom = 2131296364;
-			
-			// aapt resource value: 0x7f09006b
-			public const int customPanel = 2131296363;
-			
-			// aapt resource value: 0x7f090079
-			public const int decor_content_parent = 2131296377;
-			
-			// aapt resource value: 0x7f09005f
-			public const int default_activity_button = 2131296351;
+			// aapt resource value: 0x7f090067
+			public const int contentPanel = 2131296359;
 			
 			// aapt resource value: 0x7f09008f
-			public const int design_bottom_sheet = 2131296399;
+			public const int coordinator = 2131296399;
+			
+			// aapt resource value: 0x7f09006e
+			public const int custom = 2131296366;
+			
+			// aapt resource value: 0x7f09006d
+			public const int customPanel = 2131296365;
+			
+			// aapt resource value: 0x7f09007b
+			public const int decor_content_parent = 2131296379;
+			
+			// aapt resource value: 0x7f090061
+			public const int default_activity_button = 2131296353;
+			
+			// aapt resource value: 0x7f090091
+			public const int design_bottom_sheet = 2131296401;
+			
+			// aapt resource value: 0x7f090098
+			public const int design_menu_item_action_area = 2131296408;
+			
+			// aapt resource value: 0x7f090097
+			public const int design_menu_item_action_area_stub = 2131296407;
 			
 			// aapt resource value: 0x7f090096
-			public const int design_menu_item_action_area = 2131296406;
+			public const int design_menu_item_text = 2131296406;
 			
 			// aapt resource value: 0x7f090095
-			public const int design_menu_item_action_area_stub = 2131296405;
-			
-			// aapt resource value: 0x7f090094
-			public const int design_menu_item_text = 2131296404;
-			
-			// aapt resource value: 0x7f090093
-			public const int design_navigation_view = 2131296403;
+			public const int design_navigation_view = 2131296405;
 			
 			// aapt resource value: 0x7f09001f
 			public const int disableHome = 2131296287;
 			
-			// aapt resource value: 0x7f09007d
-			public const int edit_query = 2131296381;
+			// aapt resource value: 0x7f09007f
+			public const int edit_query = 2131296383;
 			
 			// aapt resource value: 0x7f09002f
 			public const int end = 2131296303;
 			
-			// aapt resource value: 0x7f0900c4
-			public const int end_padder = 2131296452;
+			// aapt resource value: 0x7f0900c6
+			public const int end_padder = 2131296454;
 			
 			// aapt resource value: 0x7f09003e
 			public const int enterAlways = 2131296318;
@@ -3222,11 +6278,11 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f090040
 			public const int exitUntilCollapsed = 2131296320;
 			
-			// aapt resource value: 0x7f09005d
-			public const int expand_activities_button = 2131296349;
+			// aapt resource value: 0x7f09005f
+			public const int expand_activities_button = 2131296351;
 			
-			// aapt resource value: 0x7f090071
-			public const int expanded_menu = 2131296369;
+			// aapt resource value: 0x7f090073
+			public const int expanded_menu = 2131296371;
 			
 			// aapt resource value: 0x7f09004f
 			public const int fill = 2131296335;
@@ -3252,20 +6308,20 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f090020
 			public const int homeAsUp = 2131296288;
 			
-			// aapt resource value: 0x7f090061
-			public const int icon = 2131296353;
+			// aapt resource value: 0x7f090063
+			public const int icon = 2131296355;
 			
-			// aapt resource value: 0x7f0900c3
-			public const int icon_group = 2131296451;
+			// aapt resource value: 0x7f0900c5
+			public const int icon_group = 2131296453;
 			
 			// aapt resource value: 0x7f090039
 			public const int ifRoom = 2131296313;
 			
-			// aapt resource value: 0x7f09005e
-			public const int image = 2131296350;
+			// aapt resource value: 0x7f090060
+			public const int image = 2131296352;
 			
-			// aapt resource value: 0x7f0900bf
-			public const int info = 2131296447;
+			// aapt resource value: 0x7f0900c1
+			public const int info = 2131296449;
 			
 			// aapt resource value: 0x7f090058
 			public const int italic = 2131296344;
@@ -3273,8 +6329,8 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f090000
 			public const int item_touch_helper_previous_elevation = 2131296256;
 			
-			// aapt resource value: 0x7f09008b
-			public const int largeLabel = 2131296395;
+			// aapt resource value: 0x7f09008d
+			public const int largeLabel = 2131296397;
 			
 			// aapt resource value: 0x7f090048
 			public const int left = 2131296328;
@@ -3288,17 +6344,17 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f09001c
 			public const int listMode = 2131296284;
 			
-			// aapt resource value: 0x7f090060
-			public const int list_item = 2131296352;
+			// aapt resource value: 0x7f090062
+			public const int list_item = 2131296354;
+			
+			// aapt resource value: 0x7f0900cb
+			public const int masked = 2131296459;
+			
+			// aapt resource value: 0x7f0900ba
+			public const int media_actions = 2131296442;
 			
 			// aapt resource value: 0x7f0900c9
-			public const int masked = 2131296457;
-			
-			// aapt resource value: 0x7f0900b8
-			public const int media_actions = 2131296440;
-			
-			// aapt resource value: 0x7f0900c7
-			public const int message = 2131296455;
+			public const int message = 2131296457;
 			
 			// aapt resource value: 0x7f090030
 			public const int middle = 2131296304;
@@ -3306,86 +6362,86 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f090052
 			public const int mini = 2131296338;
 			
-			// aapt resource value: 0x7f0900a4
-			public const int mr_art = 2131296420;
-			
-			// aapt resource value: 0x7f090099
-			public const int mr_chooser_list = 2131296409;
-			
-			// aapt resource value: 0x7f09009c
-			public const int mr_chooser_route_desc = 2131296412;
-			
-			// aapt resource value: 0x7f09009a
-			public const int mr_chooser_route_icon = 2131296410;
+			// aapt resource value: 0x7f0900a6
+			public const int mr_art = 2131296422;
 			
 			// aapt resource value: 0x7f09009b
-			public const int mr_chooser_route_name = 2131296411;
-			
-			// aapt resource value: 0x7f090098
-			public const int mr_chooser_title = 2131296408;
-			
-			// aapt resource value: 0x7f0900a1
-			public const int mr_close = 2131296417;
-			
-			// aapt resource value: 0x7f0900a7
-			public const int mr_control_divider = 2131296423;
-			
-			// aapt resource value: 0x7f0900ad
-			public const int mr_control_playback_ctrl = 2131296429;
-			
-			// aapt resource value: 0x7f0900b0
-			public const int mr_control_subtitle = 2131296432;
-			
-			// aapt resource value: 0x7f0900af
-			public const int mr_control_title = 2131296431;
-			
-			// aapt resource value: 0x7f0900ae
-			public const int mr_control_title_container = 2131296430;
-			
-			// aapt resource value: 0x7f0900a2
-			public const int mr_custom_control = 2131296418;
-			
-			// aapt resource value: 0x7f0900a3
-			public const int mr_default_control = 2131296419;
+			public const int mr_chooser_list = 2131296411;
 			
 			// aapt resource value: 0x7f09009e
-			public const int mr_dialog_area = 2131296414;
+			public const int mr_chooser_route_desc = 2131296414;
+			
+			// aapt resource value: 0x7f09009c
+			public const int mr_chooser_route_icon = 2131296412;
 			
 			// aapt resource value: 0x7f09009d
-			public const int mr_expandable_area = 2131296413;
+			public const int mr_chooser_route_name = 2131296413;
 			
-			// aapt resource value: 0x7f0900b1
-			public const int mr_group_expand_collapse = 2131296433;
+			// aapt resource value: 0x7f09009a
+			public const int mr_chooser_title = 2131296410;
 			
-			// aapt resource value: 0x7f0900a5
-			public const int mr_media_main_control = 2131296421;
-			
-			// aapt resource value: 0x7f0900a0
-			public const int mr_name = 2131296416;
-			
-			// aapt resource value: 0x7f0900a6
-			public const int mr_playback_control = 2131296422;
-			
-			// aapt resource value: 0x7f09009f
-			public const int mr_title_bar = 2131296415;
-			
-			// aapt resource value: 0x7f0900a8
-			public const int mr_volume_control = 2131296424;
+			// aapt resource value: 0x7f0900a3
+			public const int mr_close = 2131296419;
 			
 			// aapt resource value: 0x7f0900a9
-			public const int mr_volume_group_list = 2131296425;
+			public const int mr_control_divider = 2131296425;
+			
+			// aapt resource value: 0x7f0900af
+			public const int mr_control_playback_ctrl = 2131296431;
+			
+			// aapt resource value: 0x7f0900b2
+			public const int mr_control_subtitle = 2131296434;
+			
+			// aapt resource value: 0x7f0900b1
+			public const int mr_control_title = 2131296433;
+			
+			// aapt resource value: 0x7f0900b0
+			public const int mr_control_title_container = 2131296432;
+			
+			// aapt resource value: 0x7f0900a4
+			public const int mr_custom_control = 2131296420;
+			
+			// aapt resource value: 0x7f0900a5
+			public const int mr_default_control = 2131296421;
+			
+			// aapt resource value: 0x7f0900a0
+			public const int mr_dialog_area = 2131296416;
+			
+			// aapt resource value: 0x7f09009f
+			public const int mr_expandable_area = 2131296415;
+			
+			// aapt resource value: 0x7f0900b3
+			public const int mr_group_expand_collapse = 2131296435;
+			
+			// aapt resource value: 0x7f0900a7
+			public const int mr_media_main_control = 2131296423;
+			
+			// aapt resource value: 0x7f0900a2
+			public const int mr_name = 2131296418;
+			
+			// aapt resource value: 0x7f0900a8
+			public const int mr_playback_control = 2131296424;
+			
+			// aapt resource value: 0x7f0900a1
+			public const int mr_title_bar = 2131296417;
+			
+			// aapt resource value: 0x7f0900aa
+			public const int mr_volume_control = 2131296426;
 			
 			// aapt resource value: 0x7f0900ab
-			public const int mr_volume_item_icon = 2131296427;
+			public const int mr_volume_group_list = 2131296427;
 			
-			// aapt resource value: 0x7f0900ac
-			public const int mr_volume_slider = 2131296428;
+			// aapt resource value: 0x7f0900ad
+			public const int mr_volume_item_icon = 2131296429;
+			
+			// aapt resource value: 0x7f0900ae
+			public const int mr_volume_slider = 2131296430;
 			
 			// aapt resource value: 0x7f090026
 			public const int multiply = 2131296294;
 			
-			// aapt resource value: 0x7f090092
-			public const int navigation_header_container = 2131296402;
+			// aapt resource value: 0x7f090094
+			public const int navigation_header_container = 2131296404;
 			
 			// aapt resource value: 0x7f09003a
 			public const int never = 2131296314;
@@ -3396,20 +6452,20 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f09001d
 			public const int normal = 2131296285;
 			
-			// aapt resource value: 0x7f0900c1
-			public const int notification_background = 2131296449;
+			// aapt resource value: 0x7f0900c3
+			public const int notification_background = 2131296451;
 			
-			// aapt resource value: 0x7f0900bb
-			public const int notification_main_column = 2131296443;
+			// aapt resource value: 0x7f0900bd
+			public const int notification_main_column = 2131296445;
 			
-			// aapt resource value: 0x7f0900ba
-			public const int notification_main_column_container = 2131296442;
+			// aapt resource value: 0x7f0900bc
+			public const int notification_main_column_container = 2131296444;
 			
 			// aapt resource value: 0x7f09004b
 			public const int parallax = 2131296331;
 			
-			// aapt resource value: 0x7f090064
-			public const int parentPanel = 2131296356;
+			// aapt resource value: 0x7f090066
+			public const int parentPanel = 2131296358;
 			
 			// aapt resource value: 0x7f09000b
 			public const int parent_matrix = 2131296267;
@@ -3423,17 +6479,17 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f090007
 			public const int progress_horizontal = 2131296263;
 			
-			// aapt resource value: 0x7f090074
-			public const int radio = 2131296372;
+			// aapt resource value: 0x7f090076
+			public const int radio = 2131296374;
 			
 			// aapt resource value: 0x7f090049
 			public const int right = 2131296329;
 			
-			// aapt resource value: 0x7f0900c0
-			public const int right_icon = 2131296448;
+			// aapt resource value: 0x7f0900c2
+			public const int right_icon = 2131296450;
 			
-			// aapt resource value: 0x7f0900bc
-			public const int right_side = 2131296444;
+			// aapt resource value: 0x7f0900be
+			public const int right_side = 2131296446;
 			
 			// aapt resource value: 0x7f09000c
 			public const int save_image_matrix = 2131296268;
@@ -3450,53 +6506,53 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f090041
 			public const int scroll = 2131296321;
 			
-			// aapt resource value: 0x7f09006a
-			public const int scrollIndicatorDown = 2131296362;
+			// aapt resource value: 0x7f09006c
+			public const int scrollIndicatorDown = 2131296364;
 			
-			// aapt resource value: 0x7f090066
-			public const int scrollIndicatorUp = 2131296358;
+			// aapt resource value: 0x7f090068
+			public const int scrollIndicatorUp = 2131296360;
 			
-			// aapt resource value: 0x7f090067
-			public const int scrollView = 2131296359;
+			// aapt resource value: 0x7f090069
+			public const int scrollView = 2131296361;
 			
 			// aapt resource value: 0x7f090054
 			public const int scrollable = 2131296340;
 			
-			// aapt resource value: 0x7f09007f
-			public const int search_badge = 2131296383;
-			
-			// aapt resource value: 0x7f09007e
-			public const int search_bar = 2131296382;
+			// aapt resource value: 0x7f090081
+			public const int search_badge = 2131296385;
 			
 			// aapt resource value: 0x7f090080
-			public const int search_button = 2131296384;
-			
-			// aapt resource value: 0x7f090085
-			public const int search_close_btn = 2131296389;
-			
-			// aapt resource value: 0x7f090081
-			public const int search_edit_frame = 2131296385;
-			
-			// aapt resource value: 0x7f090087
-			public const int search_go_btn = 2131296391;
+			public const int search_bar = 2131296384;
 			
 			// aapt resource value: 0x7f090082
-			public const int search_mag_icon = 2131296386;
+			public const int search_button = 2131296386;
+			
+			// aapt resource value: 0x7f090087
+			public const int search_close_btn = 2131296391;
 			
 			// aapt resource value: 0x7f090083
-			public const int search_plate = 2131296387;
-			
-			// aapt resource value: 0x7f090084
-			public const int search_src_text = 2131296388;
-			
-			// aapt resource value: 0x7f090088
-			public const int search_voice_btn = 2131296392;
+			public const int search_edit_frame = 2131296387;
 			
 			// aapt resource value: 0x7f090089
-			public const int select_dialog_listview = 2131296393;
+			public const int search_go_btn = 2131296393;
 			
-			// aapt resource value: 0x7f090073
-			public const int shortcut = 2131296371;
+			// aapt resource value: 0x7f090084
+			public const int search_mag_icon = 2131296388;
+			
+			// aapt resource value: 0x7f090085
+			public const int search_plate = 2131296389;
+			
+			// aapt resource value: 0x7f090086
+			public const int search_src_text = 2131296390;
+			
+			// aapt resource value: 0x7f09008a
+			public const int search_voice_btn = 2131296394;
+			
+			// aapt resource value: 0x7f09008b
+			public const int select_dialog_listview = 2131296395;
+			
+			// aapt resource value: 0x7f090075
+			public const int shortcut = 2131296373;
 			
 			// aapt resource value: 0x7f090022
 			public const int showCustom = 2131296290;
@@ -3507,23 +6563,23 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f090024
 			public const int showTitle = 2131296292;
 			
-			// aapt resource value: 0x7f0900c5
-			public const int sliding_tabs = 2131296453;
+			// aapt resource value: 0x7f0900c7
+			public const int sliding_tabs = 2131296455;
 			
-			// aapt resource value: 0x7f09008a
-			public const int smallLabel = 2131296394;
+			// aapt resource value: 0x7f09008c
+			public const int smallLabel = 2131296396;
 			
-			// aapt resource value: 0x7f090091
-			public const int snackbar_action = 2131296401;
+			// aapt resource value: 0x7f090093
+			public const int snackbar_action = 2131296403;
 			
-			// aapt resource value: 0x7f090090
-			public const int snackbar_text = 2131296400;
+			// aapt resource value: 0x7f090092
+			public const int snackbar_text = 2131296402;
 			
 			// aapt resource value: 0x7f090042
 			public const int snap = 2131296322;
 			
-			// aapt resource value: 0x7f090063
-			public const int spacer = 2131296355;
+			// aapt resource value: 0x7f090065
+			public const int spacer = 2131296357;
 			
 			// aapt resource value: 0x7f090008
 			public const int split_action_bar = 2131296264;
@@ -3540,14 +6596,17 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f09004a
 			public const int start = 2131296330;
 			
-			// aapt resource value: 0x7f0900b7
-			public const int status_bar_latest_event_content = 2131296439;
+			// aapt resource value: 0x7f0900b9
+			public const int status_bar_latest_event_content = 2131296441;
 			
-			// aapt resource value: 0x7f090075
-			public const int submenuarrow = 2131296373;
+			// aapt resource value: 0x7f090077
+			public const int submenuarrow = 2131296375;
 			
-			// aapt resource value: 0x7f090086
-			public const int submit_area = 2131296390;
+			// aapt resource value: 0x7f090088
+			public const int submit_area = 2131296392;
+			
+			// aapt resource value: 0x7f090059
+			public const int surface = 2131296345;
 			
 			// aapt resource value: 0x7f09001e
 			public const int tabMode = 2131296286;
@@ -3558,14 +6617,14 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f09001a
 			public const int text2 = 2131296282;
 			
-			// aapt resource value: 0x7f090069
-			public const int textSpacerNoButtons = 2131296361;
+			// aapt resource value: 0x7f09006b
+			public const int textSpacerNoButtons = 2131296363;
 			
-			// aapt resource value: 0x7f090068
-			public const int textSpacerNoTitle = 2131296360;
+			// aapt resource value: 0x7f09006a
+			public const int textSpacerNoTitle = 2131296362;
 			
-			// aapt resource value: 0x7f090097
-			public const int text_input_password_toggle = 2131296407;
+			// aapt resource value: 0x7f090099
+			public const int text_input_password_toggle = 2131296409;
 			
 			// aapt resource value: 0x7f090014
 			public const int textinput_counter = 2131296276;
@@ -3573,29 +6632,32 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f090015
 			public const int textinput_error = 2131296277;
 			
-			// aapt resource value: 0x7f0900bd
-			public const int time = 2131296445;
+			// aapt resource value: 0x7f09005a
+			public const int texture = 2131296346;
+			
+			// aapt resource value: 0x7f0900bf
+			public const int time = 2131296447;
 			
 			// aapt resource value: 0x7f09001b
 			public const int title = 2131296283;
 			
+			// aapt resource value: 0x7f090072
+			public const int titleDividerNoCustom = 2131296370;
+			
 			// aapt resource value: 0x7f090070
-			public const int titleDividerNoCustom = 2131296368;
+			public const int title_template = 2131296368;
 			
-			// aapt resource value: 0x7f09006e
-			public const int title_template = 2131296366;
-			
-			// aapt resource value: 0x7f0900c6
-			public const int toolbar = 2131296454;
+			// aapt resource value: 0x7f0900c8
+			public const int toolbar = 2131296456;
 			
 			// aapt resource value: 0x7f09003d
 			public const int top = 2131296317;
 			
-			// aapt resource value: 0x7f09006d
-			public const int topPanel = 2131296365;
+			// aapt resource value: 0x7f09006f
+			public const int topPanel = 2131296367;
 			
-			// aapt resource value: 0x7f09008e
-			public const int touch_outside = 2131296398;
+			// aapt resource value: 0x7f090090
+			public const int touch_outside = 2131296400;
 			
 			// aapt resource value: 0x7f09000f
 			public const int transition_current_scene = 2131296271;
@@ -3624,11 +6686,11 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f090016
 			public const int view_offset_helper = 2131296278;
 			
-			// aapt resource value: 0x7f0900c8
-			public const int visible = 2131296456;
+			// aapt resource value: 0x7f0900ca
+			public const int visible = 2131296458;
 			
-			// aapt resource value: 0x7f0900aa
-			public const int volume_item_container = 2131296426;
+			// aapt resource value: 0x7f0900ac
+			public const int volume_item_container = 2131296428;
 			
 			// aapt resource value: 0x7f09003b
 			public const int withText = 2131296315;
@@ -3681,6 +6743,9 @@ namespace DXChartsGettingStarted.Droid
 			
 			// aapt resource value: 0x7f0b0002
 			public const int mr_controller_volume_group_list_fade_out_duration_ms = 2131427330;
+			
+			// aapt resource value: 0x7f0b000d
+			public const int pie_exploded_distance = 2131427341;
 			
 			// aapt resource value: 0x7f0b000b
 			public const int show_password_duration = 2131427339;
@@ -4064,6 +7129,9 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f0a0038
 			public const int character_counter_pattern = 2131361848;
 			
+			// aapt resource value: 0x7f0a003e
+			public const int library_name = 2131361854;
+			
 			// aapt resource value: 0x7f0a0000
 			public const int mr_button_content_description = 2131361792;
 			
@@ -4179,8 +7247,8 @@ namespace DXChartsGettingStarted.Droid
 			// aapt resource value: 0x7f0c0178
 			public const int Animation_Design_BottomSheetDialog = 2131493240;
 			
-			// aapt resource value: 0x7f0c019b
-			public const int AppCompatDialogStyle = 2131493275;
+			// aapt resource value: 0x7f0c019e
+			public const int AppCompatDialogStyle = 2131493278;
 			
 			// aapt resource value: 0x7f0c00b1
 			public const int Base_AlertDialog_AppCompat = 2131493041;
@@ -4684,10 +7752,19 @@ namespace DXChartsGettingStarted.Droid
 			public const int CardView_Light = 2131492878;
 			
 			// aapt resource value: 0x7f0c0199
-			public const int MainTheme = 2131493273;
+			public const int ChartTheme = 2131493273;
 			
 			// aapt resource value: 0x7f0c019a
-			public const int MainTheme_Base = 2131493274;
+			public const int ChartTheme_Dark = 2131493274;
+			
+			// aapt resource value: 0x7f0c019b
+			public const int ChartTheme_Light = 2131493275;
+			
+			// aapt resource value: 0x7f0c019c
+			public const int MainTheme = 2131493276;
+			
+			// aapt resource value: 0x7f0c019d
+			public const int MainTheme_Base = 2131493277;
 			
 			// aapt resource value: 0x7f0c002d
 			public const int Platform_AppCompat = 2131492909;
@@ -6323,6 +9400,16 @@ namespace DXChartsGettingStarted.Droid
 			
 			// aapt resource value: 11
 			public const int CardView_contentPaddingTop = 11;
+			
+			public static int[] ChartBase = new int[] {
+					16842752,
+					2130772427};
+			
+			// aapt resource value: 0
+			public const int ChartBase_android_theme = 0;
+			
+			// aapt resource value: 1
+			public const int ChartBase_renderMode = 1;
 			
 			public static int[] CollapsingToolbarLayout = new int[] {
 					2130772005,
