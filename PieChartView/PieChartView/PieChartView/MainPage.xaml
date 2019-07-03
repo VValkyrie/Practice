@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:PieChartView"
+             x:Class="PieChartView.MainPage"
+             xmlns:dxc="clr-namespace:DevExpress.XamarinForms.Charts;assembly=DevExpress.XamarinForms.Charts">
+ 
+    <ContentPage.BindingContext>
+        <local:ViewModel/>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Content>
+
+        <StackLayout>
+
+            <dxc:PieChartView x:Name="chart">
+
+            </dxc:PieChartView>
+
+            <StackLayout>
+                <!-- Place new controls here -->
+                <Label Text="Welcome to Xamarin.Forms!" 
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand" />
+            </StackLayout>
+
+        </StackLayout>
+
+
+    </ContentPage.Content>
+ 
+
+</ContentPage>

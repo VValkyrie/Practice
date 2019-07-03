@@ -1,0 +1,45 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>pdbonly</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="3.4.0.1008975" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DevExpress.Xamarin.Android.Charts">
+      <HintPath>..\..\..\..\..\..\Desktop\DevExpress.MobileUI.XamarinForms-19.1.2-20190515\DevExpress.Xamarin\Binaries\DevExpress.Xamarin.Android.Charts.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Xamarin.iOS.Charts">
+      <HintPath>..\..\..\..\..\..\Desktop\DevExpress.MobileUI.XamarinForms-19.1.2-20190515\DevExpress.Xamarin\Binaries\DevExpress.Xamarin.iOS.Charts.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XamarinForms.Charts">
+      <HintPath>..\..\..\..\..\..\Desktop\DevExpress.MobileUI.XamarinForms-19.1.2-20190515\DevExpress.Xamarin\Binaries\DevExpress.XamarinForms.Charts.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XamarinForms.Charts.Android">
+      <HintPath>..\..\..\..\..\..\Desktop\DevExpress.MobileUI.XamarinForms-19.1.2-20190515\DevExpress.Xamarin\Binaries\DevExpress.XamarinForms.Charts.Android.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XamarinForms.Charts.iOS">
+      <HintPath>..\..\..\..\..\..\Desktop\DevExpress.MobileUI.XamarinForms-19.1.2-20190515\DevExpress.Xamarin\Binaries\DevExpress.XamarinForms.Charts.iOS.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XamarinForms.Core">
+      <HintPath>..\..\..\..\..\..\Desktop\DevExpress.MobileUI.XamarinForms-19.1.2-20190515\DevExpress.Xamarin\Binaries\DevExpress.XamarinForms.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+  </ItemGroup>
+</Project>
