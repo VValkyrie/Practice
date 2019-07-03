@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:GridToData"
+             xmlns:vm="clr-namespace:GridToData.Data_Model"
+             x:Class="GridToData.MainPage"
+             xmlns:dxg="clr-namespace:DevExpress.XamarinForms.DataGrid;assembly=DevExpress.XamarinForms.Grid"
+             xmlns:vm1="clr-namespace:HeDataToGridloGrid.Data_Model">
+    <ContentPage.BindingContext>
+        <vm1:TestOrdersRepository/>
+    </ContentPage.BindingContext>
+    <dxg:DataGridView x:Name="grid" ItemsSource="{Binding Orders}">
+        <dxg:DataGridView.Columns>
+            <dxg:TextColumn FieldName="Product.Name" Caption="Product" Width="150" />
+            <dxg:NumberColumn FieldName="Product.UnitPrice" Caption="Price" 
+                          DisplayFormat="C0" MinWidth="100"/>
+            <dxg:NumberColumn FieldName="Quantity" MinWidth="100"/>
+            <dxg:NumberColumn FieldName="Total" 
+                          UnboundType="Integer" UnboundExpression="[Quantity] * [Product.UnitPrice]" 
+                          IsReadOnly="True" DisplayFormat="C0" MinWidth="100"/>
+            <dxg:DateColumn FieldName="Date" DisplayFormat="d" MinWidth="100"/>
+            <dxg:SwitchColumn FieldName="Shipped" MinWidth="100"/>
+        </dxg:DataGridView.Columns>
+    </dxg:DataGridView>
+</ContentPage>
